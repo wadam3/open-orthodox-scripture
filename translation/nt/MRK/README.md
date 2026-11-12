@@ -1,12 +1,5 @@
-# Gospel according to Mark - translation pilot
+# Gospel according to Mark — deferred starter
 
-The first **proposed** text pilot is chapter 1. No translated verses are included yet. `001.json` is a planning record, not a Scripture release.
+This folder was part of an earlier New Testament-first bootstrap. **The active first pilot has changed to Genesis chapter 1**, from the Greek Septuagint. The placeholder \`001.json\` for Mark contains no translated verses, and no Greek New Testament source has been approved.
 
-## Rules
-
-- Work from a specifically selected and rights-reviewed Greek source edition.
-- Record verse text as original English translation and preserve sequential verse numbers.
-- Do not borrow contemporary English translation text without permission.
-- Use `planning`, `draft`, `editorial-review`, `orthodox-review`, or `approved` status.
-- Approval requires recorded source rights and named language and Orthodox reviewers.
-- Use the chapter's review fields for sign-off metadata, but retain detailed discussion and rationale in pull requests.
+The project intends to draft the full Septuagint-oriented Orthodox Old Testament first, then the New Testament. Do not label these planning files approved. See [roadmap](../../../docs/ROADMAP.md).

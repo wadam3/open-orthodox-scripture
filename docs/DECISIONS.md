@@ -1,16 +1,30 @@
 # Decision register
 
-| Topic | Current position | Status |
+Record what has actually been agreed, distinguish proposals from verified source and legal status, and avoid attributing the project to an individual's real-world identity.
+
+| Topic | Position | Status |
 | --- | --- | --- |
-| Orientation | Closely informed by the Eastern/Greek Orthodox tradition | Project goal |
-| Access | Intend a free and openly reusable translation | Project goal |
-| Contributor model | Maintainers need not share every commercial/audio publishing goal | Project goal |
-| Independent identity | Do not imply Church endorsement | Required safeguard |
-| First pilot | Mark chapter 1 | Proposed implementation choice |
-| New Testament first | Prove editorial workflow before considering full LXX Old Testament | Proposed sequencing |
-| Content license | CC BY 4.0 | Proposed; ratification pending |
-| Software license | MIT | Proposed; ratification pending |
-| Greek source edition | Not selected or rights-cleared | Open |
-| Orthodox reviewers | To be recruited and credentialed | Open |
-| Audio voice and delivery | Not selected | Open |
-| Fully local stack | Separate alternative, not a constraint on main plan | Research only |
+| Umbrella identity | **Open Orthodox Library**; this repository remains **Open Orthodox Scripture** | Working name; no GitHub organization created |
+| Tagline/approach | Experiment in open-source Orthodox publishing; experimenting with methods, not doctrine | Direction |
+| Mission | To make the Holy Scriptures and Orthodox Christian literature freely accessible to everyone through faithful translation, open collaboration, and unrestricted distribution. | Agreed |
+| Ecclesiastical status | Independent; no official Orthodox Church, jurisdiction, diocesan, or other ecclesiastical approval or endorsement claimed | Agreed disclaimer |
+| Public personal identity | Use collective project attribution rather than publishing the founder's personal identity | Privacy requirement |
+| Primary access | Base translation, ebooks, and individual-book YouTube audio should be free; open licensing permits third-party commercial use with attribution | Agreed direction |
+| Paid formats | Audible packaged books/Testaments/possible complete Bible, and paid print; buying is optional for access to the base text | Agreed direction |
+| Spotify | Explore free listening if distribution model and platform rules allow it | Optional |
+| Audio versions | Same narrator/master across channels by default; premium distinction only for meaningful improvements | Agreed |
+| Distribution rights | Prefer nonexclusive agreements preserving free versions; verify platform rules | Planned; legal/platform checks pending |
+| First pilot | **Genesis chapter 1** from a rights-reviewed Greek Septuagint edition | Agreed; exact edition unresolved |
+| Corpus sequence | Orthodox Septuagint-oriented Old Testament first, then Greek New Testament | Agreed |
+| Initial contributor timing | Complete the **entire provisional Bible draft before inviting external collaborators or qualified human reviewers** | Agreed process |
+| AI and human roles | AI may draft and cross-check; the complete first draft is provisional. Qualified human and Orthodox review follows before release as reviewed text | Required safeguard |
+| English register | Traditional versus contemporary style | Undecided |
+| Orthodox canon/book order | Must define and document possible tradition differences | Open |
+| Greek Septuagint edition | Exact edition, usage rights, and provenance | Open |
+| Greek NT source | Choose and rights-check later | Open |
+| Content license | CC BY 4.0 for original Scripture/notes/audio; commercial use with attribution | Preferred; formal ratification pending |
+| Code license | MIT | Preferred; formal ratification pending |
+| Publishing entity | Permanent publishing business is not the main public mission | Private future possibility; not project objective |
+| Fully self-hosted stack | Separate alternative to main GitHub-based work | Exploratory only |
+
+Next decisions: select the precise Septuagint edition, define the intended Orthodox OT inventory, settle translation conventions, and confirm licenses and attribution.

@@ -1,13 +1,15 @@
-# Initial GitHub issue backlog
+# Launch issues — revised priorities
 
-When the repository exists, file the following as separate issues, in this order:
+The initial GitHub issues were opened during a Mark/New Testament-first plan. The agreed project sequence has since changed to **Genesis 1 and the Septuagint-based Orthodox Old Testament first**, with qualified outside collaborators engaged only **after** completing a provisional full-Bible draft.
 
-1. **Ratify open licensing and contributor policy**: decide CC BY 4.0 for original text/audio and MIT for code, review contributor terms, mark third-party exclusions, and document attribution requirements.
-2. **Select a Greek New Testament source edition**: compare candidates for Orthodox suitability, provenance, textual policy, and legal reuse. Record an approved edition in `SOURCE_REGISTER.csv`.
-3. **Establish editor and Orthodox theological review roles**: recruit language editors and independent qualified reviewers, define credentials and final sign-off, and avoid suggesting official institutional endorsement.
-4. **Draft Mark chapter 1**: populate `translation/nt/MRK/001.json` with original English draft verses and notes linked to the approved Greek source; keep its status as draft pending review.
-5. **Approve Mark 1 text pilot**: language and Orthodox review, corrections, sign-offs, publication metadata, and release tag.
-6. **Prototype Mark 1 audiobook**: choose consented human/synthetic voice, pronunciation rules, reproducible audio production, listening QA, and accessible exports.
-7. **Recruit technical maintainers**: repository quality checks, issue triage, release conventions, accessibility, and onboarding; no requirement to share all publishing ambitions.
+Live issues should reflect the revised plan:
 
-The optional local-only infrastructure feasibility study should remain separate from the main delivery milestones.
+1. Ratify CC BY 4.0 for original Scripture/audio and MIT for code (attribution, contributor rights, commercial reuse, and excluded third-party materials).
+2. Research and rights-clear a Greek Septuagint Genesis edition, and define the Orthodox book inventory and textual policy.
+3. Design the eventual post-full-draft independent Orthodox and Greek-language review gates.
+4. Produce and internally audit a **provisional** original English Genesis 1 draft.
+5. Document review/release specifications to apply after the full provisional Bible draft exists.
+6. Plan free YouTube and paid Audible audio packaging, free Spotify feasibility, and the text-to-audio pipeline, without releasing unapproved text.
+7. Prepare a future contributor onboarding process; actual recruitment waits until the whole initial draft is complete.
+
+Refer to [Roadmap](ROADMAP.md), [Translation protocol](TRANSLATION_PROTOCOL.md), and [Publishing and distribution](PUBLISHING_DISTRIBUTION.md). The separate 100% self-hosted feasibility plan remains optional, not the main project's hosting constraint.

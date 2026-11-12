@@ -1,0 +1,19 @@
+{
+  "book_id": "GEN",
+  "book_title": "Genesis",
+  "chapter": 1,
+  "language": "en",
+  "status": "planning",
+  "source": {
+    "tradition": "Greek Septuagint",
+    "edition": null,
+    "reference": null,
+    "rights_reviewed": false
+  },
+  "review": {
+    "language_editor": null,
+    "orthodox_reviewer": null
+  },
+  "verses": [],
+  "notes": "Planning placeholder only. Source edition, Orthodox canon/verse mapping, translation style, and rights review are pending. No Scripture text has been imported or approved."
+}
