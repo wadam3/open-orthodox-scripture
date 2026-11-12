@@ -1,0 +1,18 @@
+{
+  "book_id": "MRK",
+  "book_title": "The Gospel according to Mark",
+  "chapter": 1,
+  "language": "en",
+  "status": "planning",
+  "source": {
+    "edition": null,
+    "reference": null,
+    "rights_reviewed": false
+  },
+  "review": {
+    "language_editor": null,
+    "orthodox_reviewer": null
+  },
+  "verses": [],
+  "notes": "Planning placeholder only: no translation or source edition approved."
+}
