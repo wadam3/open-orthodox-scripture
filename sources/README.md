@@ -9,6 +9,7 @@ This directory is for **independently verified public-domain source material** a
 - [`ot/`](ot/README.md): Old Testament source planning.
 - [`ot/greek/`](ot/greek/README.md): Proposed home for transcribed Greek Septuagint passages.
 - [`nt/`](nt/README.md): Reserved for New Testament source planning; no edition chosen.
+- [`patristic/`](patristic/README.md): Apostolic Fathers / early Church source evidence workspace (not biblical Scripture).
 
 Related locations remain authoritative for their respective purposes:
 

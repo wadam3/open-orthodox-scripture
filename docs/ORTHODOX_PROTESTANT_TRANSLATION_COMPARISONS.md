@@ -31,6 +31,14 @@ Create one stable **GTC-###** record here, plus a detailed book-specific record 
 
 **Cross-references:** If a comparison also involves a source edition's disputed reading, update its matching source-history document (such as [Swete source background](SWETE_SOURCE_BACKGROUND.md)) under the original source flag ID. A decision in this register does not substitute for the source-document and book-log resolution rule. The translation text and required verse note must link back to the same GTC record.
 
+## Mandatory early-Church primary-source check for tradition-based arguments
+
+When a proposed English rendering is justified by **apostolic tradition, patristic interpretation, or early Greek Orthodox reception**, seek direct testimony from verified **public-domain historical editions of the Apostolic Fathers**, using the [Apostolic Fathers source policy](APOSTOLIC_FATHERS_SOURCES.md). For each applicable \`GTC-###\` case record the precise ancient author/work/section, textual recension or disputed attribution, original language (Greek where available), verified historical edition and rights basis, a fresh project-created English explanation, and the specific bearing (or lack of bearing) on Greek-to-English wording.
+
+**Distinguish** (a) Greek textual evidence, (b) earliest Christian interpretation, and (c) later doctrinal explanations. An Apostolic Father is not automatically conclusive for the original sense of a biblical Greek word; alternative renderings still require grammatical analysis. Do not cite copyrighted modern commentaries or assume that every "Apostolic Fathers" attribution is authentic. If no admissible historical source is verified, keep the comparison open rather than inventing patristic support. Link detailed primary-source citations to the book's research notes and canonical source register. The historical writers predate the Protestant Reformation and should not be labeled "Orthodox versus Protestant" witnesses in their own time.
+
+**Initial patristic research leads:** \`GTC-004\` (2 Thessalonians 2:15) may benefit from carefully qualified study of First Clement and other genuine early testimony to tradition; \`GTC-005\` (Acts 20:28) may benefit from First Clement 42–44 and the genuine Ignatian letters on ministry. These are **leads, not verified interpretations or chosen English renderings**.
+
 ## Initial cases to investigate
 
 These are **research candidates, not accusations of mistranslation and not decisions to adopt a wording**. Short English alternatives below are independent explanatory glosses, not copied modern Bible quotations. Greek readings, historical variants, and church usage must still be verified against independently usable source editions before translation.

@@ -1,4 +1,4 @@
-# Translation protocol — provisional v0.4
+# Translation protocol — provisional v0.5
 
 **Scope:** Establish a repeatable, documented process for drafting an English Bible translation informed by the Eastern Orthodox tradition. First source tradition: Greek Septuagint; first pilot: **Genesis chapter 1**. The New Testament follows the Orthodox Old Testament in the initial drafting sequence.
 
@@ -39,6 +39,14 @@ Use the dedicated [Orthodox and Protestant Greek-to-English comparison register]
 **Required method:** distinguish different underlying Hebrew/Greek textual bases from *alternative English renderings of the same Greek*, and distinguish both from *later theological interpretation*. Document the actual original-language reading and context; viable English alternatives; Greek Orthodox use and other Christian interpretations accurately and without caricature; the project's chosen English rendering and evidence-based reasoning for choosing it; unresolved objections; decision date; and review status. Record **no decision** until the source has been verified.
 
 An Orthodox orientation does **not** authorize changing the Greek text to make it say something it does not say, or rejecting a Protestant-associated English wording merely because of its association. Do not call an alternative a mistranslation without demonstrating a specific linguistic error. Apply existing public-domain and no-permission rules, source-resolution documentation, and reader-footnote requirements. Keep choices provisional until qualified post-draft human review.
+
+## Apostolic Fathers as primary evidence for Orthodox interpretive tradition
+
+For interpretive or translation decisions involving ancient Church tradition, follow [Apostolic Fathers — primary-source evidence and rights policy](APOSTOLIC_FATHERS_SOURCES.md). Prioritize **the authentic ancient writings themselves**, preferably the **original Greek where extant**, as verified in an independently reusable **public-domain historical edition**. If the ancient passage survives in another language or is quoted by a later author, identify that transmission explicitly. Prefer an original project-made English rendering over copying existing translations. **Do not request or negotiate licenses.** A modern freely viewable translation, digital transcription, or commentary is **not** automatically public domain.
+
+For every significant appeal to an Apostolic Father, record the **named early work and section; original-language wording and its verified historical edition; attribution/recension confidence; exact citation and public-domain basis; what the author actually asserts; competing interpretations; and how the evidence supports, limits, or does not determine our English choice**. Link the citation to the relevant book's notes, source register, and, where applicable, the \`GTC-###\` entry in the Orthodox/Protestant comparison document and a reader footnote. Do not convert a Fathers' interpretation into a claim about a Greek biblical manuscript reading without independent textual evidence. Do not attribute the views of one early writer to the entire Eastern Orthodox Church or imply ecclesiastical approval.
+
+A translation choice with significant patristic support remains **provisional** until qualified later review. If no rights-safe primary patristic evidence has been verified, mark the claim **unverified / pending primary source** instead of citing a modern secondary account as if it were ancient testimony.
 
 ## Mandatory documentation when discrepancy flags are resolved
 
