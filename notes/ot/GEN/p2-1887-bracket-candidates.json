@@ -34,7 +34,10 @@
         "score_cap_percent": 90
       },
       "confidence_label": "reasonably supported working reading",
-      "confidence_reasoning": "1887 photograph assessed high (base 80). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 85% (cap 90%); not a calibrated probability or certified 1887 transcript. midword restoration"
+      "confidence_reasoning": "1887 photograph assessed high (base 80). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 85% (cap 90%); not a calibrated probability or certified 1887 transcript. midword restoration",
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_source_proofing",
+      "verification_status": "pending"
     },
     {
       "id": "GEN-001-020-B",
@@ -61,7 +64,10 @@
         "score_cap_percent": 90
       },
       "confidence_label": "reasonably supported working reading",
-      "confidence_reasoning": "1887 photograph assessed high (base 80). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 85% (cap 90%); not a calibrated probability or certified 1887 transcript. midword restoration of second word"
+      "confidence_reasoning": "1887 photograph assessed high (base 80). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 85% (cap 90%); not a calibrated probability or certified 1887 transcript. midword restoration of second word",
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_source_proofing",
+      "verification_status": "pending"
     },
     {
       "id": "GEN-001-021-A",
@@ -88,7 +94,11 @@
         "score_cap_percent": 90
       },
       "confidence_label": "plausible; enlargement recommended",
-      "confidence_reasoning": "1887 photograph assessed high (base 80). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. The candidate corrects/replaces an earlier incompatible bracket reading (-10). Subjective editorial score 75% (cap 90%); not a calibrated probability or certified 1887 transcript. earlier whole-word bracket withdrawn; end inside μεγάλα"
+      "confidence_reasoning": "1887 photograph assessed high (base 80). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. The candidate corrects/replaces an earlier incompatible bracket reading (-10). Subjective editorial score 75% (cap 90%); not a calibrated probability or certified 1887 transcript. earlier whole-word bracket withdrawn; end inside μεγάλα",
+      "requires_rigorous_verification_later": true,
+      "verification_queue": "deferred_rigorous_verification",
+      "verification_status": "pending",
+      "flag_reason": "Editorial bracket-confidence estimate 75% is below the 80% threshold; perform rigorous image-to-character and bracket-boundary re-verification at a later date."
     },
     {
       "id": "GEN-001-021-B",
@@ -115,7 +125,11 @@
         "score_cap_percent": 90
       },
       "confidence_label": "plausible; enlargement recommended",
-      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 70% (cap 90%); not a calibrated probability or certified 1887 transcript. check opening after noun and exact word form"
+      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 70% (cap 90%); not a calibrated probability or certified 1887 transcript. check opening after noun and exact word form",
+      "requires_rigorous_verification_later": true,
+      "verification_queue": "deferred_rigorous_verification",
+      "verification_status": "pending",
+      "flag_reason": "Editorial bracket-confidence estimate 70% is below the 80% threshold; perform rigorous image-to-character and bracket-boundary re-verification at a later date."
     },
     {
       "id": "GEN-001-021-C",
@@ -142,7 +156,11 @@
         "score_cap_percent": 90
       },
       "confidence_label": "plausible; enlargement recommended",
-      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 70% (cap 90%); not a calibrated probability or certified 1887 transcript. long restored clause"
+      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 70% (cap 90%); not a calibrated probability or certified 1887 transcript. long restored clause",
+      "requires_rigorous_verification_later": true,
+      "verification_queue": "deferred_rigorous_verification",
+      "verification_status": "pending",
+      "flag_reason": "Editorial bracket-confidence estimate 70% is below the 80% threshold; perform rigorous image-to-character and bracket-boundary re-verification at a later date."
     },
     {
       "id": "GEN-001-021-D",
@@ -169,7 +187,11 @@
         "score_cap_percent": 90
       },
       "confidence_label": "plausible; enlargement recommended",
-      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 70% (cap 90%); not a calibrated probability or certified 1887 transcript. intra-word restoration"
+      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 70% (cap 90%); not a calibrated probability or certified 1887 transcript. intra-word restoration",
+      "requires_rigorous_verification_later": true,
+      "verification_queue": "deferred_rigorous_verification",
+      "verification_status": "pending",
+      "flag_reason": "Editorial bracket-confidence estimate 70% is below the 80% threshold; perform rigorous image-to-character and bracket-boundary re-verification at a later date."
     },
     {
       "id": "GEN-001-021-E",
@@ -196,7 +218,11 @@
         "score_cap_percent": 90
       },
       "confidence_label": "plausible; enlargement recommended",
-      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 70% (cap 90%); not a calibrated probability or certified 1887 transcript. verse close; check punctuation"
+      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 70% (cap 90%); not a calibrated probability or certified 1887 transcript. verse close; check punctuation",
+      "requires_rigorous_verification_later": true,
+      "verification_queue": "deferred_rigorous_verification",
+      "verification_status": "pending",
+      "flag_reason": "Editorial bracket-confidence estimate 70% is below the 80% threshold; perform rigorous image-to-character and bracket-boundary re-verification at a later date."
     },
     {
       "id": "GEN-001-022-A",
@@ -223,7 +249,11 @@
         "score_cap_percent": 90
       },
       "confidence_label": "plausible; enlargement recommended",
-      "confidence_reasoning": "1887 photograph assessed high (base 80). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. The candidate corrects/replaces an earlier incompatible bracket reading (-10). Subjective editorial score 75% (cap 90%); not a calibrated probability or certified 1887 transcript. bracket starts inside θεός"
+      "confidence_reasoning": "1887 photograph assessed high (base 80). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. The candidate corrects/replaces an earlier incompatible bracket reading (-10). Subjective editorial score 75% (cap 90%); not a calibrated probability or certified 1887 transcript. bracket starts inside θεός",
+      "requires_rigorous_verification_later": true,
+      "verification_queue": "deferred_rigorous_verification",
+      "verification_status": "pending",
+      "flag_reason": "Editorial bracket-confidence estimate 75% is below the 80% threshold; perform rigorous image-to-character and bracket-boundary re-verification at a later date."
     },
     {
       "id": "GEN-001-022-B",
@@ -250,7 +280,11 @@
         "score_cap_percent": 90
       },
       "confidence_label": "plausible; enlargement recommended",
-      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 70% (cap 90%); not a calibrated probability or certified 1887 transcript. full punctuation not independently confirmed"
+      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 70% (cap 90%); not a calibrated probability or certified 1887 transcript. full punctuation not independently confirmed",
+      "requires_rigorous_verification_later": true,
+      "verification_queue": "deferred_rigorous_verification",
+      "verification_status": "pending",
+      "flag_reason": "Editorial bracket-confidence estimate 70% is below the 80% threshold; perform rigorous image-to-character and bracket-boundary re-verification at a later date."
     },
     {
       "id": "GEN-001-022-C",
@@ -277,7 +311,11 @@
         "score_cap_percent": 90
       },
       "confidence_label": "plausible; enlargement recommended",
-      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 70% (cap 90%); not a calibrated probability or certified 1887 transcript. bracket closes within θαλάσσαις"
+      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 70% (cap 90%); not a calibrated probability or certified 1887 transcript. bracket closes within θαλάσσαις",
+      "requires_rigorous_verification_later": true,
+      "verification_queue": "deferred_rigorous_verification",
+      "verification_status": "pending",
+      "flag_reason": "Editorial bracket-confidence estimate 70% is below the 80% threshold; perform rigorous image-to-character and bracket-boundary re-verification at a later date."
     },
     {
       "id": "GEN-001-022-D",
@@ -304,7 +342,11 @@
         "score_cap_percent": 90
       },
       "confidence_label": "plausible; enlargement recommended",
-      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 70% (cap 90%); not a calibrated probability or certified 1887 transcript. midword twice"
+      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 70% (cap 90%); not a calibrated probability or certified 1887 transcript. midword twice",
+      "requires_rigorous_verification_later": true,
+      "verification_queue": "deferred_rigorous_verification",
+      "verification_status": "pending",
+      "flag_reason": "Editorial bracket-confidence estimate 70% is below the 80% threshold; perform rigorous image-to-character and bracket-boundary re-verification at a later date."
     },
     {
       "id": "GEN-001-022-023-E",
@@ -331,7 +373,11 @@
         "score_cap_percent": 90
       },
       "confidence_label": "low confidence; no source promotion",
-      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. A verse boundary or printed line-wrap complicates the bracket (-5). The candidate corrects/replaces an earlier incompatible bracket reading (-10). Subjective editorial score 55% (cap 90%); not a calibrated probability or certified 1887 transcript. bracket opens before end of verse 22 and closes inside 1:23 first verb; verse numeral is non-text"
+      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. A verse boundary or printed line-wrap complicates the bracket (-5). The candidate corrects/replaces an earlier incompatible bracket reading (-10). Subjective editorial score 55% (cap 90%); not a calibrated probability or certified 1887 transcript. bracket opens before end of verse 22 and closes inside 1:23 first verb; verse numeral is non-text",
+      "requires_rigorous_verification_later": true,
+      "verification_queue": "deferred_rigorous_verification",
+      "verification_status": "pending",
+      "flag_reason": "Editorial bracket-confidence estimate 55% is below the 80% threshold; perform rigorous image-to-character and bracket-boundary re-verification at a later date."
     },
     {
       "id": "GEN-001-023-F",
@@ -358,7 +404,11 @@
         "score_cap_percent": 90
       },
       "confidence_label": "unresolved",
-      "confidence_reasoning": "1887 photograph assessed low (base 45). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. A verse boundary or printed line-wrap complicates the bracket (-5). The candidate corrects/replaces an earlier incompatible bracket reading (-10). Subjective editorial score 35% (cap 90%); not a calibrated probability or certified 1887 transcript. the print wraps the verb at line break; hyphen is line layout and accent/punctuation need checking"
+      "confidence_reasoning": "1887 photograph assessed low (base 45). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. A verse boundary or printed line-wrap complicates the bracket (-5). The candidate corrects/replaces an earlier incompatible bracket reading (-10). Subjective editorial score 35% (cap 90%); not a calibrated probability or certified 1887 transcript. the print wraps the verb at line break; hyphen is line layout and accent/punctuation need checking",
+      "requires_rigorous_verification_later": true,
+      "verification_queue": "deferred_rigorous_verification",
+      "verification_status": "pending",
+      "flag_reason": "Editorial bracket-confidence estimate 35% is below the 80% threshold; perform rigorous image-to-character and bracket-boundary re-verification at a later date."
     },
     {
       "id": "GEN-001-024-A",
@@ -385,7 +435,11 @@
         "score_cap_percent": 90
       },
       "confidence_label": "plausible; enlargement recommended",
-      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 70% (cap 90%); not a calibrated probability or certified 1887 transcript. bracket starts inside command"
+      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 70% (cap 90%); not a calibrated probability or certified 1887 transcript. bracket starts inside command",
+      "requires_rigorous_verification_later": true,
+      "verification_queue": "deferred_rigorous_verification",
+      "verification_status": "pending",
+      "flag_reason": "Editorial bracket-confidence estimate 70% is below the 80% threshold; perform rigorous image-to-character and bracket-boundary re-verification at a later date."
     },
     {
       "id": "GEN-001-024-B",
@@ -412,7 +466,11 @@
         "score_cap_percent": 90
       },
       "confidence_label": "plausible; enlargement recommended",
-      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 70% (cap 90%); not a calibrated probability or certified 1887 transcript. whole-word supplement"
+      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 70% (cap 90%); not a calibrated probability or certified 1887 transcript. whole-word supplement",
+      "requires_rigorous_verification_later": true,
+      "verification_queue": "deferred_rigorous_verification",
+      "verification_status": "pending",
+      "flag_reason": "Editorial bracket-confidence estimate 70% is below the 80% threshold; perform rigorous image-to-character and bracket-boundary re-verification at a later date."
     },
     {
       "id": "GEN-001-024-C",
@@ -439,7 +497,11 @@
         "score_cap_percent": 90
       },
       "confidence_label": "plausible; enlargement recommended",
-      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 70% (cap 90%); not a calibrated probability or certified 1887 transcript. split noun, restored location phrase"
+      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 70% (cap 90%); not a calibrated probability or certified 1887 transcript. split noun, restored location phrase",
+      "requires_rigorous_verification_later": true,
+      "verification_queue": "deferred_rigorous_verification",
+      "verification_status": "pending",
+      "flag_reason": "Editorial bracket-confidence estimate 70% is below the 80% threshold; perform rigorous image-to-character and bracket-boundary re-verification at a later date."
     },
     {
       "id": "GEN-001-024-D",
@@ -466,7 +528,11 @@
         "score_cap_percent": 90
       },
       "confidence_label": "plausible; enlargement recommended",
-      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 70% (cap 90%); not a calibrated probability or certified 1887 transcript. end of command"
+      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 70% (cap 90%); not a calibrated probability or certified 1887 transcript. end of command",
+      "requires_rigorous_verification_later": true,
+      "verification_queue": "deferred_rigorous_verification",
+      "verification_status": "pending",
+      "flag_reason": "Editorial bracket-confidence estimate 70% is below the 80% threshold; perform rigorous image-to-character and bracket-boundary re-verification at a later date."
     },
     {
       "id": "GEN-001-025-A",
@@ -493,7 +559,11 @@
         "score_cap_percent": 90
       },
       "confidence_label": "plausible; enlargement recommended",
-      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 70% (cap 90%); not a calibrated probability or certified 1887 transcript. restored animal class"
+      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 70% (cap 90%); not a calibrated probability or certified 1887 transcript. restored animal class",
+      "requires_rigorous_verification_later": true,
+      "verification_queue": "deferred_rigorous_verification",
+      "verification_status": "pending",
+      "flag_reason": "Editorial bracket-confidence estimate 70% is below the 80% threshold; perform rigorous image-to-character and bracket-boundary re-verification at a later date."
     },
     {
       "id": "GEN-001-025-B",
@@ -520,7 +590,11 @@
         "score_cap_percent": 90
       },
       "confidence_label": "low confidence; no source promotion",
-      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. The candidate corrects/replaces an earlier incompatible bracket reading (-10). Subjective editorial score 60% (cap 90%); not a calibrated probability or certified 1887 transcript. partial word at both boundaries"
+      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. The candidate corrects/replaces an earlier incompatible bracket reading (-10). Subjective editorial score 60% (cap 90%); not a calibrated probability or certified 1887 transcript. partial word at both boundaries",
+      "requires_rigorous_verification_later": true,
+      "verification_queue": "deferred_rigorous_verification",
+      "verification_status": "pending",
+      "flag_reason": "Editorial bracket-confidence estimate 60% is below the 80% threshold; perform rigorous image-to-character and bracket-boundary re-verification at a later date."
     },
     {
       "id": "GEN-001-025-C",
@@ -547,7 +621,11 @@
         "score_cap_percent": 90
       },
       "confidence_label": "plausible; enlargement recommended",
-      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 70% (cap 90%); not a calibrated probability or certified 1887 transcript. restoration within word"
+      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 70% (cap 90%); not a calibrated probability or certified 1887 transcript. restoration within word",
+      "requires_rigorous_verification_later": true,
+      "verification_queue": "deferred_rigorous_verification",
+      "verification_status": "pending",
+      "flag_reason": "Editorial bracket-confidence estimate 70% is below the 80% threshold; perform rigorous image-to-character and bracket-boundary re-verification at a later date."
     }
   ],
   "unresolved": [
@@ -558,5 +636,17 @@
   ],
   "confidence_method": "docs/GENESIS_BRACKET_CONFIDENCE_METHOD.md",
   "percentages_are": "Conservative heuristic editorial confidence in proposed original-photo bracket boundaries, not a statistically calibrated probability, source-letter certification, or correctness rate.",
-  "original_square_brackets_certified": false
+  "original_square_brackets_certified": false,
+  "review_rule": {
+    "threshold_percent": 80,
+    "comparison": "strictly below (< 80), not equal to 80",
+    "flag_field": "requires_rigorous_verification_later",
+    "flagged_action": "deferred rigorous verification against the original 1887 scan, including exact brackets/letters/diacritics and an independent second check",
+    "unflagged_action": "routine source proofing still required; no automatic certification",
+    "method": "docs/GENESIS_BRACKET_CONFIDENCE_METHOD.md"
+  },
+  "review_counts": {
+    "flagged_below_80": 18,
+    "not_flagged_at_or_above_80": 2
+  }
 }
