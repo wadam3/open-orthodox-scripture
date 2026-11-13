@@ -32,8 +32,11 @@ def sha256(path: Path) -> str:
 
 def greek_verse_numbers(text: str) -> list[int]:
     """Match both working-note styles without reading explanatory numbered lists."""
-    plain = re.findall(r"(?m)^(\d{1,2})\.\s+\S", text)
-    bold = re.findall(r"(?m)^\*\*(\d{1,2})\.\*\*\s+\S", text)
+    # Match only a verse number followed directly by a Greek letter, so numbered
+    # English research instructions ("1. Copy ...") are never miscounted as verses.
+    greek = r"[\u0370-\u03ff\u1f00-\u1fff]"
+    plain = re.findall(rf"(?m)^(\d{{1,2}})\.[ \t]+(?={greek})", text)
+    bold = re.findall(rf"(?m)^\*\*(\d{{1,2}})\.\*\*[ \t]+(?={greek})", text)
     return [int(x) for x in plain + bold]
 
 
