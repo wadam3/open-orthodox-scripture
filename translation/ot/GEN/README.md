@@ -1,6 +1,6 @@
 # Genesis — book rationale, source selection, chapter workflow
 
-**Status (2026-11-12):** Active first book. Genesis 1:1–31 now has a **complete provisional English draft only**; original 1887 page images are now checked for a **first-pass Greek/English meaning audit**, and the 1844 Brenton pages were compared afterward. The fully verified diplomatic Greek transcription, detailed bracket-source attribution, independent **second** verse audit, final narration register, and remaining Genesis chapters are still pending. Do not call it publication-ready or Church-approved.
+**Status (2026-11-12):** Genesis **chapters 1 and 2** now contain **56 provisional English verses and 56 corresponding Greek working readings** (31 + 25). Both text-only narration scripts exactly match their English verse files. Original 1887 photographic pages **1–4** and two AI-assisted meaning audits are documented. The repeatable structural, narration and SHA-256 checks **pass in GitHub Actions**. Precise first-edition bracket and Greek character verification, a separately independent Greek-English review, narrated audio listening and subsequent qualified human review are **not yet complete**. Neither chapter is publication-ready or Church-approved; see the [Genesis 1–2 pre-human QA report](../../../docs/GENESIS_1_2_PRE_HUMAN_QA.md).
 
 ## Why this Greek source
 
@@ -20,7 +20,9 @@
 
 Translate **Genesis 1, then Genesis 2, and so on through Genesis 50**, finishing every chapter's Greek-based draft, independent internal audit, decision notes, and mandatory reader notes before the provisional book-complete gate. Only after completing the whole Genesis book do we proceed to Exodus. The first chapter is a style-and-narration pilot; do not silently finalize wording before comparing aloud.
 
-- **Main chapter text:** [`001.json`](001.json) — all **31 verses drafted in provisional English**, **not a source-verified or approved chapter**.
+- **Main chapter texts:** [Genesis 1, 31 verses](001.json) and [Genesis 2, 25 verses](002.json) — **56 provisional English verses**, neither source-certified or publication-approved.
+- **Working Greek and notes for Genesis 2:** [25-verse research reading](../../../notes/ot/GEN/002.greek-working.md), [source-image audit](../../../notes/ot/GEN/002.source-audit.md), [tentative original brackets](../../../notes/ot/GEN/002.bracket-map.md), and [live verse verification log](../../../notes/ot/GEN/002.verification-log.md).
+- **Mechanical QA and checksum evidence:** [pre-human QA report](../../../docs/GENESIS_1_2_PRE_HUMAN_QA.md), [hash manifest](../../../docs/GENESIS_1_2_CONTENT_HASHES.json), [successful GitHub Actions run](https://github.com/wadam3/open-orthodox-scripture/actions/runs/43359844374).
 - **Chapter-level audit and source URLs:** [`notes/ot/GEN/001.md`](../../../notes/ot/GEN/001.md) — translation decisions and the **confirmed original 1887 bracket notices**, Genesis 1:8 Greek-only reading, and unresolved questions. [All 31 first-pass source checks](../../../notes/ot/GEN/001.source-audit.md).
 - **Original Greek intake:** [`sources/ot/greek/GEN/`](../../../sources/ot/greek/GEN/README.md) — transcription pending, do not import OCR or third-party digital text.
 - **Central project rules:** [Translation Protocol v0.8](../../../docs/TRANSLATION_PROTOCOL.md) and [audio plan](../../../docs/AUDIO_PLAN.md).
