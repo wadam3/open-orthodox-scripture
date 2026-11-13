@@ -1,4 +1,4 @@
-# Translation protocol — provisional v0.5
+# Translation protocol — provisional v0.6
 
 **Scope:** Establish a repeatable, documented process for drafting an English Bible translation informed by the Eastern Orthodox tradition. First source tradition: Greek Septuagint; first pilot: **Genesis chapter 1**. The New Testament follows the Orthodox Old Testament in the initial drafting sequence.
 
@@ -12,6 +12,14 @@
 6. **Do not claim approval until it exists.** No chapter is labeled approved until the human linguistic, Orthodox, editorial, and rights gates are complete.
 
 7. **Mandatory explanation of substantive differences.** Whenever a material difference in Greek witnesses, source wording, Orthodox textual usage, book order, verse numbering, or rendering is identified, preserve a separate decision record and attach a clear footnote or explanatory note to the affected passage. Never silently harmonize or invent a difference.
+
+## Approved book order and one-book-at-a-time completion
+
+The [approved 77-target sequence](BOOK_ORDER_AND_WORKFLOW.md) fixes the editorial **drafting order**, starting with Genesis chapter 1 and working through its final chapter before Exodus, continuing sequentially through **49 main Old Testament books**, **4 Maccabees as an appendix**, and **27 New Testament books**. No other main workspaces may be started out of order unless a new dated, recorded editorial decision authorizes the change. Keep every chapter traceable to exact source material, rights verification, original English drafts, internal audits, discrepancy/interpretive notes, and mandatory footnotes.
+
+**Provisional book-complete gate:** each required chapter exists and has passed the agreed internal checks, the source/verse mapping is accounted for, notes and footnotes are linked, and unresolved questions are openly listed. The book may then be marked **provisional — pending qualified external review**, but not **approved, publication-ready, or Church-authorized**. Final qualified language and Orthodox review still occurs **after the complete provisional Bible draft**, under the project's existing sequence.
+
+**History and rights:** the chosen order is our own editorial arrangement, not the exact order of a single ancient manuscript, and not a copied copyrighted modern Bible table of contents. See [ancient book-order alternatives](ANCIENT_BOOK_ORDER_COMPARISON.md), grounded in manuscript comparisons and patristic lists documented in Swete's public-domain 1900 study. Other book groupings, canon distinctions, the Prayer of Manasseh and Odes, Esdras mapping, and alternative forms of Greek Daniel remain visible textual/editorial questions.
 
 ## Phase A — Establish sources and book inventory
 

@@ -4,6 +4,8 @@ Proposed scope: **49 main books**, plus **4 Maccabees as an appendix** (50 works
 
 Each book has a translation workspace and a separate research/translation-notes workspace. Existing Genesis 1 planning files remain in place.
 
+**Approved drafting sequence:** Work through the books in the numbered order shown here, then 4 Maccabees as an appendix, and only then the 27 New Testament books. Finish each entire book to the provisional internal-review gate before beginning the next. The full list, detailed completion rules, and historical sources are in [the approved book order](../../docs/BOOK_ORDER_AND_WORKFLOW.md); [ancient alternatives](../../docs/ANCIENT_BOOK_ORDER_COMPARISON.md) explain where other manuscripts differ.
+
 ## Law (5)
 
 - [Genesis](GEN/README.md) · [notes](../../notes/ot/GEN/README.md)

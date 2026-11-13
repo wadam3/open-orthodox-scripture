@@ -46,6 +46,8 @@ This disclaimer applies to this repository and should accompany future print, di
 ## Project documents
 
 - [Translation protocol](docs/TRANSLATION_PROTOCOL.md)
+- [Approved book order and one-book-at-a-time workflow](docs/BOOK_ORDER_AND_WORKFLOW.md)
+- [Ancient biblical book-order alternatives and historical sources](docs/ANCIENT_BOOK_ORDER_COMPARISON.md)
 - [Orthodox and Protestant Greek-to-English translation comparisons](docs/ORTHODOX_PROTESTANT_TRANSLATION_COMPARISONS.md)
 - [Apostolic Fathers primary-source policy](docs/APOSTOLIC_FATHERS_SOURCES.md)
 - [Why Swete? Source origin and rationale](docs/SWETE_SOURCE_BACKGROUND.md)

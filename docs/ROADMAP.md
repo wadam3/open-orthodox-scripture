@@ -11,7 +11,8 @@ All milestones are for an **independent**, not officially Church-approved projec
 - [x] Document intended free + paid print, ebook, YouTube, optional Spotify, and Audible distribution.
 - [ ] Finalize content/code license and contributor attribution, including commercial reuse and source exclusions.
 - [ ] Verify and approve a precise Greek Septuagint source edition for Genesis and its rights.
-- [ ] Decide Orthodox book inventory and order; log differences across traditions.
+- [x] Approve a working 49-main-OT-plus-4-Maccabees-appendix / 27-NT translation production order, with documented ancient alternatives: [approved order](BOOK_ORDER_AND_WORKFLOW.md), [historical comparison](ANCIENT_BOOK_ORDER_COMPARISON.md).
+- [ ] Resolve subsidiary content mapping decisions: Prayer of Manasseh/Odes, Esdras–Ezra/Nehemiah, Greek Esther/Daniel additions, and Greek Daniel text form.
 - [ ] Decide English register, names, translation/variant conventions, glossary, and style guide.
 
 ## Phase 1 — Establish and validate Genesis 1 draft protocol
@@ -25,7 +26,7 @@ All milestones are for an **independent**, not officially Church-approved projec
 
 ## Phase 2 — Complete entire provisional Orthodox Bible draft
 
-- [ ] Draft the rest of Genesis, then all books of the planned Septuagint-based Orthodox Old Testament.
+- [ ] Finish all Genesis chapters in numeric order, then each subsequent book from start to finish in [the approved 77-target sequence](BOOK_ORDER_AND_WORKFLOW.md), requiring provisional-book completion before moving on; complete the Old Testament appendix before the New Testament.
 - [ ] Rights-check and choose a Greek New Testament edition.
 - [ ] Draft the complete New Testament.
 - [ ] Audit consistency, unresolved items, and completeness across the entire planned canon.

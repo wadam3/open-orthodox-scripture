@@ -22,7 +22,8 @@ Record what has actually been agreed, distinguish proposals from verified source
 | Initial contributor timing | Complete the **entire provisional Bible draft before inviting external collaborators or qualified human reviewers** | Agreed process |
 | AI and human roles | AI may draft and cross-check; the complete first draft is provisional. Qualified human and Orthodox review follows before release as reviewed text | Required safeguard |
 | English register | Traditional versus contemporary style | Undecided |
-| Orthodox canon/book order | Must define and document possible tradition differences | Open |
+| Orthodox book production order | Approved: 49 main Old Testament workspaces in the existing index order, then 4 Maccabees appendix, then 27 New Testament books; finish one provisional book before starting the next. See [book order](BOOK_ORDER_AND_WORKFLOW.md) and [ancient alternatives](ANCIENT_BOOK_ORDER_COMPARISON.md). | Agreed editorial production order (2026-11-12), not universal ancient canon |
+| Ancient order evidence and unresolved supplementary placement | Swete's 1900 comparative tables for Vaticanus, Alexandrinus and Church lists; unresolved Prayer of Manasseh/Odes, Esdras split, Greek Daniel/Esther source mappings | Alternatives documented; mappings open |
 | Greek Septuagint edition | Exact edition, usage rights, and provenance | Open |
 | Greek NT source | Choose and rights-check later | Open |
 | Content license | CC BY 4.0 for original Scripture/notes/audio; commercial use with attribution | Preferred; formal ratification pending |
@@ -30,4 +31,4 @@ Record what has actually been agreed, distinguish proposals from verified source
 | Publishing entity | Permanent publishing business is not the main public mission | Private future possibility; not project objective |
 | Fully self-hosted stack | Separate alternative to main GitHub-based work | Exploratory only |
 
-Next decisions: select the precise Septuagint edition, define the intended Orthodox OT inventory, settle translation conventions, and confirm licenses and attribution.
+Next decisions: verify the first Greek source text and provenance, resolve supplementary text placement/source mappings, settle English translation conventions, and confirm license/attribution. The editorial 77-target drafting order is established.
