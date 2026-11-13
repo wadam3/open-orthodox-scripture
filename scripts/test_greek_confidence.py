@@ -137,6 +137,8 @@ class ConfidenceFormulaTests(unittest.TestCase):
         self.assertTrue(qa.validate_review(bad, "bracket"))
         letter = copy.deepcopy(obj)
         del letter["original_square_brackets_certified"]
+        del letter["editorial_confidence_percent"]
+        letter["editorial_letter_confidence_percent"] = 75
         letter["independent_1887_character_certified"] = True
         letter["diacritics_and_punctuation_proofread"] = False
         self.assertTrue(qa.validate_review(letter, "letter"))
