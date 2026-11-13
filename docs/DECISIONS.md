@@ -15,6 +15,9 @@ Record what has actually been agreed, distinguish proposals from verified source
 | Audio versions | Same narrator/master across channels by default; premium distinction only for meaningful improvements | Agreed |
 | Distribution rights | Prefer nonexclusive agreements preserving free versions; verify platform rules | Planned; legal/platform checks pending |
 | First pilot | **Genesis chapter 1** from a rights-reviewed Greek Septuagint edition | Agreed; exact edition unresolved |
+| Third-party source permissions | Do not request or negotiate licenses. Only independently verified public-domain source material and original project-created content enter the reusable corpus | Agreed project constraint |
+| Proprietary naming and copying | Avoid proprietary names, copied editorial text, and brand references in reader-facing content; keep necessary factual source provenance internally | Agreed project constraint |
+| Textual discrepancies | Every verified, substantive difference requires a separate book-specific decision log and a reader-facing footnote/explainer, including accessible audio notes | Agreed protocol rule |
 | Corpus sequence | Orthodox Septuagint-oriented Old Testament first, then Greek New Testament | Agreed |
 | Initial contributor timing | Complete the **entire provisional Bible draft before inviting external collaborators or qualified human reviewers** | Agreed process |
 | AI and human roles | AI may draft and cross-check; the complete first draft is provisional. Qualified human and Orthodox review follows before release as reviewed text | Required safeguard |

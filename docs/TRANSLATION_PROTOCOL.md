@@ -1,4 +1,4 @@
-# Translation protocol — provisional v0.1
+# Translation protocol — provisional v0.2
 
 **Scope:** Establish a repeatable, documented process for drafting an English Bible translation informed by the Eastern Orthodox tradition. First source tradition: Greek Septuagint; first pilot: **Genesis chapter 1**. The New Testament follows the Orthodox Old Testament in the initial drafting sequence.
 
@@ -8,16 +8,33 @@
 2. **Independent and not Church-approved.** Do not describe translations as sponsored, authorized, or approved by an Orthodox Church or jurisdiction. Qualified individual reviews are not institutional endorsement.
 3. **No outside collaborators during the initial full-Bible drafting phase.** The founder coordinates internal AI-assisted production through completion of a **provisional draft of the entire intended Orthodox canon**. Outside translators, technical maintainers, and language/Orthodox reviewers are invited afterward. Public repository visibility is not a solicitation for immediate contributions.
 4. **AI is never an authority.** AI drafts and AI cross-checks are provisional evidence, not independent scholarly or pastoral approval.
-5. **Rights and provenance first.** Ancient texts are not automatically equivalent to modern editions, digitizations, apparatus, notes, or English translations. Document exact sources and permissions before importing or distributing them.
+5. **Rights and provenance first, with no permission-seeking.** The project will not seek or negotiate licenses or permissions from third parties for source texts. Use independently verified public-domain source material and original project-created content; reject third-party editions, digital transcriptions, notes, translations, or other materials whose copying or redistribution depends on permission, a restrictive license, or uncertain rights. Document provenance and the public-domain basis before import. Our eventual license for *our own original work* is a separate question.
 6. **Do not claim approval until it exists.** No chapter is labeled approved until the human linguistic, Orthodox, editorial, and rights gates are complete.
+
+7. **Mandatory explanation of substantive differences.** Whenever a material difference in Greek witnesses, source wording, Orthodox textual usage, book order, verse numbering, or rendering is identified, preserve a separate decision record and attach a clear footnote or explanatory note to the affected passage. Never silently harmonize or invent a difference.
 
 ## Phase A — Establish sources and book inventory
 
 - Enumerate the planned Orthodox Old Testament books, additions, and order, and record unresolved jurisdictional variations as explicit editorial decisions.
 - Identify a specific Greek Septuagint edition for Genesis, including editor, publication details, provenance, stable reference, textual conventions, and the legal basis for its use. Do not import copyrighted apparatus, introductions, annotations, or digital editions without rights.
 - Document any base-text variants, orthography choices, verse numbering, book names, and how the New Testament edition will later be chosen.
-- Register every imported source in \`docs/SOURCE_REGISTER.csv\`; do not mark rights reviewed until verified.
+- Register every imported source in \`docs/SOURCE_REGISTER.csv\`; do not mark rights reviewed until independently verified as public domain or original project-created material. Do not request third-party permission or accept source terms that require a special license.
 - Establish terminology and proper-name glossaries; choose the traditional-versus-modern English register only after comparison samples, not by default.
+
+## Mandatory discrepancy footnotes and neutral source language
+
+**Trigger:** A substantive discrepancy is detected between independently usable ancient witnesses or between our working base and a documented Orthodox textual tradition. This includes meaningful wording differences, omitted or added passages, names, numbering, sequence, canon placement, and Greek version traditions (for example, alternative forms of a biblical book). Pure punctuation or spelling changes without interpretive impact may be logged without a published footnote.
+
+**Workflow for every qualifying passage:**
+1. Open a numbered entry in the book's separate notes workspace, with book/chapter/verse, kind of difference, exact independently verifiable public-domain witness references, and date.
+2. Describe the readings in original, plain language. Identify what is known, what is uncertain, whether the difference affects meaning, and why a rendering was chosen or left provisional.
+3. Attach a concise, neutral footnote or explanation to the relevant verse or book section, with a stable note ID linking to the detailed record. Do not claim that a Church has officially endorsed a particular reading.
+4. Run an independent internal check that every flagged substantive discrepancy has its matching reader-facing note. Preserve unresolved entries for later qualified human review.
+5. Export corresponding explanations in print footnotes, ebook-linked notes, and accessible notes accompanying audio (spoken selectively when necessary for comprehension).
+
+**Rights and naming:** Do not copy a restricted edition's apparatus, modern translation, explanatory wording, proprietary content, or protected transcription. Do not mention proprietary publishing products or brands in ordinary reader-facing notes; use generic descriptions such as “another ancient Greek witness” when sufficient. Maintain precise bibliographic references **internally**, using verifiable public-domain manuscripts/editions, because omission of provenance would make a discrepancy impossible to audit. Historical source identification is factual documentation, not approval, sponsorship, or license dependence.
+
+**Evidence gate:** If a supposed difference cannot be substantiated independently from rights-safe material, record it as unverified, do not state it as fact or publish a misleading comparison, and leave the verse flagged for later review. A lack of reusable evidence cannot be fixed by stripping attribution or paraphrasing protected analysis.
 
 ## Phase B — Genesis 1 pilot
 
@@ -25,7 +42,7 @@
 2. **Analyze the Greek**: segment units, identify morphology/syntax, flag possible textual variants, idioms, technical terms, and theological stakes; link notes to precise references.
 3. **Draft original English**: produce a fresh English rendering of each verse. Avoid copying or lightly rewording protected published translations.
 4. **Independent internal audit**: compare Greek and draft verse by verse for omissions, additions, changed referents, negation, tense/aspect, genre, and consistency. Use a separate pass or tool and keep an issue log. This remains an AI-assisted internal check, not qualified human review.
-5. **Revise and log**: preserve alternatives, reasons for decisions, confidence/uncertainty, terminology choices, and unresolved questions; never silently resolve disputed readings.
+5. **Revise, footnote, and log**: preserve alternatives, reasons for decisions, confidence/uncertainty, terminology choices, and unresolved questions; insert reader-facing notes for each verified substantive discrepancy. Never silently resolve disputed readings.
 6. **Machine checks**: verify sequential verse IDs, chapter metadata, nonempty text for drafts, required fields, and consistency with glossaries. Run \`python3 scripts/validate_chapters.py\`.
 7. **Mark the artifact provisional**: status stays \`draft\` or \`editorial-review\` pending later qualified review. No approved label, publication-ready claim, or Church endorsement.
 8. **Retrospective**: refine the template, prompts, audit rubric, and style guide before scaling to Genesis 2.
@@ -49,17 +66,17 @@
 ## Phase E — Publications
 
 - After the appropriate human review gates, export a fixed and reproducible text release into free ebooks/digital files, print-ready assets, and narrated audiobooks.
-- Use the same approved text/version in all channels. Preserve attribution and independence disclaimer.
+- Use the same approved text/version in all channels. Preserve attribution, independence disclaimer, and all mandatory discrepancy explanations in the format appropriate to print, ebook, and accessible audio.
 - Produce narrated versions from approved text; prototype audio internally if useful but never mislabel it as reviewed Scripture.
 - Follow \`docs/PUBLISHING_DISTRIBUTION.md\` for paid Audible, free YouTube, possible Spotify, print formats, and publisher restrictions.
 
 ## Chapter record minimum
 
-Each draft should include: book ID, book title, chapter number, language, status, precise source edition and reference, rights status, ordered verses, translation notes/variants, terminology decisions, AI-assistance disclosure, version or revision, outstanding review questions, and eventual named human sign-offs.
+Each draft should include: book ID, book title, chapter number, language, status, precise source edition and reference, rights status, ordered verses, stable discrepancy-footnote IDs and separate evidence/log entries, translation notes/variants, terminology decisions, AI-assistance disclosure, version or revision, outstanding review questions, and eventual named human sign-offs.
 
 ## Decisions not yet made
 
-- Exact Septuagint edition and license/provenance; planned Orthodox canon and book order.
+- Exact independently usable public-domain Septuagint source and provenance; planned Orthodox canon and book order.
 - English register (traditional/liturgical versus modern-readable).
 - Precise versioning, citation, glossary, and manuscript-variant rules.
 - Greek New Testament source edition for later phases.

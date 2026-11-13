@@ -11,9 +11,13 @@
 ## Rights assessment and strict source handling
 
 - The historical 1887 volume is **public domain in the United States** based on publication date; the Internet Archive record also labels it NOT_IN_COPYRIGHT. This supports original translation work from the **1887 printed Greek source**, with transcription checked against page images. This is source-reuse research, not an opinion from legal counsel.
-- **Do not import or mirror modern digital Greek datasets without separate license review.** In particular, nathans/lxx-swete, derived from Open Greek and Latin, expressly licenses its digitized Greek data under **CC BY-SA 4.0** (https://github.com/nathans/lxx-swete). That is a distinct material/rights path from using the historical printed source and could complicate the proposed CC BY 4.0 translation and source packaging.
+- **Do not import modern third-party digital Greek datasets that depend on license terms, permission, or uncertain rights.** We will not request or negotiate permissions for source texts. Use the independently verified public-domain historical edition, with original transcription or another demonstrably public-domain pathway.
 - Do not treat OCR as a verified Greek text; check diacritics, word forms, verse boundaries, and variants against original pages. No copyrighted modern critical apparatus, notes, or translations may be copied merely because the ancient material is public domain.
-- If another digital transcription is later proposed, separately document its exact origin, license, corrections, and legal effect before importing it.
+- If another transcription is proposed, document its exact origin and affirmative public-domain basis first; do not import it if using or redistributing it requires a third-party license or permission.
+
+## Substantive differences
+
+When independently verifiable ancient witnesses or Orthodox textual usage differ materially from the working base, open a Genesis research-log entry and create a linked, neutrally worded footnote/explainer for the relevant passage. Do not copy modern proprietary apparatus or cite restricted publishers in reader-facing notes. If a difference cannot be verified using rights-safe evidence, mark it for research rather than stating it as fact. See docs/TRANSLATION_PROTOCOL.md.
 
 ## Orthodox textual context
 

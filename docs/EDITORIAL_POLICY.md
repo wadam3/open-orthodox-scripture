@@ -10,6 +10,14 @@ The first pilot is **Genesis chapter 1** from a specifically identified, rights-
 
 Record the full Orthodox Old Testament inventory and book order, with documented jurisdictional or textual variations. After the provisional Old Testament draft, choose a precise rights-reviewed Greek New Testament edition and document its relationship to Orthodox textual traditions.
 
+## Independent sources, discrepancies, and publication notes
+
+- **No third-party permission or licensing requests for source texts.** Base the project on verified public-domain textual material and independently created translation and notes. Do not import a modern edition, licensed transcription, commentary, apparatus, or audio performance when redistribution depends on third-party permission or restrictive conditions.
+- Record full identifying information and the public-domain basis for every actual source in the internal source register. Publishing generic descriptions does **not** remove the need to prove provenance or comply with rights; do not erase historically necessary references.
+- Whenever a meaningful variation is found in Greek witnesses, book arrangement, verse numbering, or documented Orthodox usage, create a separate book-specific research entry **and a linked footnote/explainer attached to the affected passage**. Explain the difference neutrally and note unresolved questions.
+- Reader-facing explanatory notes should avoid proprietary product/publisher names and copyrighted quotations. Use original language and references to independently reusable ancient witnesses. If evidence is only found in a restricted source, flag the issue for further research rather than copying or claiming to have verified it.
+- Carry substantive explanations into print and ebooks, with accessible accompanying notes for audio. No source comparison implies official Church approval.
+
 ## Translation conventions to decide
 
 - Style/register: whether to prefer traditional/liturgical diction or contemporary readable English. **Open decision**; compare short sample passages before finalizing.
