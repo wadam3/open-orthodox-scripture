@@ -36,3 +36,7 @@ All 31 English verses have been checked for meaning and narrative structure agai
 ## Working Greek transcription and first-edition correction
 
 The [Genesis 1:1–19 Greek working transcription](../../../notes/ot/GEN/001.greek-working.md) has been entered directly from **the selected Swete 1887 printed images** but remains unverified; it has **not** been imported into the approved Greek-source folder. The source check confirmed that **Genesis 1:14 explicitly includes governing day and night**, a phrase accidentally omitted from our English pilot; that clause is now restored in [the provisional English chapter](001.json), with reader note `GEN-001-TRN-014`. The [narration script](../../../audio/scripts/GEN/001.narration.txt) has been kept in sync. Full Greek transcription (including exact bracketed reconstructions from 1:20–31), an independent second audit, and qualified review remain required.
+
+## Remaining Greek text, still under verification
+
+A [provisional running-Greek reading for verses 1:20–31](../../../notes/ot/GEN/001.greek-working-20-31.md) is now recorded alongside the [first 19 verses](../../../notes/ot/GEN/001.greek-working.md). These **are research drafts, not an approved or fully diplomatic transcription**: the exact 1887 square brackets around editorial supplements in Alexandrinus lacunae are not yet transcribed and independently checked. Genesis 1 is still `draft` and must not advance to `internally checked` until the original 1887 source has been reconstructed faithfully in our own source file and cross-audited against English.

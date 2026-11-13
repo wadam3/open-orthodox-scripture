@@ -30,3 +30,7 @@ Notes are working materials, separate from the Scripture text and never a claim 
 ## 1887 original-image Greek transcription: first segment
 
 [Genesis 1:1–19 first-pass Greek working text](001.greek-working.md) — independently prepared manually from Swete 1887 printed pp. 1–2; **not yet certified**. The direct Greek source revealed an omitted “govern day and night” clause in our English 1:14, now corrected and linked to reader note `GEN-001-TRN-014`. Greek 1:20–31, printed brackets and a full second image audit remain open.
+
+## Genesis 1:20–31 working Greek and bracket-verification queue
+
+[Greek running-text draft for verses 20–31](001.greek-working-20-31.md) — source is Swete's **1887 printed pp. 2–3**; editorially supplied portions in **1:20–25 and 1:29–31** are **not yet mapped with exact printed brackets**, so this is **not** a complete diplomatic transcription or an internally checked chapter. Combined with [verses 1–19](001.greek-working.md), first-pass Greek readings now exist for all 31 verses, with explicit verification limits.
