@@ -62,3 +62,7 @@ The directly inspected 1887 printed pages revealed a material **English omission
 ## 1:20–31 Greek reading stage, 2026-11-12
 
 The [remaining twelve verses have an explicitly provisional **normalized running Greek draft**](../../../../notes/ot/GEN/001.greek-working-20-31.md), based on Swete's 1887 photographic pages [2](https://ccel.org/ccel/swete/lxx1/lxx1/png/0030=2.png) and [3](https://ccel.org/ccel/swete/lxx1/lxx1/png/0031=3.png). It is **not** a diplomatic transcription because the exact printed square-bracket spans at 1:20–25 and 1:29–2:3 are still **unrecorded**. The 1:26–28 verses have no special bracket notice in this passage, but also require a second proofread. **No Greek original-source files are imported or source-cleared**, and the `approved_for_reuse=false` register value stays unchanged.
+
+## Reproducible verification procedure and evidence (2026-11-12)
+
+The [written Greek source verification method](../../../../docs/GREEK_SOURCE_VERIFICATION_PROTOCOL.md) specifies original-image/edition pinning, verse-aligned diplomatic transcription, preservation of Swete's 1887 bracket and apparatus typography, separate independent proofing, normalization metadata, rights/source acceptance, and a future actual SHA-256 checksum. The [Genesis 1 all-verse status ledger](../../../../notes/ot/GEN/001.verification-log.md) tracks every verse's evidence and unresolved gates. **No diplomatic Greek source has passed import**; the first-pass running Greek for 1:20–31 lacks the printed bracket spans. Source-register `approved_for_reuse=false` remains unchanged.

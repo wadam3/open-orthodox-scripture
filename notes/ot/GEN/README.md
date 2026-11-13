@@ -34,3 +34,7 @@ Notes are working materials, separate from the Scripture text and never a claim 
 ## Genesis 1:20–31 working Greek and bracket-verification queue
 
 [Greek running-text draft for verses 20–31](001.greek-working-20-31.md) — source is Swete's **1887 printed pp. 2–3**; editorially supplied portions in **1:20–25 and 1:29–31** are **not yet mapped with exact printed brackets**, so this is **not** a complete diplomatic transcription or an internally checked chapter. Combined with [verses 1–19](001.greek-working.md), first-pass Greek readings now exist for all 31 verses, with explicit verification limits.
+
+## Method and live verification ledger
+
+[Full Greek source-verification procedure](../../../docs/GREEK_SOURCE_VERIFICATION_PROTOCOL.md) — photographic source identity, per-letter/diacritic transcription, bracket and apparatus preservation, independent translation recheck, rights/checksum and audio gates. [Genesis 1 per-verse verification ledger](001.verification-log.md) — **31 distinct entries**, with verified-versus-working status and current blockers. These are procedures and a live log; **the chapter is not independently checked yet**.

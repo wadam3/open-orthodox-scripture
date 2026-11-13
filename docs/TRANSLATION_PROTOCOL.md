@@ -91,6 +91,10 @@ Compare the meaning and translation options, **not** by copying, paraphrasing or
 
 **Evidence gate:** If a supposed difference cannot be substantiated independently from rights-safe material, record it as unverified, do not state it as fact or publish a misleading comparison, and leave the verse flagged for later review. A lack of reusable evidence cannot be fixed by stripping attribution or paraphrasing protected analysis.
 
+## Operational Greek-source verification evidence (2026-11-12)
+
+The **repeatable image-to-Greek, bracket/apparatus, second-pass translation and narration procedure** is defined in [Greek source verification protocol](GREEK_SOURCE_VERIFICATION_PROTOCOL.md). It includes the actual historical first-edition pages, source-intake controls, required per-verse evidence, discrepancy notes, checksum/commit checks, and acceptance barriers. The **Genesis 1 verse-by-verse live ledger** is at [`notes/ot/GEN/001.verification-log.md`](../notes/ot/GEN/001.verification-log.md). This is an operational supplement, **not an assertion of completed verification**: the Genesis 1 Greek candidates are unverified, several 1887 bracket spans are still unmapped, and the chapter remains `draft`.
+
 ## Phase B — Genesis 1 pilot
 
 1. **Fix the input**: exact source edition, Genesis 1 boundaries, chapter/verse identification, rights status, provenance, and a source-version identifier.

@@ -45,6 +45,9 @@ This disclaimer applies to this repository and should accompany future print, di
 
 ## Project documents
 
+For original Greek transcription and quality control, see the [source-verification procedure](docs/GREEK_SOURCE_VERIFICATION_PROTOCOL.md) and [Genesis 1 verse-by-verse verification log](notes/ot/GEN/001.verification-log.md). The published repository currently contains **provisional drafts**, not an independently certified Greek chapter.
+
+
 - [Translation protocol](docs/TRANSLATION_PROTOCOL.md)
 - [Approved book order and one-book-at-a-time workflow](docs/BOOK_ORDER_AND_WORKFLOW.md)
 - [Ancient biblical book-order alternatives and historical sources](docs/ANCIENT_BOOK_ORDER_COMPARISON.md)
