@@ -18,6 +18,17 @@ The numeric values are deliberately rounded to **5 percentage-point steps**. The
 
 **Important:** The later 1901-based Perseus transcription may suggest where to look, but gets **no numerical bonus**: it is a *different edition*, has electronic errors, and does not prove an 1887 bracket. The 1887 Alexandrinus lacuna footnotes support **that supplemented text exists within the stated range**, not where any individual `]` closes, and receive **no bonus** either.
 
+## Standing rule: deferred rigorous verification below 80% (adopted 2026-11-12)
+
+**Any editorial bracket candidate with a confidence estimate strictly below 80% must be flagged for a later, more rigorous check.** A score exactly equal to 80% is not flagged under this threshold. Each entry in the [printed-page-2 candidate register](../notes/ot/GEN/p2-1887-bracket-candidates.json) or [printed-page-3 candidate register](../notes/ot/GEN/p3-1887-bracket-candidates.json) must keep its numeric `editorial_confidence_percent` and method/reasoning, together with:
+
+- `requires_rigorous_verification_later: true` and `verification_queue: "deferred_rigorous_verification"` when the score is **below 80%**.
+- `requires_rigorous_verification_later: false` and `verification_queue: "routine_source_proofing"` when the score is **80% or higher**.
+
+For **both categories**, `verification_status` stays `pending` until actually reviewed, and `original_square_brackets_certified` remains `false` until full photographic source verification. **A high score does not constitute approval.** Upon any future score change, recalculate the flag and queue classification; never silently erase the recorded history or evidence. The later rigorous check should inspect the original 1887 image at adequate magnification, each `[`/`]` boundary, underlying letters, diacritics, line/verse transitions and apparatus, with the findings recorded.
+
+**Baseline at adoption:** 41 candidates; **34 flagged below 80%**, **7 at or above 80%**. The queue is a prioritization tool; the whole chapter still needs ordinary Greek character-level checking.
+
 ## Interpretation and required action
 
 | Estimated bracket-boundary confidence | Editorial label | Required next step |
