@@ -1,0 +1,22 @@
+{
+  "created_date": "2026-11-12 America/New_York",
+  "purpose": "SHA-256 of exact committed UTF-8 research, draft English, and narration files. These are NOT hashes of 1887 source images and do NOT certify exact Greek transcription.",
+  "source_id": "SWETE-1887-V1",
+  "sha256_of_exact_committed_content": {
+    "audio/scripts/GEN/001.narration.txt": "c7149703758d470ed51b0ef565e2023bc3337b52dc771f5d7e1fce4d3a6a0cd4",
+    "audio/scripts/GEN/002.narration.txt": "60836617b2bd467e60863a15914e7474ee00858562e5da70a53ae664d49a516f",
+    "notes/ot/GEN/001.greek-working-20-31.md": "3c473a8e0d9a2926239c9d0a33207b7ba45ccdde53c0679a5af3fac5165c1730",
+    "notes/ot/GEN/001.greek-working.md": "c14d79a81a388a6dd41d2facae79b7221c2feac2fb52ca8bb383a28930b19516",
+    "notes/ot/GEN/002.greek-working.md": "fbc5485f6419fd56636c1061486767d8e56b25ba361f4b35585fd1cfe6fe61bd",
+    "translation/ot/GEN/001.json": "59ee13972f3f8e90bf7925d67da777212466e24a5879d84720352ac24c88b355",
+    "translation/ot/GEN/002.json": "7f3f8859de56905509ba0046801e9001d82afcefd9829243068195a9003e43f1"
+  },
+  "source_image_urls": [
+    "https://ccel.org/ccel/swete/lxx1/lxx1/png/0029=1.png",
+    "https://ccel.org/ccel/swete/lxx1/lxx1/png/0030=2.png",
+    "https://ccel.org/ccel/swete/lxx1/lxx1/png/0031=3.png",
+    "https://ccel.org/ccel/swete/lxx1/lxx1/png/0032=4.png"
+  ],
+  "source_image_byte_hashes": "not obtained",
+  "verification_state": "mechanical identity only; diplomatic Greek check and independent qualification open"
+}
