@@ -1,0 +1,194 @@
+{
+  "book_id": "GEN",
+  "book_title": "Genesis",
+  "chapter": 2,
+  "language": "en",
+  "status": "draft",
+  "draft_scope": "Genesis 2:1–25 — complete provisional first English draft prepared from visual reference to Swete's 1887 Greek printed pages 3–4. NOT source-verified, independently checked, narrated, or approved for publication. Genesis 1 prior work is preserved; chapter 2 work may run ahead of final Genesis 1 QA.",
+  "source": {
+    "tradition": "Greek Septuagint",
+    "edition": "Henry Barclay Swete, The Old Testament in Greek According to the Septuagint, Volume I, Cambridge, first edition (1887)",
+    "source_register_id": "SWETE-1887-V1",
+    "reference": "Genesis 2:1–25, original printed pages 3–4. Page 3 contains Genesis 2:1–16; page 4 begins with 2:17 and includes 2:25.",
+    "source_url": "https://archive.org/details/oldtestamentingr01swet",
+    "printed_page_images": [
+      {
+        "printed_page": 3,
+        "verse_range": "Genesis 2:1–16",
+        "url": "https://ccel.org/ccel/swete/lxx1/lxx1/png/0031=3.png"
+      },
+      {
+        "printed_page": 4,
+        "verse_range": "Genesis 2:17–25",
+        "url": "https://ccel.org/ccel/swete/lxx1/lxx1/png/0032=4.png"
+      }
+    ],
+    "rights_reviewed": false,
+    "transcription_verified": false,
+    "note": "English-first pilot composed by consulting the first-edition Greek photographs; a full diacritic/bracket-preserving diplomatic Greek transcription and separate original-page accuracy audit remain pending. Swete's 1887 page 3 apparatus notes square-bracketed losses in surviving Alexandrinus at Genesis 1:29–2:3; those supplements are not proof of extant A text."
+  },
+  "review": {
+    "language_editor": null,
+    "orthodox_reviewer": null,
+    "independent_source_checker": null
+  },
+  "reader_notes": [
+    {
+      "id": "GEN-002-SRC-001",
+      "type": "manuscript_supplement",
+      "placement": "verses",
+      "verses": [
+        1,
+        2,
+        3
+      ],
+      "text": "Swete's 1887 printing marks editorially supplemented passages at the opening of this chapter because some Greek text is lost from Codex Alexandrinus. The bracketed text must be checked letter by letter from the original image and explained in the final source apparatus.",
+      "linked_research": "notes/ot/GEN/002.md",
+      "audio_policy": "Keep the chapter narration continuous; provide this as an accessible text or separate notes segment."
+    },
+    {
+      "id": "GEN-002-TRN-002",
+      "type": "edition_specific_wording",
+      "placement": "verse",
+      "verse": 2,
+      "text": "In the selected 1887 Greek printing, Genesis 2:2 says God completed his works on the sixth day and rested on the seventh day. Our provisional English retains that sequence; it must not be silently changed to the alternate wording found in some other traditions.",
+      "linked_research": "notes/ot/GEN/002.md",
+      "audio_policy": "Accessible note, not inserted into the uninterrupted narration."
+    },
+    {
+      "id": "GEN-002-TRN-006",
+      "type": "translation_choice",
+      "placement": "verse",
+      "verse": 6,
+      "text": "The Greek word translated 'spring' is πηγή, referring to a fountain or source of water; the rendering 'mist' is not assumed from a Hebrew-language version.",
+      "linked_research": "notes/ot/GEN/002.md",
+      "audio_policy": "Text note only."
+    },
+    {
+      "id": "GEN-002-TRN-018",
+      "type": "translation_choice",
+      "placement": "verse",
+      "verse": 18,
+      "text": "The first-person plural Greek wording 'Let us make' is preserved in Genesis 2:18. 'Corresponding to him' represents κατ᾽ αὐτόν; both wording and narration style remain open to qualified review.",
+      "linked_research": "notes/ot/GEN/002.md",
+      "audio_policy": "Text note only."
+    },
+    {
+      "id": "GEN-002-LEX-012",
+      "type": "lexical_question",
+      "placement": "verse",
+      "verse": 12,
+      "text": "The gemstone names in 2:12, including Greek ἄνθραξ and λίθος πράσινος, require a specialist lexical review before finalizing the reader's translation.",
+      "linked_research": "notes/ot/GEN/002.md",
+      "audio_policy": "Accessible note only."
+    }
+  ],
+  "verses": [
+    {
+      "verse": 1,
+      "text": "In the end, heaven and earth were completed, with all their ordered array."
+    },
+    {
+      "verse": 2,
+      "text": "And God completed on the sixth day the works he had made, and on the seventh day he rested from all the works he had made."
+    },
+    {
+      "verse": 3,
+      "text": "And God blessed the seventh day and made it holy, because on it he rested from all the works that God had begun to make."
+    },
+    {
+      "verse": 4,
+      "text": "This is the book of the origin of heaven and earth, when they came to be. In the day the Lord God made heaven and earth,"
+    },
+    {
+      "verse": 5,
+      "text": "before any green growth of the field had appeared on earth, and before any plant of the field had sprung up—for God had not sent rain upon the earth, and there was no human being to work the ground—"
+    },
+    {
+      "verse": 6,
+      "text": "a spring rose from the earth and watered the whole face of the ground."
+    },
+    {
+      "verse": 7,
+      "text": "And God formed the human being from dust of the ground and breathed into his face the breath of life; and the human being became a living soul."
+    },
+    {
+      "verse": 8,
+      "text": "And the Lord God planted a paradise in Eden, toward the east, and placed there the human being he had formed."
+    },
+    {
+      "verse": 9,
+      "text": "And God caused to grow from the earth every tree beautiful to look at and good for food, and the tree of life in the midst of paradise, and the tree of knowing good and evil."
+    },
+    {
+      "verse": 10,
+      "text": "A river flows out of Eden to water the paradise, and from there it divides into four branches."
+    },
+    {
+      "verse": 11,
+      "text": "The name of the first is Phison. It is the one that circles the whole land of Evilat, where the gold is."
+    },
+    {
+      "verse": 12,
+      "text": "The gold of that land is good. There too are the carbuncle and the green stone."
+    },
+    {
+      "verse": 13,
+      "text": "The name of the second river is Geon. It is the one that circles the whole land of Ethiopia."
+    },
+    {
+      "verse": 14,
+      "text": "The third river is the Tigris; it flows opposite Assyria. The fourth river is the Euphrates."
+    },
+    {
+      "verse": 15,
+      "text": "The Lord God took the human being he had formed and placed him in the paradise to work it and guard it."
+    },
+    {
+      "verse": 16,
+      "text": "And the Lord God commanded Adam, saying, “From every tree in the paradise you may freely eat,"
+    },
+    {
+      "verse": 17,
+      "text": "but from the tree of the knowledge of good and evil you shall not eat. On the day you eat from it, you shall surely die.”"
+    },
+    {
+      "verse": 18,
+      "text": "And the Lord God said, “It is not good for the human being to be alone. Let us make for him a helper corresponding to him.”"
+    },
+    {
+      "verse": 19,
+      "text": "And God formed from the earth all the wild animals of the field and all the birds of heaven, and brought them to Adam to see what he would call them. Whatever Adam called each living creature, that was its name."
+    },
+    {
+      "verse": 20,
+      "text": "And Adam gave names to all the livestock, all the birds of heaven, and all the wild animals of the field. But for Adam no helper like him was found."
+    },
+    {
+      "verse": 21,
+      "text": "And God caused a deep sleep to fall upon Adam, and he slept. God took one of his ribs and filled the place with flesh."
+    },
+    {
+      "verse": 22,
+      "text": "And the Lord God fashioned the rib he had taken from Adam into a woman and brought her to Adam."
+    },
+    {
+      "verse": 23,
+      "text": "And Adam said, “This now is bone of my bones and flesh of my flesh. She shall be called Woman, because she was taken from the man.”"
+    },
+    {
+      "verse": 24,
+      "text": "For this reason a man shall leave his father and mother and be joined to his wife, and the two shall become one flesh."
+    },
+    {
+      "verse": 25,
+      "text": "And both were naked, Adam and his wife, and they were not ashamed."
+    }
+  ],
+  "notes": "Provisional 25-verse original English draft aligned by verse to Swete's 1887 printed pp. 3–4; see notes/ot/GEN/002.md for source images, LXX-specific reading in 2:2, editorial brackets into 2:3, lexical/name decisions, and pending checks. Not an independent certified source transcription. No modern licensed English translation copied.",
+  "narration": {
+    "working_script": null,
+    "status": "Not prepared or auditioned; chapter 2 draft is not production-ready",
+    "spoken_verse_numbers_by_default": false
+  }
+}
