@@ -15,6 +15,14 @@ Audio is one output of the Scripture project alongside **free ebooks/text and pa
 9. Prefer **one identical narration/master** for free and paid versions. A separate premium production is warranted only if meaningfully better; a different voice alone is not a requirement.
 10. Publish required attribution and independent Church-status disclaimer with title/description/credits as supported.
 
+## Chapter-based source text and uninterrupted narration
+
+The working Bible is written **one book at a time, chapter by chapter**. Maintain **one editorial README per book** containing source rationale, historical edition, actual source URL(s), manuscript basis, rights status, process, unresolved choices, and progress. Each chapter is a **structured, verse-addressable JSON text** plus a separate chapter-specific research log (for example, `translation/ot/GEN/001.json` and `notes/ot/GEN/001.md`). Do not require a separate README for every chapter.
+
+Generate listening scripts from the approved verse text, not from Markdown research files. Keep the original order and wording without reading JSON keys, sigla, citation URLs, or scholarly audit language. Introduce the book and chapter naturally. **Omit spoken verse numbers by default** in continuous-listening editions while retaining them as machine-readable navigation marks for accessible/verse-addressable players. Pronunciation, punctuation-derived pauses, paragraphing, chapter transitions, and verse navigation are production metadata; no addition should silently change Scripture meaning.
+
+Reader-facing manuscript/translation footnotes must remain **findable and accessible** in print and ebooks and via companion audio transcript or an optional narrated notes segment. Critical notes necessary to understand disputed passages may be inserted at a deliberate, announced break; normal uninterrupted playback should not be cluttered with every research footnote. Test both audio and reading flows on Genesis 1 before declaring the register standard. Prototype scripts/voice tests remain unreleased until later human approval.
+
 ## Distribution safeguard
 
 Verify the **current** rules of Audible/ACX and any distributor **before** choosing exclusivity, AI narration, or commercial terms. Preserve nonexclusive distribution rights where possible to keep the same recording free on YouTube. Do not assume that Audible or Spotify will accept a given format or AI narration model.

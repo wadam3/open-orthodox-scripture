@@ -1,4 +1,4 @@
-# Translation protocol — provisional v0.7
+# Translation protocol — provisional v0.8
 
 **Scope:** Establish a repeatable, documented process for drafting an English Bible translation informed by the Eastern Orthodox tradition. First source tradition: Greek Septuagint; first pilot: **Genesis chapter 1**. The New Testament follows the Orthodox Old Testament in the initial drafting sequence.
 
@@ -20,6 +20,16 @@ The [approved 77-target sequence](BOOK_ORDER_AND_WORKFLOW.md) fixes the editoria
 **Provisional book-complete gate:** each required chapter exists and has passed the agreed internal checks, the source/verse mapping is accounted for, notes and footnotes are linked, and unresolved questions are openly listed. The book may then be marked **provisional — pending qualified external review**, but not **approved, publication-ready, or Church-authorized**. Final qualified language and Orthodox review still occurs **after the complete provisional Bible draft**, under the project's existing sequence.
 
 **History and rights:** the chosen order is our own editorial arrangement, not the exact order of a single ancient manuscript, and not a copied copyrighted modern Bible table of contents. See [ancient book-order alternatives](ANCIENT_BOOK_ORDER_COMPARISON.md), grounded in manuscript comparisons and patristic lists documented in Swete's public-domain 1900 study. Other book groupings, canon distinctions, the Prayer of Manasseh and Odes, Esdras mapping, and alternative forms of Greek Daniel remain visible textual/editorial questions.
+
+## Each book README, each chapter source log, and listening text
+
+**Mandatory sequence:** finish each entire book before the next; within the book, proceed in **chapter-number order**. **One `README.md` in every book folder** must summarize why that exact Greek source was chosen, editions considered and rejected, historical publication and rights evidence, the **actual website name and exact URL(s)** where the edition and page evidence were obtained, manuscript basis and limitations, crosswalks, outstanding controversies, progress, and links to its research notes. Update the book README as decisions change, not merely the central protocol.
+
+**Chapter artifacts:** store the independently produced original English in one numbered structured chapter record (for example, `translation/ot/GEN/001.json`), aligned to stable verse IDs, and a **separate chapter research file** (for example, `notes/ot/GEN/001.md`) documenting source URLs, physical page numbers, verified leaf indices/deep links if known, primary Greek page evidence, word-choice alternatives, internal audit, provenance of any Brenton comparison, and source/discrepancy footnote IDs. No separate README is required for each chapter: the book README is the stable entry point, while chapter notes preserve detailed accountability.
+
+**Exact URL rule:** for **every consulted source** record (a) source title/editor and **exact historical edition/printing**, (b) repository/library or website name, (c) **unmodified source URL**, (d) printed volume/page and verse range, (e) scan leaf index/deep link **only when independently confirmed**, (f) whether it is the actual Greek base, a historical English comparison, catalog/history, or an ancient witness; (g) rights basis and **what was actually accessed/verified**. An index URL is not proof that particular page readings were verified. Do not invent page references, treat OCR as inspected original Greek, or silently change to later editions or modern electronic source texts.
+
+**Audio-first but fidelity-first:** build clean continuous narration from the final chapter text, excluding source metadata, variant IDs and internal research commentary. Provide natural chapter boundaries, pacing/pronunciation guidance and verse-addressable navigation; do not automatically read every verse number or footnote. Preserve substantive reader-facing manuscript notes in ebook/print and accessible companion notes or optional audio segments. Test the Genesis 1 pilot aloud before locking the English register. Research transparency must not degrade audiobook flow.
 
 ## Phase A — Establish sources and book inventory
 

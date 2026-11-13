@@ -18,6 +18,13 @@ See the [source decision](../../../../docs/SEPTUAGINT_SOURCE_DECISION.md) and [h
 - **Source register:** `SWETE-1887-V1` recorded as a historical Greek source **candidate**, `approved_for_reuse=false`. This status means no original Greek chapter file should be imported until the actual printed pages and our original transcription have been checked.
 - **Not yet done:** identify Genesis 1 physical/scanned pages, directly inspect printed Greek and witness marks, establish verse mapping, produce and independently verify an original Greek transcription, and establish the English rendering style. This step **does not** mean Genesis 1 has been translated.
 
+## Genesis 1 — first-page and draft provenance (2026-11-12)
+
+- **Exact historical source URL:** https://archive.org/details/oldtestamentingr01swet ; first edition Swete 1887 Volume I, **printed Genesis page 1** contains the opening passage. The entire Genesis 1 chapter continues on **printed pages 1–3**. Identify the scan's exact leaf index in a later confirmed audit; **do not invent an image URL**.
+- **Independent bibliographic/rights URL:** https://commons.ptsem.edu/id/oldtestamentingr01swet ; Cambridge historical method: https://www.cambridge.org/core/books/old-testament-in-greek-according-to-the-septuagint/58D0D0A49BA2F1D53DB004EA01A1C052.
+- **Manuscript caveat:** Codex Vaticanus lacks its opening Genesis leaves; the first portion of Swete is supplemented especially using Codex Alexandrinus. The exact witness sigla and printed Greek require a second line-by-line check. Reader note `GEN-001-SRC-001` lives in [translation chapter 1](../../../../translation/ot/GEN/001.json) and [chapter 1 notes](../../../../notes/ot/GEN/001.md).
+- **Text status:** no Greek transcription imported, and no rights-validated page-aligned transcription checksum. The [provisional English sample for Genesis 1:1–5](../../../../translation/ot/GEN/001.json) is **not** a completed or verified chapter.
+
 ## Genesis 1 — work not yet completed
 
 - [x] Confirm first-edition volume identity, year, bibliographic metadata, and U.S. public-domain rationale; log catalog-level verification in the source register.

@@ -3,17 +3,54 @@
   "book_title": "Genesis",
   "chapter": 1,
   "language": "en",
-  "status": "planning",
+  "status": "draft",
+  "draft_scope": "Provisional pilot ONLY: Genesis 1:1-5. Genesis 1:6-31 are not drafted; audio register not selected. This is not human reviewed.",
   "source": {
     "tradition": "Greek Septuagint",
-    "edition": null,
-    "reference": null,
-    "rights_reviewed": false
+    "edition": "Henry Barclay Swete, The Old Testament in Greek According to the Septuagint, Volume I, first edition, Cambridge University Press (1887)",
+    "reference": "Genesis 1:1–5, printed page 1",
+    "source_url": "https://archive.org/details/oldtestamentingr01swet",
+    "catalog_url": "https://commons.ptsem.edu/id/oldtestamentingr01swet",
+    "source_register_id": "SWETE-1887-V1",
+    "rights_reviewed": false,
+    "transcription_verified": false,
+    "comment": "Historical edition public domain in US by publication year; original page-level transcription, witness sigla and morphology require a final independent visual audit. Source metadata is identified, not an imported/reviewed full chapter."
   },
   "review": {
     "language_editor": null,
     "orthodox_reviewer": null
   },
-  "verses": [],
-  "notes": "Planning placeholder only. Source edition, Orthodox canon/verse mapping, translation style, and rights review are pending. No Scripture text has been imported or approved."
+  "reader_notes": [
+    {
+      "id": "GEN-001-SRC-001",
+      "placement": "chapter_source_introduction",
+      "type": "manuscript_provenance",
+      "text": "The surviving ancient Codex Vaticanus does not preserve the opening chapters of Genesis. For those chapters Swete's printed Greek Septuagint uses other early manuscript evidence, especially Codex Alexandrinus. This is a gap in a surviving manuscript, not an omission of Genesis 1 from Swete's edition.",
+      "linked_research": "notes/ot/GEN/001.md",
+      "audio_policy": "Deliver in an accessible source-note segment or companion transcript; do not interrupt the continuous chapter reading without a deliberate edition choice."
+    }
+  ],
+  "verses": [
+    {
+      "verse": 1,
+      "text": "In the beginning God made heaven and earth."
+    },
+    {
+      "verse": 2,
+      "text": "The earth was unseen and unformed, and darkness lay over the deep. And the Spirit of God was moving over the water."
+    },
+    {
+      "verse": 3,
+      "text": "And God said, “Let there be light.” And there was light."
+    },
+    {
+      "verse": 4,
+      "text": "God saw that the light was good, and God separated the light from the darkness."
+    },
+    {
+      "verse": 5,
+      "text": "God called the light Day, and the darkness he called Night. And evening came, and morning came: one day."
+    }
+  ],
+  "notes": "Original provisional English sample from Greek Septuagint; multiple style variants and word-choice questions are documented in notes/ot/GEN/001.md. The source page was located in the 1887 printed edition, but the exact Greek transcription and final line-by-line verification have not passed the source-import gate. Do not use this draft as reviewed/publication-ready Scripture."
 }
