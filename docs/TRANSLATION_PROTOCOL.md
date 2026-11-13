@@ -1,4 +1,4 @@
-# Translation protocol — provisional v0.2
+# Translation protocol — provisional v0.3
 
 **Scope:** Establish a repeatable, documented process for drafting an English Bible translation informed by the Eastern Orthodox tradition. First source tradition: Greek Septuagint; first pilot: **Genesis chapter 1**. The New Testament follows the Orthodox Old Testament in the initial drafting sequence.
 
@@ -31,6 +31,21 @@
 3. Attach a concise, neutral footnote or explanation to the relevant verse or book section, with a stable note ID linking to the detailed record. Do not claim that a Church has officially endorsed a particular reading.
 4. Run an independent internal check that every flagged substantive discrepancy has its matching reader-facing note. Preserve unresolved entries for later qualified human review.
 5. Export corresponding explanations in print footnotes, ebook-linked notes, and accessible notes accompanying audio (spoken selectively when necessary for comprehension).
+
+## Mandatory documentation when discrepancy flags are resolved
+
+**Rule:** Every flagged textual or source-history discrepancy must have a traceable outcome in the **relevant source document**—for example, `docs/SWETE_SOURCE_BACKGROUND.md` for flags about Swete's Greek text. A decision recorded only in a chapter's research log, a Git commit, or an English footnote **is not sufficient**. If no source document exists for the relevant edition or witness, create one within `docs/` and link it from the source workspace before closing the flag. Keep the detailed evidence in the affected book's separate `notes/` workspace; do not replace it with the high-level source record.
+
+**For each flag, follow these steps:**
+
+1. **Keep a stable flag ID** from discovery through resolution. Identify the source edition/witness, affected book and passage(s), what differs or is uncertain, and link the original flag and book-specific research entry.
+2. **Investigate with independently verified, rights-safe evidence.** Record exact historical references (edition, volume, page, manuscript witness and verse where possible), relevant Greek readings, alternative interpretations, and any independently supported Orthodox textual-use considerations. Distinguish a demonstrated difference from an unverified report.
+3. **Record the outcome in the relevant source document** under that flag ID: the adopted text or editorial treatment, reasons for the decision, alternatives considered, significance for the English translation, and any remaining uncertainty. If the evidence does not justify a choice, explicitly record **unresolved** and the research still needed; never manufacture a solution.
+4. **Cross-link the records:** source document ↔ book research log ↔ affected chapter/verse and reader-facing explanatory footnote, where one is required. A source-wide decision must be linked from every affected book or passage. Do not let resolved decisions disappear into commit history.
+5. **Record accountability:** decision date, person or team responsible, current state (**open**, **provisional decision**, **verified decision / pending qualified human review**, or **reviewed and approved** only after the applicable formal gates), and the version/commit establishing the decision. An internal or AI-assisted decision is not Orthodox Church approval.
+6. **Revisit transparently:** when new evidence changes a decision, update the same flag in the source document with the superseding conclusion, rationale, date, and links; preserve the previous outcome in history rather than silently overwriting its implications.
+
+**Closure gate:** A flag may be marked resolved for the **provisional draft** only after its source document and book log agree, its evidence and rationale are recorded, and any substantive reader-facing footnote/explainer is present or explicitly queued where the corresponding text has not yet been drafted. This does **not** make the passage publication-approved; later qualified human review and release gates still apply. Publication must not omit a required footnote.
 
 **Rights and naming:** Do not copy a restricted edition's apparatus, modern translation, explanatory wording, proprietary content, or protected transcription. Do not mention proprietary publishing products or brands in ordinary reader-facing notes; use generic descriptions such as “another ancient Greek witness” when sufficient. Maintain precise bibliographic references **internally**, using verifiable public-domain manuscripts/editions, because omission of provenance would make a discrepancy impossible to audit. Historical source identification is factual documentation, not approval, sponsorship, or license dependence.
 
