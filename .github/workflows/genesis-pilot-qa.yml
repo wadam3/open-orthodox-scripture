@@ -1,0 +1,43 @@
+name: Genesis 1-2 mechanical QA
+
+on:
+  push:
+    paths:
+      - 'translation/ot/GEN/001.json'
+      - 'translation/ot/GEN/002.json'
+      - 'audio/scripts/GEN/001.narration.txt'
+      - 'audio/scripts/GEN/002.narration.txt'
+      - 'notes/ot/GEN/001.greek-working.md'
+      - 'notes/ot/GEN/001.greek-working-20-31.md'
+      - 'notes/ot/GEN/002.greek-working.md'
+      - 'scripts/validate_chapters.py'
+      - 'scripts/verify_genesis_pilots.py'
+      - 'docs/GENESIS_1_2_CONTENT_HASHES.json'
+      - '.github/workflows/genesis-pilot-qa.yml'
+  pull_request:
+    paths:
+      - 'translation/ot/GEN/**'
+      - 'audio/scripts/GEN/**'
+      - 'notes/ot/GEN/**'
+      - 'scripts/**'
+      - 'docs/GENESIS_1_2_CONTENT_HASHES.json'
+      - '.github/workflows/genesis-pilot-qa.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Structural translation validation
+        run: python scripts/validate_chapters.py
+      - name: Genesis 1 and 2 draft integrity and SHA-256 check
+        run: python scripts/verify_genesis_pilots.py --verify-manifest
+      - name: Verify script Python syntax
+        run: python -m py_compile scripts/validate_chapters.py scripts/verify_genesis_pilots.py
