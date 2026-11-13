@@ -11,9 +11,9 @@
   "independent_1887_photo_character_pass_complete": false,
   "counts": {
     "total": 56,
-    "flagged_below_80": 8,
-    "not_flagged_at_or_above_80": 48,
-    "exact_base_letter_matches": 46,
+    "flagged_below_80": 7,
+    "not_flagged_at_or_above_80": 49,
+    "exact_base_letter_matches": 47,
     "comparator_unavailable": 1
   },
   "entries": [
@@ -1352,20 +1352,20 @@
       "working_greek_path": "notes/ot/GEN/002.greek-working.md",
       "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
       "diagnostic_comparator_available": true,
-      "working_greek_base_letter_count": 95,
+      "working_greek_base_letter_count": 96,
       "comparator_base_letter_count": 96,
-      "base_letter_levenshtein_distance": 2,
-      "base_letter_agreement_percent": 97.92,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
       "page_boundary_penalty_percent": 0,
-      "editorial_letter_confidence_percent": 70,
-      "requires_rigorous_verification_later": true,
-      "verification_queue": "deferred_rigorous_verification",
-      "confidence_label": "needs targeted recheck of Greek letters and/or page transition",
-      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 97.92% letter agreement, 2 Levenshtein edit(s) across 95 working letters and 96 comparator letters. Rubric score 70%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified. Specific concern: Prohibition verb and grammatical forms require exact comparison; later edition may differ.",
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Targeted reading of Swete's original 1887 printed p.4 revealed a missing sigma/incorrect verb in the working Greek at 2:17: φάγητε was corrected to the printed φάγησθε. The now-corrected 96 Greek base letters have 0 edits (100% match) against the independent, later 1901-derived diagnostic. Rubric gives 85% (cap), not a calibrated probability; the complete 1887 verse, diacritics and punctuation remain unverified.",
       "independent_1887_character_certified": false,
       "diacritics_and_punctuation_proofread": false,
       "verification_status": "pending",
-      "specific_discrepancy_note": "Prohibition verb and grammatical forms require exact comparison; later edition may differ."
+      "specific_discrepancy_note": "Resolved specific word reading at 2:17 against photographed 1887 p.4: φάγησθε. Earlier base-letter score 70%/flagged; now 85%/routine proofing. English wording and narration unchanged."
     },
     {
       "id": "GEN-002-018",
@@ -1590,6 +1590,17 @@
       "diacritics_and_punctuation_proofread": false,
       "verification_status": "pending",
       "specific_discrepancy_note": "Electronic comparator misplaces Genesis 2:25 at beginning of chapter 3; no valid 2:25 comparison available."
+    }
+  ],
+  "change_log": [
+    {
+      "date": "2026-11-12",
+      "verse": "GEN-002-017",
+      "old_confidence_percent": 70,
+      "new_confidence_percent": 85,
+      "original_greek_correction": "φάγητε -> φάγησθε",
+      "original_photo": "https://ccel.org/ccel/swete/lxx1/lxx1/png/0032=4.png",
+      "note": "Targeted correction only; whole-verse certification remains pending."
     }
   ]
 }
