@@ -13,6 +13,12 @@ on:
       - 'scripts/validate_chapters.py'
       - 'scripts/verify_genesis_pilots.py'
       - 'docs/GENESIS_1_2_CONTENT_HASHES.json'
+      - 'notes/ot/GEN/001-002.letter-confidence.json'
+      - 'notes/ot/GEN/p2-1887-bracket-candidates.json'
+      - 'notes/ot/GEN/p3-1887-bracket-candidates.json'
+      - 'docs/GENESIS_LETTER_CONFIDENCE_METHOD.md'
+      - 'docs/GENESIS_BRACKET_CONFIDENCE_METHOD.md'
+      - 'scripts/validate_greek_confidence.py'
       - '.github/workflows/genesis-pilot-qa.yml'
   pull_request:
     paths:
@@ -21,6 +27,12 @@ on:
       - 'notes/ot/GEN/**'
       - 'scripts/**'
       - 'docs/GENESIS_1_2_CONTENT_HASHES.json'
+      - 'notes/ot/GEN/001-002.letter-confidence.json'
+      - 'notes/ot/GEN/p2-1887-bracket-candidates.json'
+      - 'notes/ot/GEN/p3-1887-bracket-candidates.json'
+      - 'docs/GENESIS_LETTER_CONFIDENCE_METHOD.md'
+      - 'docs/GENESIS_BRACKET_CONFIDENCE_METHOD.md'
+      - 'scripts/validate_greek_confidence.py'
       - '.github/workflows/genesis-pilot-qa.yml'
   workflow_dispatch:
 
@@ -39,5 +51,7 @@ jobs:
         run: python scripts/validate_chapters.py
       - name: Genesis 1 and 2 draft integrity and SHA-256 check
         run: python scripts/verify_genesis_pilots.py --verify-manifest
+      - name: Enforce below-80-percent Greek verification queues
+        run: python scripts/validate_greek_confidence.py
       - name: Verify script Python syntax
-        run: python -m py_compile scripts/validate_chapters.py scripts/verify_genesis_pilots.py
+        run: python -m py_compile scripts/validate_chapters.py scripts/verify_genesis_pilots.py scripts/validate_greek_confidence.py
