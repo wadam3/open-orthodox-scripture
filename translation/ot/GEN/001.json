@@ -14,7 +14,7 @@
     "source_register_id": "SWETE-1887-V1",
     "rights_reviewed": false,
     "transcription_verified": false,
-    "comment": "Original 1887 edition in U.S. public domain. CCEL page images of printed pages 1–3 visually checked in first-pass meaning audit; Swete's apparatus flags loss in Codex Alexandrinus for bracketed passages in 1:20–25 and 1:29–2:3. CCEL page images and IA catalog URLs are recorded. Despite first-pass progress, source transcription_verified=false and rights_reviewed=false until the complete intake and independent audit gates pass.",
+    "comment": "Original 1887 edition in U.S. public domain. CCEL page images of printed pages 1–3 visually checked in first-pass meaning audit; Swete's apparatus flags loss in Codex Alexandrinus for bracketed passages in 1:20–25 and 1:29–2:3. CCEL page images and IA catalog URLs are recorded. Despite first-pass progress, source transcription_verified=false and rights_reviewed=false until the complete intake and independent audit gates pass. Additional first-pass manual Greek working transcription of 1:1–19 recorded in notes/ot/GEN/001.greek-working.md from Swete 1887 printed page images; not approved as source-file import or a full independent audit.",
     "printed_page_images": [
       {
         "printed_page": 1,
@@ -100,6 +100,15 @@
       "text": "Swete’s original 1887 notes identify a further damaged portion of Codex Alexandrinus extending from Genesis 1:29 into the opening of chapter 2. His edition prints supplied wording in brackets where the ancient manuscript is defective. The translation follows the provisional edited Greek text; detailed source attribution for individual supplied words still requires verification.",
       "linked_research": "notes/ot/GEN/001.source-audit.md",
       "audio_policy": "Accompany the passage as an accessible footnote/optional notes segment, without interrupting the main audiobook."
+    },
+    {
+      "id": "GEN-001-TRN-014",
+      "type": "source_edition_wording",
+      "placement": "verse",
+      "verse": 14,
+      "text": "The Greek text of the 1887 edition used here explicitly says that the heavenly lights are to govern day and night, as well as separate them. This is part of the printed Greek wording, not an explanatory phrase added by the translator.",
+      "linked_research": "notes/ot/GEN/001.greek-working.md",
+      "audio_policy": "Accessible text note or separate notes segment; keep uninterrupted chapter narration free of inline editorial interruption."
     }
   ],
   "verses": [
@@ -157,7 +166,7 @@
     },
     {
       "verse": 14,
-      "text": "And God said, “Let lights come into being in the expanse of heaven to shine upon the earth and to separate day from night. Let them serve as signs, marking seasons, days, and years."
+      "text": "And God said, “Let lights come into being in the expanse of heaven to shine upon the earth, to govern the day and the night, and to separate day from night. Let them serve as signs, marking seasons, days, and years."
     },
     {
       "verse": 15,
@@ -228,7 +237,7 @@
       "text": "God saw everything he had made, and behold, it was very good. And evening came, and morning came: the sixth day."
     }
   ],
-  "notes": "All 31 original English verses have now received a first-pass semantic comparison against photographic images of Swete's 1887 Greek printed pages 1–3, followed by an English historical comparison against Brenton's 1844 original printed pp. 1–2. See notes/ot/GEN/001.source-audit.md for a 31-verse register and all exact consulted URLs. Decisions: preserve 1:5 “one day” and 1:8 goodness clause from Swete Greek; adjust 1:20 moving living creatures and 1:31 'behold' on Greek semantic grounds; keep expanse as provisional narration register. Swete bracketed editorial supplements at 1:20–25 and 1:29–2:3 are documented in reader-facing notes. This is NOT a complete original-Greek diplomatic transcription or independent scholarly audit. Status must remain draft, source.rights_reviewed=false, source.transcription_verified=false. Later qualified human review required.",
+  "notes": "All 31 original English verses have now received a first-pass semantic comparison against photographic images of Swete's 1887 Greek printed pages 1–3, followed by an English historical comparison against Brenton's 1844 original printed pp. 1–2. See notes/ot/GEN/001.source-audit.md for a 31-verse register and all exact consulted URLs. Decisions: preserve 1:5 “one day” and 1:8 goodness clause from Swete Greek; adjust 1:20 moving living creatures and 1:31 'behold' on Greek semantic grounds; keep expanse as provisional narration register. Swete bracketed editorial supplements at 1:20–25 and 1:29–2:3 are documented in reader-facing notes. This is NOT a complete original-Greek diplomatic transcription or independent scholarly audit. Status must remain draft, source.rights_reviewed=false, source.transcription_verified=false. Later qualified human review required. Genesis 1:14 revised after checking the original 1887 page image spanning printed pp. 1–2: the first edition includes καὶ ἄρχειν τῆς ἡμέρας καὶ τῆς νυκτὸς, governing day and night. Reader explanation GEN-001-TRN-014. Greek verses 1–19 now have a first-pass original-image working transcription in notes/ot/GEN/001.greek-working.md, distinct from a verified source import. Bracketed Greek within verses 20–31 remains untranscribed pending careful source letter verification.",
   "narration": {
     "working_script": "audio/scripts/GEN/001.narration.txt",
     "status": "pilot script built from current draft; not approved for distribution or checked with a production narrator",

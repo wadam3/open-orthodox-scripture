@@ -26,3 +26,7 @@ Notes are working materials, separate from the Scripture text and never a claim 
 ## First-pass all-verse audit and 1844 Brenton cross-check
 
 [Genesis 1:1–31 source-image / Brenton review register](001.source-audit.md) — every verse accounted for; exact 1887 page images, 1844 historic printed English, manuscript bracket findings, draft changes at 1:20 and 1:31, and the remaining verification gates.
+
+## 1887 original-image Greek transcription: first segment
+
+[Genesis 1:1–19 first-pass Greek working text](001.greek-working.md) — independently prepared manually from Swete 1887 printed pp. 1–2; **not yet certified**. The direct Greek source revealed an omitted “govern day and night” clause in our English 1:14, now corrected and linked to reader note `GEN-001-TRN-014`. Greek 1:20–31, printed brackets and a full second image audit remain open.

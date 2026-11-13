@@ -54,3 +54,7 @@ See the [source decision](../../../../docs/SEPTUAGINT_SOURCE_DECISION.md) and [h
 - [ ] Add chapter-aligned Greek source file(s) with version and checksum after all source-intake checks pass.
 
 The English [Genesis translation workspace](../../../../translation/ot/GEN/README.md) remains separate. Neither a source import nor an AI-assisted draft constitutes Church approval.
+
+## Current first-pass transcription progress (not approved for import)
+
+The directly inspected 1887 printed pages revealed a material **English omission in Genesis 1:14**. Swete's text on [p. 2](https://ccel.org/ccel/swete/lxx1/lxx1/png/0030=2.png) reads `καὶ ἄρχειν τῆς ἡμέρας καὶ τῆς νυκτὸς` within the verse begun on [p. 1](https://ccel.org/ccel/swete/lxx1/lxx1/png/0029=1.png). The English JSON has been corrected to “to govern the day and the night.” A research-level [manually transcribed Greek draft for **1:1–19**](../../../../notes/ot/GEN/001.greek-working.md) is kept in `notes/`, **not this source directory**, until it passes all word/diacritic/apparatus checks. Genesis 1:20–31, including the exact printed brackets and Alexandrinus lacunae, remains untranscribed. The `approved_for_reuse=false` source-register gate remains unchanged.
