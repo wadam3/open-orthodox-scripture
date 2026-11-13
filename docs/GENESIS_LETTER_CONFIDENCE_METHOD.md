@@ -42,6 +42,14 @@ Each verse's entry must include: first-edition page URL(s); diagnostic comparato
 - **2:19–20**: the 1901 digital line has several evident possible encoding errors and an inflection difference; the actual 1887 p. 4 photograph remains controlling.
 - **2:25**: the digital chapter/verse segmentation is corrupted; direct comparison to its “2:25” cannot be used for confidence scoring, even though our original 1887 page visibly includes the verse.
 
+## Efficient review and stop rule
+
+Prioritize **material Greek transcription mistakes**: omitted/changed letters with strong 1887 photographic evidence, changes affecting an English clause, wrong verse boundaries, and source-word forms that matter. Fix those immediately; update the paired English/narration only when meaning changes. Record a focused rationale.
+
+For other differences that remain reasonably translated, **do not spend repeated rounds resolving 1887-versus-1901 discrepancies at low photographic resolution**. Keep the estimated confidence, the original source-page reference, the specific uncertainty, and the **strict-below-80% deferred rigorous-review flag**. Even scores at or above 80% still await the eventual whole-text character/diacritic check and later human review; they are **not certified**. Revisit deferred cases when stronger 1887 primary evidence becomes available or a change materially affects translation meaning.
+
+**Applied example:** Genesis 2:17's original-page check corrected Greek `φάγητε` to `φάγησθε`. Its base-letter comparison then became exact, moving its estimated score from 70% to 85%. The English “you eat” and narration did not need changing. The remaining lower-confidence verses stay queued rather than blocking ongoing drafting indefinitely.
+
 ## What the check does and does not close
 
 This diagnostic can complete a **base-letter comparison of 56 draft verses to a separate machine-readable text**, provide a transparent 80% queue, and reveal possible transcription anomalies. It **cannot honestly certify the original 1887 printing character-for-character**, especially accents, breathings, bracket positions and apparatus. Those still require a separate exhaustive source-photo pass. Scores do not change the repository's `status=draft` or `source.transcription_verified=false`, and qualified Orthodox/human review remains a distinct later step.
