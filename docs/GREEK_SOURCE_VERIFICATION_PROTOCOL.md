@@ -10,6 +10,10 @@
 - **Manuscript provenance:** Surviving Codex Vaticanus lacks Genesis's opening. Swete uses supplementary witnesses, including Alexandrinus (A). His **1887 printed** notes identify bracketed supplements within **1:20–25** and **1:29–2:3** where parts of A are lost. These are not claims that the whole verses are absent or that the other witnesses supplying each word have already been identified.
 - **Not governing sources:** Later Swete printings, OCR/search snippets, third-party Greek digital text dumps, modern proprietary critical editions, and Brenton's 1844 *English* translation. Any such item may be documented as a separate comparator but must never silently substitute for 1887 first-edition Greek. Brenton is checked **after** original Greek work.
 
+### Image access fallback, verified on Genesis 1 printed pp. 2–3
+
+The CCEL site can reject direct navigation to `.../png/0030=2.png` when the URL is percent-encoded or a tool cannot resolve the binary image. A **reproducible successful route** is to open [the scanned-page index](https://ccel.org/ccel/swete/lxx1/Page_Index.html), click the printed page number **2** or **3**, then click its **“Scanned image”** link to render the original photographic image. For page 2 that leads to [image 0030=2](https://ccel.org/ccel/swete/lxx1/lxx1/png/0030=2.png); for page 3, [image 0031=3](https://ccel.org/ccel/swete/lxx1/lxx1/png/0031=3.png). If original-image access remains blocked, document the exact failed access and **do not** replace the evidence with a later “Swete” digital transcription. [Genesis 1 live log](../notes/ot/GEN/001.verification-log.md) now records short visual bracket examples and retains all incomplete gates.
+
 ## A. Exact original-page transcription procedure (per verse)
 
 1. **Pin the edition and the photograph.** Record source-register ID `SWETE-1887-V1`, actual full image URL, printed page, verse number, print/editorial witness label, access date, and repository commit. If the page cannot be opened or distinguished from another printing, mark the verse `blocked` rather than filling text from memory or an uncontrolled site.
