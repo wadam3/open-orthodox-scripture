@@ -1,5 +1,13 @@
 # Genesis — research and translation notes
 
+## Current cross-chapter checkpoint (2026-11-12)
+
+Genesis **1 (31 verses)** and **2 (25 verses)** now have original-English drafts, verse-aligned Greek working readings based on Swete's **1887 first printing**, matching text-only narration scripts, documented source-image research and per-verse audit logs. [Automated pre-human QA has passed](../../../docs/GENESIS_1_2_PRE_HUMAN_QA.md), including text matching and SHA-256 drift checks. **Neither chapter is yet an exact bracket-preserving Greek diplomatic transcription, independently source-verified, human-approved or publication-ready.** The Greek bracket and character uncertainties are listed in the cross-chapter report; no approval flags were changed.
+
+- [Genesis 1 bracket research](001.bracket-map.md) and [verse verification](001.verification-log.md)
+- [Genesis 2 Greek working verses](002.greek-working.md), [verse-by-verse AI semantic audit](002.source-audit.md), [bracket research](002.bracket-map.md), and [verse verification](002.verification-log.md)
+- [English Chapter 1](../../../translation/ot/GEN/001.json), [English Chapter 2](../../../translation/ot/GEN/002.json), and [GitHub Actions success](https://github.com/wadam3/open-orthodox-scripture/actions/runs/43359844374)
+
 **Book ID:** GEN  
 **Status:** Complete Genesis 1 **31-verse English draft** logged; first-pass original-image Greek meaning check and historical Brenton comparison now documented; full diplomatic transcription, independent second audit, and formal review remain unfinished.
 
