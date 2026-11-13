@@ -8,6 +8,10 @@ Genesis **1 (31 verses)** and **2 (25 verses)** now have original-English drafts
 - [Genesis 2 Greek working verses](002.greek-working.md), [verse-by-verse AI semantic audit](002.source-audit.md), [bracket research](002.bracket-map.md), and [verse verification](002.verification-log.md)
 - [English Chapter 1](../../../translation/ot/GEN/001.json), [English Chapter 2](../../../translation/ot/GEN/002.json), and [GitHub Actions success](https://github.com/wadam3/open-orthodox-scripture/actions/runs/43359844374)
 
+## New 80% source-letter confidence rule (2026-11-12)
+
+The [verse-by-verse letter-confidence register](001-002.letter-confidence.json) covers **all 56 verses**, with a [documented scoring method](../../../docs/GENESIS_LETTER_CONFIDENCE_METHOD.md). **8 verses scored below 80%** and are marked for more rigorous later verification; **48 scored at or above 80%**. Separate earlier [bracket observations](../../../docs/GENESIS_BRACKET_CONFIDENCE_METHOD.md) flagged **34 of 41 bracket candidates below 80%**. All percentages are heuristic editorial triage ratings, and all 1887 first-edition character/diacritic approvals remain **pending**. File-integrity QA and exact narration matching still pass; no official or independent publication approval is claimed.
+
 **Book ID:** GEN  
 **Status:** Complete Genesis 1 **31-verse English draft** logged; first-pass original-image Greek meaning check and historical Brenton comparison now documented; full diplomatic transcription, independent second audit, and formal review remain unfinished.
 
