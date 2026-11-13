@@ -2,7 +2,7 @@
   "title": "Swete 1887 p.3 bracket-candidate register for Genesis 1:29–2:3",
   "edition_identity_verified_by_title_page": "https://ccel.org/ccel/swete/lxx1/lxx1/png/0003=iii.png",
   "date": "2026-11-12",
-  "status": "FIRST-EDITION IMAGE-BASED WORKING OBSERVATIONS, NOT CERTIFIED DIPLOMATIC GREEK",
+  "status": "Photographic AI-assisted narrowed bracket observations: 1:30 vegetation and 2:2 seventh-day-rest spans separated; not independently source-certified",
   "notation": "Each entry stores text just before bracket, an apparent restored interior, and text just after bracket. confidence=high is not certification; low/unresolved may contain multiple brackets or split spans and is not a verified boundary.",
   "entries": [
     {
@@ -83,23 +83,23 @@
       "printed_page": 3,
       "image_url": "https://ccel.org/ccel/swete/lxx1/lxx1/png/0031=3.png",
       "before": "χόρ",
-      "supplied_candidate": "τον χλωρὸν εἰς βρῶσιν.",
-      "after": " καὶ ἐγένετο",
-      "confidence": "low",
+      "supplied_candidate": "τον χλ",
+      "after": "ωρὸν εἰς βρῶσιν.",
+      "confidence": "medium",
       "original_square_brackets_certified": false,
-      "comment": "closing position unresolved; do not publish as one exact span"
+      "comment": "1887 photograph visibly supports two midword bracket edges in χόρ[τον χλ]ωρὸν; the long speculative vegetation span was incorrect. 1901 Perseus used only to locate image marks, not as governing source."
     },
     {
       "id": "GEN-001-030-G",
       "verse": "1:30",
       "printed_page": 3,
       "image_url": "https://ccel.org/ccel/swete/lxx1/lxx1/png/0031=3.png",
-      "before": "βρῶσιν. ",
-      "supplied_candidate": "καὶ ἐγένετο",
-      "after": " οὕτως.",
-      "confidence": "low",
+      "before": "εἰς βρῶσιν. καὶ ",
+      "supplied_candidate": "ἐγένετ",
+      "after": "ο οὕτως.",
+      "confidence": "medium",
       "original_square_brackets_certified": false,
-      "comment": "possible separate bracket; do not combine with F"
+      "comment": "Distinct bracket καὶ [ἐγένετ]ο after the first span; ending omicron outside bracket. Verify punctuation and exact accent from a high-resolution 1887 page before certification."
     },
     {
       "id": "GEN-001-031-A",
@@ -210,16 +210,28 @@
       "comment": "bracket closes inside verb"
     },
     {
-      "id": "GEN-002-002-C",
+      "id": "GEN-002-002-C1",
       "verse": "2:2",
       "printed_page": 3,
       "image_url": "https://ccel.org/ccel/swete/lxx1/lxx1/png/0031=3.png",
       "before": "καὶ κατέπαυσεν ",
-      "supplied_candidate": "τῇ ἡμέρᾳ τῇ ἑβδόμῃ ἀπὸ πάν...",
-      "after": "...τῶν ἔργων",
-      "confidence": "unresolved",
+      "supplied_candidate": "τῇ ἡμ",
+      "after": "έρᾳ τῇ ἑβδόμῃ",
+      "confidence": "medium",
       "original_square_brackets_certified": false,
-      "comment": "multiple visible bracket boundaries around πάντων τῶν; cannot treat this text as exact"
+      "comment": "Narrow original-photo bracket: [τῇ ἡμ]έρᾳ; not the entire seventh-day-rest formula. 1901 edition useful for locating source-image marks, not a replacement for 1887."
+    },
+    {
+      "id": "GEN-002-002-C2",
+      "verse": "2:2",
+      "printed_page": 3,
+      "image_url": "https://ccel.org/ccel/swete/lxx1/lxx1/png/0031=3.png",
+      "before": "τῇ ἑβδόμῃ ἀπὸ πάν",
+      "supplied_candidate": "των τῶ",
+      "after": "ν ἔργων αὐτοῦ",
+      "confidence": "medium",
+      "original_square_brackets_certified": false,
+      "comment": "Second distinct bracket in 1887 photograph: πάν[των τῶ]ν. Exact accents and punctuation require independent detailed source proofing."
     },
     {
       "id": "GEN-002-002-D",
@@ -248,9 +260,10 @@
   ],
   "editorial_note": "Swete page 3 apparatus: 29—II 3 quae uncis incl sunt perier in A. Editorially restored Greek does not imply missing words from all ancient witnesses.",
   "needs_attention": [
-    "1:30 bracketed vegetation and separate 'and it was so' intervals",
-    "2:2 possible multiple brackets around seventh-day rest and πάντων τῶν",
-    "other remaining characters, accents and punctuation throughout 56 verses",
-    "independent second-image proofreading"
-  ]
+    "Independently prove each newly narrowed p.3 bracket and diacritics at high resolution",
+    "Check source typography, apparatus and chapter boundary separately from 1901 transcription",
+    "Complete exact character proofing of all 56 verses",
+    "Independent qualified second Greek-English review"
+  ],
+  "comparison_source_only": "https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0527.tlg001.1st1K-grc1:2/ (2015 transcription of 1901 edition, NOT imported as our first-edition base)"
 }
