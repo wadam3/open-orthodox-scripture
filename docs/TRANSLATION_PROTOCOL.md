@@ -1,4 +1,4 @@
-# Translation protocol — provisional v0.3
+# Translation protocol — provisional v0.4
 
 **Scope:** Establish a repeatable, documented process for drafting an English Bible translation informed by the Eastern Orthodox tradition. First source tradition: Greek Septuagint; first pilot: **Genesis chapter 1**. The New Testament follows the Orthodox Old Testament in the initial drafting sequence.
 
@@ -31,6 +31,14 @@
 3. Attach a concise, neutral footnote or explanation to the relevant verse or book section, with a stable note ID linking to the detailed record. Do not claim that a Church has officially endorsed a particular reading.
 4. Run an independent internal check that every flagged substantive discrepancy has its matching reader-facing note. Preserve unresolved entries for later qualified human review.
 5. Export corresponding explanations in print footnotes, ebook-linked notes, and accessible notes accompanying audio (spoken selectively when necessary for comprehension).
+
+## Greek-to-English translation choices and Orthodox/Protestant interpretive comparisons
+
+Use the dedicated [Orthodox and Protestant Greek-to-English comparison register](ORTHODOX_PROTESTANT_TRANSLATION_COMPARISONS.md) to track any material wording or interpretive difference encountered during translation. Give each case a stable `GTC-###` ID and cross-link its book-specific research log, relevant source-history file, chapter/verse, and any mandatory published note.
+
+**Required method:** distinguish different underlying Hebrew/Greek textual bases from *alternative English renderings of the same Greek*, and distinguish both from *later theological interpretation*. Document the actual original-language reading and context; viable English alternatives; Greek Orthodox use and other Christian interpretations accurately and without caricature; the project's chosen English rendering and evidence-based reasoning for choosing it; unresolved objections; decision date; and review status. Record **no decision** until the source has been verified.
+
+An Orthodox orientation does **not** authorize changing the Greek text to make it say something it does not say, or rejecting a Protestant-associated English wording merely because of its association. Do not call an alternative a mistranslation without demonstrating a specific linguistic error. Apply existing public-domain and no-permission rules, source-resolution documentation, and reader-footnote requirements. Keep choices provisional until qualified post-draft human review.
 
 ## Mandatory documentation when discrepancy flags are resolved
 
