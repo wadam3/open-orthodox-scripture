@@ -1,0 +1,1595 @@
+{
+  "title": "Genesis 1–2: working Greek verse letter confidence diagnostic",
+  "date": "2026-11-12",
+  "method": "docs/GENESIS_LETTER_CONFIDENCE_METHOD.md",
+  "original_photo_edition": "Swete 1887 first printing, pp.1–4",
+  "diagnostic_comparator": "Swete 1901 Greek as electronically encoded by Perseus/First1KGreek (2015), only for locating potential source mismatches",
+  "diagnostic_comparator_url": "https://raw.githubusercontent.com/PerseusDLCode/First1KGreek/HEAD/data/tlg0527/tlg001/tlg0527.tlg001.1st1K-grc1.xml",
+  "percentages_are": "Subjective conservative editorial confidence estimates informed by exact source-to-secondary base-letter comparisons; NOT calibrated probabilities or an 1887 image-to-character certification.",
+  "strict_flag_threshold_percent": 80,
+  "verification_rule": "Flag if score <80; retain pending photo proofing on all verses, including >=80; do not mark verified.",
+  "independent_1887_photo_character_pass_complete": false,
+  "counts": {
+    "total": 56,
+    "flagged_below_80": 8,
+    "not_flagged_at_or_above_80": 48,
+    "exact_base_letter_matches": 46,
+    "comparator_unavailable": 1
+  },
+  "entries": [
+    {
+      "id": "GEN-001-001",
+      "chapter": 1,
+      "verse": 1,
+      "printed_pages": [
+        1
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0029=1.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/001.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 38,
+      "comparator_base_letter_count": 38,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 38 working letters and 38 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-001-002",
+      "chapter": 1,
+      "verse": 2,
+      "printed_pages": [
+        1
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0029=1.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/001.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 91,
+      "comparator_base_letter_count": 91,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 91 working letters and 91 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-001-003",
+      "chapter": 1,
+      "verse": 3,
+      "printed_pages": [
+        1
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0029=1.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/001.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 37,
+      "comparator_base_letter_count": 37,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 37 working letters and 37 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-001-004",
+      "chapter": 1,
+      "verse": 4,
+      "printed_pages": [
+        1
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0029=1.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/001.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 80,
+      "comparator_base_letter_count": 80,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 80 working letters and 80 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-001-005",
+      "chapter": 1,
+      "verse": 5,
+      "printed_pages": [
+        1
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0029=1.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/001.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 89,
+      "comparator_base_letter_count": 89,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 89 working letters and 89 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-001-006",
+      "chapter": 1,
+      "verse": 6,
+      "printed_pages": [
+        1
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0029=1.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/001.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 99,
+      "comparator_base_letter_count": 99,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 99 working letters and 99 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-001-007",
+      "chapter": 1,
+      "verse": 7,
+      "printed_pages": [
+        1
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0029=1.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/001.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 127,
+      "comparator_base_letter_count": 127,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 127 working letters and 127 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-001-008",
+      "chapter": 1,
+      "verse": 8,
+      "printed_pages": [
+        1
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0029=1.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/001.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 95,
+      "comparator_base_letter_count": 95,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 95 working letters and 95 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-001-009",
+      "chapter": 1,
+      "verse": 9,
+      "printed_pages": [
+        1
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0029=1.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/001.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 159,
+      "comparator_base_letter_count": 159,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 159 working letters and 159 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-001-010",
+      "chapter": 1,
+      "verse": 10,
+      "printed_pages": [
+        1
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0029=1.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/001.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 86,
+      "comparator_base_letter_count": 86,
+      "base_letter_levenshtein_distance": 1,
+      "base_letter_agreement_percent": 98.84,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 75,
+      "requires_rigorous_verification_later": true,
+      "verification_queue": "deferred_rigorous_verification",
+      "confidence_label": "needs targeted recheck of Greek letters and/or page transition",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 98.84% letter agreement, 1 Levenshtein edit(s) across 86 working letters and 86 comparator letters. Rubric score 75%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified. Specific concern: Greek gathering-noun spelling differs from electronic edition; compare 1887 printed page 1.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": "Greek gathering-noun spelling differs from electronic edition; compare 1887 printed page 1."
+    },
+    {
+      "id": "GEN-001-011",
+      "chapter": 1,
+      "verse": 11,
+      "printed_pages": [
+        1
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0029=1.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/001.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 170,
+      "comparator_base_letter_count": 170,
+      "base_letter_levenshtein_distance": 1,
+      "base_letter_agreement_percent": 99.41,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 80,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 99.41% letter agreement, 1 Levenshtein edit(s) across 170 working letters and 170 comparator letters. Rubric score 80%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-001-012",
+      "chapter": 1,
+      "verse": 12,
+      "printed_pages": [
+        1
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0029=1.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/001.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 152,
+      "comparator_base_letter_count": 152,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 152 working letters and 152 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-001-013",
+      "chapter": 1,
+      "verse": 13,
+      "printed_pages": [
+        1
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0029=1.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/001.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 40,
+      "comparator_base_letter_count": 40,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 40 working letters and 40 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-001-014",
+      "chapter": 1,
+      "verse": 14,
+      "printed_pages": [
+        1,
+        2
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0029=1.png",
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0030=2.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/001.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 211,
+      "comparator_base_letter_count": 211,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 5,
+      "editorial_letter_confidence_percent": 80,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 211 working letters and 211 comparator letters. Rubric score 85% less 5% because the verse crosses printed 1887 pages 1 and 2. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-001-015",
+      "chapter": 1,
+      "verse": 15,
+      "printed_pages": [
+        2
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0030=2.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/001.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 78,
+      "comparator_base_letter_count": 78,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 78 working letters and 78 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-001-016",
+      "chapter": 1,
+      "verse": 16,
+      "printed_pages": [
+        2
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0030=2.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/001.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 131,
+      "comparator_base_letter_count": 131,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 131 working letters and 131 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-001-017",
+      "chapter": 1,
+      "verse": 17,
+      "printed_pages": [
+        2
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0030=2.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/001.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 63,
+      "comparator_base_letter_count": 63,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 63 working letters and 63 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-001-018",
+      "chapter": 1,
+      "verse": 18,
+      "printed_pages": [
+        2
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0030=2.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/001.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 101,
+      "comparator_base_letter_count": 101,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 101 working letters and 101 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-001-019",
+      "chapter": 1,
+      "verse": 19,
+      "printed_pages": [
+        2
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0030=2.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/001.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 42,
+      "comparator_base_letter_count": 42,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 42 working letters and 42 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-001-020",
+      "chapter": 1,
+      "verse": 20,
+      "printed_pages": [
+        2
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0030=2.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/001.greek-working-20-31.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 111,
+      "comparator_base_letter_count": 111,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 111 working letters and 111 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-001-021",
+      "chapter": 1,
+      "verse": 21,
+      "printed_pages": [
+        2
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0030=2.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/001.greek-working-20-31.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 133,
+      "comparator_base_letter_count": 133,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 133 working letters and 133 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-001-022",
+      "chapter": 1,
+      "verse": 22,
+      "printed_pages": [
+        2
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0030=2.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/001.greek-working-20-31.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 116,
+      "comparator_base_letter_count": 116,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 116 working letters and 116 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-001-023",
+      "chapter": 1,
+      "verse": 23,
+      "printed_pages": [
+        2
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0030=2.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/001.greek-working-20-31.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 41,
+      "comparator_base_letter_count": 41,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 41 working letters and 41 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-001-024",
+      "chapter": 1,
+      "verse": 24,
+      "printed_pages": [
+        2
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0030=2.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/001.greek-working-20-31.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 100,
+      "comparator_base_letter_count": 100,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 100 working letters and 100 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-001-025",
+      "chapter": 1,
+      "verse": 25,
+      "printed_pages": [
+        2
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0030=2.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/001.greek-working-20-31.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 112,
+      "comparator_base_letter_count": 112,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 112 working letters and 112 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-001-026",
+      "chapter": 1,
+      "verse": 26,
+      "printed_pages": [
+        2
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0030=2.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/001.greek-working-20-31.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 182,
+      "comparator_base_letter_count": 182,
+      "base_letter_levenshtein_distance": 1,
+      "base_letter_agreement_percent": 99.45,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 80,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 99.45% letter agreement, 1 Levenshtein edit(s) across 182 working letters and 182 comparator letters. Rubric score 80%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-001-027",
+      "chapter": 1,
+      "verse": 27,
+      "printed_pages": [
+        2
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0030=2.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/001.greek-working-20-31.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 79,
+      "comparator_base_letter_count": 79,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 79 working letters and 79 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-001-028",
+      "chapter": 1,
+      "verse": 28,
+      "printed_pages": [
+        2
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0030=2.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/001.greek-working-20-31.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 214,
+      "comparator_base_letter_count": 214,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 214 working letters and 214 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-001-029",
+      "chapter": 1,
+      "verse": 29,
+      "printed_pages": [
+        2,
+        3
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0030=2.png",
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0031=3.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/001.greek-working-20-31.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 143,
+      "comparator_base_letter_count": 143,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 5,
+      "editorial_letter_confidence_percent": 80,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 143 working letters and 143 comparator letters. Rubric score 85% less 5% because the verse crosses printed 1887 pages 2 and 3. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-001-030",
+      "chapter": 1,
+      "verse": 30,
+      "printed_pages": [
+        3
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0031=3.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/001.greek-working-20-31.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 151,
+      "comparator_base_letter_count": 151,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 151 working letters and 151 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-001-031",
+      "chapter": 1,
+      "verse": 31,
+      "printed_pages": [
+        3
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0031=3.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/001.greek-working-20-31.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 84,
+      "comparator_base_letter_count": 89,
+      "base_letter_levenshtein_distance": 5,
+      "base_letter_agreement_percent": 94.38,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 60,
+      "requires_rigorous_verification_later": true,
+      "verification_queue": "deferred_rigorous_verification",
+      "confidence_label": "material uncertainty or unusable comparator; rigorous recheck flagged",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 94.38% letter agreement, 5 Levenshtein edit(s) across 84 working letters and 89 comparator letters. Rubric score 60%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified. Specific concern: 1901 electronic witness has an extra 'day' near chapter close; likely transcription error, not an instruction to modify 1887 Greek.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": "1901 electronic witness has an extra 'day' near chapter close; likely transcription error, not an instruction to modify 1887 Greek."
+    },
+    {
+      "id": "GEN-002-001",
+      "chapter": 2,
+      "verse": 1,
+      "printed_pages": [
+        3
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0031=3.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/002.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 49,
+      "comparator_base_letter_count": 49,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 49 working letters and 49 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-002-002",
+      "chapter": 2,
+      "verse": 2,
+      "printed_pages": [
+        3
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0031=3.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/002.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 114,
+      "comparator_base_letter_count": 114,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 114 working letters and 114 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-002-003",
+      "chapter": 2,
+      "verse": 3,
+      "printed_pages": [
+        3
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0031=3.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/002.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 112,
+      "comparator_base_letter_count": 112,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 112 working letters and 112 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-002-004",
+      "chapter": 2,
+      "verse": 4,
+      "printed_pages": [
+        3
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0031=3.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/002.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 86,
+      "comparator_base_letter_count": 86,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 86 working letters and 86 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-002-005",
+      "chapter": 2,
+      "verse": 5,
+      "printed_pages": [
+        3
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0031=3.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/002.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 132,
+      "comparator_base_letter_count": 132,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 132 working letters and 132 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-002-006",
+      "chapter": 2,
+      "verse": 6,
+      "printed_pages": [
+        3
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0031=3.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/002.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 53,
+      "comparator_base_letter_count": 53,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 53 working letters and 53 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-002-007",
+      "chapter": 2,
+      "verse": 7,
+      "printed_pages": [
+        3
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0031=3.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/002.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 111,
+      "comparator_base_letter_count": 111,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 111 working letters and 111 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-002-008",
+      "chapter": 2,
+      "verse": 8,
+      "printed_pages": [
+        3
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0031=3.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/002.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 83,
+      "comparator_base_letter_count": 83,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 83 working letters and 83 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-002-009",
+      "chapter": 2,
+      "verse": 9,
+      "printed_pages": [
+        3
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0031=3.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/002.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 146,
+      "comparator_base_letter_count": 146,
+      "base_letter_levenshtein_distance": 2,
+      "base_letter_agreement_percent": 98.63,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 75,
+      "requires_rigorous_verification_later": true,
+      "verification_queue": "deferred_rigorous_verification",
+      "confidence_label": "needs targeted recheck of Greek letters and/or page transition",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 98.63% letter agreement, 2 Levenshtein edit(s) across 146 working letters and 146 comparator letters. Rubric score 75%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified. Specific concern: Greek idiom for the knowledge tree differs; align final reading from original p.3 before English approval.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": "Greek idiom for the knowledge tree differs; align final reading from original p.3 before English approval."
+    },
+    {
+      "id": "GEN-002-010",
+      "chapter": 2,
+      "verse": 10,
+      "printed_pages": [
+        3
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0031=3.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/002.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 80,
+      "comparator_base_letter_count": 80,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 80 working letters and 80 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-002-011",
+      "chapter": 2,
+      "verse": 11,
+      "printed_pages": [
+        3
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0031=3.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/002.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 65,
+      "comparator_base_letter_count": 64,
+      "base_letter_levenshtein_distance": 3,
+      "base_letter_agreement_percent": 95.38,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 70,
+      "requires_rigorous_verification_later": true,
+      "verification_queue": "deferred_rigorous_verification",
+      "confidence_label": "needs targeted recheck of Greek letters and/or page transition",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 95.38% letter agreement, 3 Levenshtein edit(s) across 65 working letters and 64 comparator letters. Rubric score 70%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified. Specific concern: Evilat spelling and a short linking phrase differ between versions; do not harmonize.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": "Evilat spelling and a short linking phrase differ between versions; do not harmonize."
+    },
+    {
+      "id": "GEN-002-012",
+      "chapter": 2,
+      "verse": 12,
+      "printed_pages": [
+        3
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0031=3.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/002.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 66,
+      "comparator_base_letter_count": 66,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 66 working letters and 66 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-002-013",
+      "chapter": 2,
+      "verse": 13,
+      "printed_pages": [
+        3
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0031=3.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/002.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 61,
+      "comparator_base_letter_count": 61,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 61 working letters and 61 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-002-014",
+      "chapter": 2,
+      "verse": 14,
+      "printed_pages": [
+        3
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0031=3.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/002.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 90,
+      "comparator_base_letter_count": 90,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 90 working letters and 90 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-002-015",
+      "chapter": 2,
+      "verse": 15,
+      "printed_pages": [
+        3
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0031=3.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/002.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 93,
+      "comparator_base_letter_count": 93,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 93 working letters and 93 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-002-016",
+      "chapter": 2,
+      "verse": 16,
+      "printed_pages": [
+        3,
+        4
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0031=3.png",
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0032=4.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/002.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 75,
+      "comparator_base_letter_count": 75,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 5,
+      "editorial_letter_confidence_percent": 80,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 75 working letters and 75 comparator letters. Rubric score 85% less 5% because the verse crosses printed 1887 pages 3 and 4. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-002-017",
+      "chapter": 2,
+      "verse": 17,
+      "printed_pages": [
+        4
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0032=4.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/002.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 95,
+      "comparator_base_letter_count": 96,
+      "base_letter_levenshtein_distance": 2,
+      "base_letter_agreement_percent": 97.92,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 70,
+      "requires_rigorous_verification_later": true,
+      "verification_queue": "deferred_rigorous_verification",
+      "confidence_label": "needs targeted recheck of Greek letters and/or page transition",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 97.92% letter agreement, 2 Levenshtein edit(s) across 95 working letters and 96 comparator letters. Rubric score 70%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified. Specific concern: Prohibition verb and grammatical forms require exact comparison; later edition may differ.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": "Prohibition verb and grammatical forms require exact comparison; later edition may differ."
+    },
+    {
+      "id": "GEN-002-018",
+      "chapter": 2,
+      "verse": 18,
+      "printed_pages": [
+        4
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0032=4.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/002.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 74,
+      "comparator_base_letter_count": 74,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 74 working letters and 74 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-002-019",
+      "chapter": 2,
+      "verse": 19,
+      "printed_pages": [
+        4
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0032=4.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/002.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 166,
+      "comparator_base_letter_count": 165,
+      "base_letter_levenshtein_distance": 2,
+      "base_letter_agreement_percent": 98.8,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 75,
+      "requires_rigorous_verification_later": true,
+      "verification_queue": "deferred_rigorous_verification",
+      "confidence_label": "needs targeted recheck of Greek letters and/or page transition",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 98.8% letter agreement, 2 Levenshtein edit(s) across 166 working letters and 165 comparator letters. Rubric score 75%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified. Specific concern: Comparator has probable electronic transcription glitches.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": "Comparator has probable electronic transcription glitches."
+    },
+    {
+      "id": "GEN-002-020",
+      "chapter": 2,
+      "verse": 20,
+      "printed_pages": [
+        4
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0032=4.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/002.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 127,
+      "comparator_base_letter_count": 128,
+      "base_letter_levenshtein_distance": 2,
+      "base_letter_agreement_percent": 98.44,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 75,
+      "requires_rigorous_verification_later": true,
+      "verification_queue": "deferred_rigorous_verification",
+      "confidence_label": "needs targeted recheck of Greek letters and/or page transition",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 98.44% letter agreement, 2 Levenshtein edit(s) across 127 working letters and 128 comparator letters. Rubric score 75%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified. Specific concern: Comparator differs in grammatical ending and Adam's connective; check original p.4.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": "Comparator differs in grammatical ending and Adam's connective; check original p.4."
+    },
+    {
+      "id": "GEN-002-021",
+      "chapter": 2,
+      "verse": 21,
+      "printed_pages": [
+        4
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0032=4.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/002.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 99,
+      "comparator_base_letter_count": 99,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 99 working letters and 99 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-002-022",
+      "chapter": 2,
+      "verse": 22,
+      "printed_pages": [
+        4
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0032=4.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/002.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 87,
+      "comparator_base_letter_count": 87,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 87 working letters and 87 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-002-023",
+      "chapter": 2,
+      "verse": 23,
+      "printed_pages": [
+        4
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0032=4.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/002.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 109,
+      "comparator_base_letter_count": 109,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 109 working letters and 109 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-002-024",
+      "chapter": 2,
+      "verse": 24,
+      "printed_pages": [
+        4
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0032=4.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/002.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": true,
+      "working_greek_base_letter_count": 121,
+      "comparator_base_letter_count": 121,
+      "base_letter_levenshtein_distance": 0,
+      "base_letter_agreement_percent": 100,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 85,
+      "requires_rigorous_verification_later": false,
+      "verification_queue": "routine_1887_photo_proofing",
+      "confidence_label": "comparatively strong base-letter agreement; routine source proofing pending",
+      "confidence_reasoning": "Compared base Greek letters (ignoring accents, breathing, punctuation) to later 1901-derived digitization: 100% letter agreement, 0 Levenshtein edit(s) across 121 working letters and 121 comparator letters. Rubric score 85%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": null
+    },
+    {
+      "id": "GEN-002-025",
+      "chapter": 2,
+      "verse": 25,
+      "printed_pages": [
+        4
+      ],
+      "scans": [
+        "https://ccel.org/ccel/swete/lxx1/lxx1/png/0032=4.png"
+      ],
+      "working_greek_path": "notes/ot/GEN/002.greek-working.md",
+      "independent_diagnostic_source": "Perseus/First1KGreek 2015 electronic transcription of Swete 1901 edition (NOT approved base)",
+      "diagnostic_comparator_available": false,
+      "working_greek_base_letter_count": 53,
+      "comparator_base_letter_count": null,
+      "base_letter_levenshtein_distance": null,
+      "base_letter_agreement_percent": null,
+      "page_boundary_penalty_percent": 0,
+      "editorial_letter_confidence_percent": 65,
+      "requires_rigorous_verification_later": true,
+      "verification_queue": "deferred_rigorous_verification",
+      "confidence_label": "material uncertainty or unusable comparator; rigorous recheck flagged",
+      "confidence_reasoning": "No chapter/verse-aligned secondary Greek comparator available; electronic text mislabels verse 2:25. Rubric score 65%. Score is a cautious editorial estimate, not probability; 1887 photo remains governing and diacritics were not fully collation-verified. Specific concern: Electronic comparator misplaces Genesis 2:25 at beginning of chapter 3; no valid 2:25 comparison available.",
+      "independent_1887_character_certified": false,
+      "diacritics_and_punctuation_proofread": false,
+      "verification_status": "pending",
+      "specific_discrepancy_note": "Electronic comparator misplaces Genesis 2:25 at beginning of chapter 3; no valid 2:25 comparison available."
+    }
+  ]
+}
