@@ -86,7 +86,7 @@
   "verses": [
     {
       "verse": 1,
-      "text": "In the end, heaven and earth were completed, with all their ordered array."
+      "text": "And heaven and earth were completed, and all their ordered array."
     },
     {
       "verse": 2,
@@ -185,7 +185,7 @@
       "text": "And both were naked, Adam and his wife, and they were not ashamed."
     }
   ],
-  "notes": "Provisional 25-verse original English draft aligned by verse to Swete's 1887 printed pp. 3–4; see notes/ot/GEN/002.md for source images, LXX-specific reading in 2:2, editorial brackets into 2:3, lexical/name decisions, and pending checks. Not an independent certified source transcription. No modern licensed English translation copied.",
+  "notes": "Provisional 25-verse original English draft aligned by verse to Swete's 1887 printed pp. 3–4; see notes/ot/GEN/002.md for source images, LXX-specific reading in 2:2, editorial brackets into 2:3, lexical/name decisions, and pending checks. Not an independent certified source transcription. No modern licensed English translation copied. Editorial 2:1 improvement: omitted the unsupported English opening 'In the end'; the Greek starts with καὶ συνετελέσθησαν. The selected 1887 original's 2:2 sixth-day wording is retained.",
   "narration": {
     "working_script": null,
     "status": "Not prepared or auditioned; chapter 2 draft is not production-ready",
