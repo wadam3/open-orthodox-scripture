@@ -1,12 +1,12 @@
 # Genesis — research and translation notes
 
 **Book ID:** GEN  
-**Status:** Chapter 1 pilot research opened for verses 1–5. All decisions remain provisional.
+**Status:** Complete Genesis 1 **31-verse English draft** logged; original printed Greek verse-level verification, internal independent audit, and formal review remain unfinished.
 
 Companion translation: [Genesis](../../../translation/ot/GEN/README.md).
 
 ## Translation decision log
-- [Genesis 1 research and first English style samples](001.md), including all actual online source URLs and the manuscript source note `GEN-001-SRC-001`.
+- [Genesis 1 research and first English style samples](001.md), including all actual online source URLs, a full-chapter 1:6–31 working decision register, the day-two Greek wording flag, later-printing bracket cautions, and the manuscript source note `GEN-001-SRC-001`.
 - Text style remains unselected; no human review. For each future entry, record date, chapter/verse, proposed rendering, alternatives considered, explanation, and unresolved concerns.
 
 ## Greek sources and textual variants
@@ -16,9 +16,9 @@ See [Genesis 1 source and notes](001.md). Printed page identification and manusc
 `GEN-001-SRC-001` describes missing Vaticanus leaves and Swete's replacement manuscript basis. It is a **source-context explanation**, not evidence of a substantive disputed verse. For every substantive difference, create an entry with a stable note ID, Genesis chapter/verse, type of variation, independently verifiable public-domain witness, neutral explanation, chosen handling, uncertainty, and link to the footnote placed with the verse. Do not copy protected modern notes or name proprietary products in reader-facing explanations.
 
 ## AI-assisted checks and corrections
-Original AI-assisted English alternatives for 1:1–5 have been drafted but **not independently audited against a completed Greek page transcription**. See chapter notes. Record checker, version, what was tested, suspected errors, corrections, and outstanding questions. AI checks do not constitute scholarly or Church approval.
+All 31 verses have an original AI-assisted working English draft but **have not been independently audited against a completed Greek page transcription**. See chapter notes for passage-level pending checks. Record checker, version, what was tested, suspected errors, corrections, and outstanding questions. AI checks do not constitute scholarly or Church approval.
 
 ## Open questions
-Complete Greek source transcription and verse-level checks; perform listening-style comparison; finish the 31-verse chapter. Not yet publication-approved.
+Complete first-edition Greek source transcription, bracket verification, and independent English verse-by-verse checks; perform the listening-style comparison. The **English draft** has 31 verses, but the source-verified chapter is **not** finished or approved.
 
 Notes are working materials, separate from the Scripture text and never a claim of official Church authorization.

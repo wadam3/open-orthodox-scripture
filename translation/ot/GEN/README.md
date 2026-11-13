@@ -1,6 +1,6 @@
 # Genesis — book rationale, source selection, chapter workflow
 
-**Status (2026-11-12):** Active first book. Genesis 1:1–5 is a **provisional English style-test draft only**; the Greek first-edition page has been identified, but a fully verified Greek transcription, selected narration register, and the remaining Genesis chapters are still pending. Do not call it publication-ready or Church-approved.
+**Status (2026-11-12):** Active first book. Genesis 1:1–31 now has a **complete provisional English draft only**; the Greek first-edition page range is identified, but a fully verified Greek transcription, confirmed reconstruction/bracket treatment, independent verse-by-verse audit, selected narration register, and the remaining Genesis chapters are still pending. Do not call it publication-ready or Church-approved.
 
 ## Why this Greek source
 
@@ -20,8 +20,8 @@
 
 Translate **Genesis 1, then Genesis 2, and so on through Genesis 50**, finishing every chapter's Greek-based draft, independent internal audit, decision notes, and mandatory reader notes before the provisional book-complete gate. Only after completing the whole Genesis book do we proceed to Exodus. The first chapter is a style-and-narration pilot; do not silently finalize wording before comparing aloud.
 
-- **Main chapter text:** [`001.json`](001.json) — only 1:1–5 drafted, **not the completed chapter**.
-- **Chapter-level audit and source URLs:** [`notes/ot/GEN/001.md`](../../../notes/ot/GEN/001.md) — variant research, word choices, manuscript source note, and unresolved questions.
+- **Main chapter text:** [`001.json`](001.json) — all **31 verses drafted in provisional English**, **not a source-verified or approved chapter**.
+- **Chapter-level audit and source URLs:** [`notes/ot/GEN/001.md`](../../../notes/ot/GEN/001.md) — variant research, word choices, manuscript source note, Genesis 1:8 Greek-only decision record, later-edition bracket cautions, and unresolved questions.
 - **Original Greek intake:** [`sources/ot/greek/GEN/`](../../../sources/ot/greek/GEN/README.md) — transcription pending, do not import OCR or third-party digital text.
 - **Central project rules:** [Translation Protocol v0.8](../../../docs/TRANSLATION_PROTOCOL.md) and [audio plan](../../../docs/AUDIO_PLAN.md).
 

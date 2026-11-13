@@ -105,3 +105,9 @@ See [Genesis source decision](SEPTUAGINT_SOURCE_DECISION.md), [translation proto
 - Ancient manuscript lacuna, independently documented (Genesis 1:1–46:28): https://tile.loc.gov/storage-services/service/gdc/gdclccn/04/03/40/84/04034084/04034084.pdf
 - Greek Orthodox Archdiocese of America on the Septuagint in Orthodox worship: https://www.goarch.org/-/internet-ministries-launches-two-new-websites-for-the-study-of-the-bible-and-liturgical-texts
 - Source printing considered for our Genesis pilot: https://archive.org/details/oldtestamentingr01swet
+
+## Genesis 1 provisional drafting update — 2026-11-12
+
+The [Genesis 1 English chapter draft](../translation/ot/GEN/001.json) now covers verses **1–31**, but **SWETE-FLAG-002 remains open**. The first-edition 1887 page-based Greek transcription and verification of all witness sigla, brackets and their precise meanings have not been completed. The source is the 1887 historical first edition at **https://archive.org/details/oldtestamentingr01swet**, with bibliographic and rights confirmation **https://commons.ptsem.edu/id/oldtestamentingr01swet**. Historical printed Genesis 1 is located in the opening pages; verse-to-page/scan-leaf mapping needs a logged direct audit.
+
+**Do not confuse editions:** Some searchable electronic versions labeled “Swete” derive from **later printings (including a 1901 text)**. Their exact editorial bracket spans cannot be assumed to match 1887. The new **GEN-001-ED-BRK** research flag in [Genesis chapter research](../notes/ot/GEN/001.md) preserves that uncertainty and prohibits treating later online transcriptions as the original 1887 evidence. The **GEN-001-ED-008** entry records the day-two Greek approval wording as a Greek-source question, without any Hebrew comparison. Neither flag is closed or approved; changes to the chosen base require independently checked Greek first-edition and witness evidence.

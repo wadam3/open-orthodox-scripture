@@ -23,7 +23,13 @@ See the [source decision](../../../../docs/SEPTUAGINT_SOURCE_DECISION.md) and [h
 - **Exact historical source URL:** https://archive.org/details/oldtestamentingr01swet ; first edition Swete 1887 Volume I, **printed Genesis page 1** contains the opening passage. The entire Genesis 1 chapter continues on **printed pages 1–3**. Identify the scan's exact leaf index in a later confirmed audit; **do not invent an image URL**.
 - **Independent bibliographic/rights URL:** https://commons.ptsem.edu/id/oldtestamentingr01swet ; Cambridge historical method: https://www.cambridge.org/core/books/old-testament-in-greek-according-to-the-septuagint/58D0D0A49BA2F1D53DB004EA01A1C052.
 - **Manuscript caveat:** Codex Vaticanus lacks its opening Genesis leaves; the first portion of Swete is supplemented especially using Codex Alexandrinus. The exact witness sigla and printed Greek require a second line-by-line check. Reader note `GEN-001-SRC-001` lives in [translation chapter 1](../../../../translation/ot/GEN/001.json) and [chapter 1 notes](../../../../notes/ot/GEN/001.md).
-- **Text status:** no Greek transcription imported, and no rights-validated page-aligned transcription checksum. The [provisional English sample for Genesis 1:1–5](../../../../translation/ot/GEN/001.json) is **not** a completed or verified chapter.
+- **Text status:** no Greek transcription imported, and no rights-validated page-aligned transcription checksum. The [provisional English working draft of all 31 verses of Genesis 1](../../../../translation/ot/GEN/001.json) is **not** a verified or approved chapter; no ancient Greek source text has been imported.
+
+## Whole-chapter research flags
+
+- **GEN-001-ED-008 (Greek reading of the second day):** The provisional English at 1:8 includes “God saw that it was good,” corresponding to a known Septuagint Greek expression. This is **not** based on any Hebrew comparison. Verify exact first-edition Swete 1887 wording and manuscript marks before marking it source-checked.
+- **GEN-001-ED-BRK (later-edition bracket reports):** A modern electronic “Swete” may reflect a **later printing**, not the 1887 first edition. Its square-bracket locations or restored words are **not accepted as verified 1887 readings**. Examine the original first-edition printed pages and edition's own editorial explanation before drawing any verse-specific inference. Details: [Genesis 1 chapter research](../../../../notes/ot/GEN/001.md).
+- **English draft complete ≠ Greek source transcription complete.** The current 31-verse English chapter is provisional; no underlying Greek diplomatic file has passed intake.
 
 ## Genesis 1 — work not yet completed
 
