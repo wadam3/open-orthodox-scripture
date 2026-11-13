@@ -88,6 +88,10 @@ These are **research candidates, not accusations of mistranslation and not decis
 - **Translation question:** Which English form is faithful to Luke's immediate context, and would a note preserve the Orthodox historical understanding more clearly than a loaded translation choice?
 - **Provisional project decision:** **None; New Testament source edition not yet selected.**
 
+## Optional historical English comparative check
+
+For Old Testament passages, [Brenton's historic public-domain English Septuagint](HISTORICAL_ENGLISH_TRANSLATION_REFERENCES.md) may serve as an **additional post-draft comparison** of possible English wordings. Brenton's choices do **not** represent the entire Orthodox tradition or the Protestant tradition, and their nineteenth-century English is **not** a substitute for an original-language argument. Do not write project English by modernizing or rephrasing his translation. Link any substantive concern back to independently checked Greek readings and the relevant book's translation notes.
+
 ## How to work through this register
 
 1. When a passage is reached during chapter drafting, check whether a candidate entry exists; add one when a material denominationally significant linguistic or interpretive difference is discovered.

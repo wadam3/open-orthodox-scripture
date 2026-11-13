@@ -1,4 +1,4 @@
-# Translation protocol — provisional v0.6
+# Translation protocol — provisional v0.7
 
 **Scope:** Establish a repeatable, documented process for drafting an English Bible translation informed by the Eastern Orthodox tradition. First source tradition: Greek Septuagint; first pilot: **Genesis chapter 1**. The New Testament follows the Orthodox Old Testament in the initial drafting sequence.
 
@@ -55,6 +55,12 @@ For interpretive or translation decisions involving ancient Church tradition, fo
 For every significant appeal to an Apostolic Father, record the **named early work and section; original-language wording and its verified historical edition; attribution/recension confidence; exact citation and public-domain basis; what the author actually asserts; competing interpretations; and how the evidence supports, limits, or does not determine our English choice**. Link the citation to the relevant book's notes, source register, and, where applicable, the \`GTC-###\` entry in the Orthodox/Protestant comparison document and a reader footnote. Do not convert a Fathers' interpretation into a claim about a Greek biblical manuscript reading without independent textual evidence. Do not attribute the views of one early writer to the entire Eastern Orthodox Church or imply ecclesiastical approval.
 
 A translation choice with significant patristic support remains **provisional** until qualified later review. If no rights-safe primary patristic evidence has been verified, mark the claim **unverified / pending primary source** instead of citing a modern secondary account as if it were ancient testimony.
+
+## Brenton as a public-domain historical English comparator (never the Greek base)
+
+Use the independently verifiable historical English Septuagint translation by **Sir Lancelot Charles Lee Brenton** as a **secondary comparison after our own Greek-to-English draft and internal Greek audit**, under [the historical English translation reference policy](HISTORICAL_ENGLISH_TRANSLATION_REFERENCES.md). The 1844 printing contains an English-only text without the Apocrypha; later nineteenth-century editions differ in coverage. Identify the **specific historical printing and page**. Its U.S. public-domain historical text does not authorize copying modern revised editions, modern editorial notes, or unverified web transcriptions.
+
+Compare the meaning and translation options, **not** by copying, paraphrasing or lightly updating Brenton to make our English. Any material disagreement must be investigated against the project's separately verified public-domain **Greek** witnesses. Document the comparison, accepted or rejected alternatives, and reasons in the book's notes. Link to a `GTC-###` entry and mandatory reader-facing note when the established substantive-difference rules require one. Brenton is **not** an Orthodox Church authority and does not override the Greek text. Keep all decisions provisional until later qualified review.
 
 ## Mandatory documentation when discrepancy flags are resolved
 

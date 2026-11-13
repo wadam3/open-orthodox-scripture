@@ -2,6 +2,8 @@
 
 **Research and source-selection record — 2026-11-12. Decision: Swete's 1887 first edition, Volume I, remains the *provisional* Genesis 1 drafting base; no Greek text has been imported or verified verse by verse.** This is a comparison of the historical *Greek* source editions discussed for Open Orthodox Scripture. It is not a comparison of modern English Bible translations and does not imply approval by any Orthodox Church.
 
+**Why Brenton is not listed as a fifth Greek edition:** Sir Lancelot Charles Lee Brenton's nineteenth-century **English** Septuagint is documented separately as a [public-domain historical English comparison reference](HISTORICAL_ENGLISH_TRANSLATION_REFERENCES.md). It may be consulted **after** independent drafting from Greek, but is not our Greek source text.
+
 The project requires independently verified **public-domain Greek source material** and originally prepared English translations. It will **not seek or negotiate any third-party source licenses or permissions**. We must distinguish (a) ancient Greek biblical writings, (b) a manuscript such as Vaticanus, (c) a scholar's historical printed editorial text, and (d) a modern edition, critical apparatus, digital transcription, or website. Their provenance and reuse status are not interchangeable.
 
 ## Decision at a glance

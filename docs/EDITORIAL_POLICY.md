@@ -18,6 +18,10 @@ Record the full Orthodox Old Testament inventory and book order, with documented
 - Reader-facing explanatory notes should avoid proprietary product/publisher names and copyrighted quotations. Use original language and references to independently reusable ancient witnesses. If evidence is only found in a restricted source, flag the issue for further research rather than copying or claiming to have verified it.
 - Carry substantive explanations into print and ebooks, with accessible accompanying notes for audio. No source comparison implies official Church approval.
 
+## Historical English translation checks
+
+After each original Greek-based English draft and independent internal Greek audit, the project's [Brenton reference policy](HISTORICAL_ENGLISH_TRANSLATION_REFERENCES.md) permits comparison with a verified nineteenth-century public-domain English Septuagint printing. Brenton's translation is **not** the Greek input and must not be copied or modernized to generate our original translation. Record meaningful differences, Greek evidence, and decision reasons in book notes, and use the usual variant/interpretation footnote requirements. Verify the exact printing and its coverage; do not import modern electronic transcriptions without an independently adequate public-domain/provenance basis.
+
 ## Translation conventions to decide
 
 - Style/register: whether to prefer traditional/liturgical diction or contemporary readable English. **Open decision**; compare short sample passages before finalizing.

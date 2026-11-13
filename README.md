@@ -52,6 +52,7 @@ This disclaimer applies to this repository and should accompany future print, di
 - [Apostolic Fathers primary-source policy](docs/APOSTOLIC_FATHERS_SOURCES.md)
 - [Why Swete? Source origin and rationale](docs/SWETE_SOURCE_BACKGROUND.md)
 - [Greek Septuagint editions considered and reuse assessment](docs/SEPTUAGINT_SOURCE_COMPARISON.md)
+- [Brenton and historical English Septuagint references (comparison only)](docs/HISTORICAL_ENGLISH_TRANSLATION_REFERENCES.md)
 - [Source-text workspace and intake plan](sources/README.md)
 - [Publishing and distribution strategy](docs/PUBLISHING_DISTRIBUTION.md)
 - [Roadmap](docs/ROADMAP.md)
