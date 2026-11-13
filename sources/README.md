@@ -4,6 +4,10 @@ This directory is for **independently verified public-domain source material** a
 
 **Current status (2026-11-12): Structure only. No Greek source text or manuscript scans have been imported or approved for reuse.**
 
+## Historical edition links
+
+- [Source URL index](SOURCE_URLS.md): historical Swete Greek volumes, Brenton's nineteenth-century English volumes, and related source-selection references. URLs only; no files downloaded or imported.
+
 ## Directory map
 
 - [`ot/`](ot/README.md): Old Testament source planning.

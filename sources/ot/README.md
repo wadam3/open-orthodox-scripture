@@ -3,6 +3,7 @@
 The Old Testament source tradition is the Greek Septuagint. The proposed translation inventory has **49 main Old Testament book workspaces plus Fourth Maccabees as an appendix**; see [the translation index](../../translation/ot/README.md). The source-text collection must be mapped to those book workspaces because historical Greek editions sometimes combine or divide books differently.
 
 - [Greek source workspace](greek/README.md)
+- [Historical source URLs (Greek and English historical editions)](../SOURCE_URLS.md)
 - [Provisional Genesis source decision](../../docs/SEPTUAGINT_SOURCE_DECISION.md)
 - [Greek Septuagint editions considered (source and rights comparison)](../../docs/SEPTUAGINT_SOURCE_COMPARISON.md)
 - [Historical source background](../../docs/SWETE_SOURCE_BACKGROUND.md)

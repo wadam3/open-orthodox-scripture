@@ -2,6 +2,8 @@
 
 **Status:** Source candidate selected; **no Greek transcription imported or verified yet**.
 
+Historical source URL index: [Swete 1887 volume I and supporting catalogs](../../../SOURCE_URLS.md). No source scan or transcription has been downloaded into this repository.
+
 ## Provisional source candidate
 
 Henry Barclay Swete (editor), *The Old Testament in Greek According to the Septuagint*, volume I, first edition, Cambridge, 1887. This is a **historical public-domain printed edition**, not a modern digital dataset or an Orthodox ecclesiastical endorsement.
