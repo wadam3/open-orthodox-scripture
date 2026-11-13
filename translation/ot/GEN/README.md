@@ -1,6 +1,6 @@
 # Genesis — book rationale, source selection, chapter workflow
 
-**Status (2026-11-12):** Active first book. Genesis 1:1–31 now has a **complete provisional English draft only**; the Greek first-edition page range is identified, but a fully verified Greek transcription, confirmed reconstruction/bracket treatment, independent verse-by-verse audit, selected narration register, and the remaining Genesis chapters are still pending. Do not call it publication-ready or Church-approved.
+**Status (2026-11-12):** Active first book. Genesis 1:1–31 now has a **complete provisional English draft only**; original 1887 page images are now checked for a **first-pass Greek/English meaning audit**, and the 1844 Brenton pages were compared afterward. The fully verified diplomatic Greek transcription, detailed bracket-source attribution, independent **second** verse audit, final narration register, and remaining Genesis chapters are still pending. Do not call it publication-ready or Church-approved.
 
 ## Why this Greek source
 
@@ -21,10 +21,14 @@
 Translate **Genesis 1, then Genesis 2, and so on through Genesis 50**, finishing every chapter's Greek-based draft, independent internal audit, decision notes, and mandatory reader notes before the provisional book-complete gate. Only after completing the whole Genesis book do we proceed to Exodus. The first chapter is a style-and-narration pilot; do not silently finalize wording before comparing aloud.
 
 - **Main chapter text:** [`001.json`](001.json) — all **31 verses drafted in provisional English**, **not a source-verified or approved chapter**.
-- **Chapter-level audit and source URLs:** [`notes/ot/GEN/001.md`](../../../notes/ot/GEN/001.md) — variant research, word choices, manuscript source note, Genesis 1:8 Greek-only decision record, later-edition bracket cautions, and unresolved questions.
+- **Chapter-level audit and source URLs:** [`notes/ot/GEN/001.md`](../../../notes/ot/GEN/001.md) — translation decisions and the **confirmed original 1887 bracket notices**, Genesis 1:8 Greek-only reading, and unresolved questions. [All 31 first-pass source checks](../../../notes/ot/GEN/001.source-audit.md).
 - **Original Greek intake:** [`sources/ot/greek/GEN/`](../../../sources/ot/greek/GEN/README.md) — transcription pending, do not import OCR or third-party digital text.
 - **Central project rules:** [Translation Protocol v0.8](../../../docs/TRANSLATION_PROTOCOL.md) and [audio plan](../../../docs/AUDIO_PLAN.md).
 
 For a smooth audiobook, generate only the clean chosen English text with natural pauses and chapter transitions. Keep all verse numbering/addressability in metadata; provide source and important variant explanations in the ebook/print notes and optional accessible audio notes. **Do not replace the verse text with research notes or insert URL narration in the continuous audiobook.**
 
 **Approval:** Provisional AI-assisted text only. Qualified Greek-language, Orthodox, English and rights/editorial review occurs only after the entire Bible provisional draft, and no Orthodox Church authorization is claimed.
+
+## First-pass translation and audio QA — 2026-11-12
+
+All 31 English verses have been checked for meaning and narrative structure against the actual 1887 printed Greek images; the original 1844 Brenton English was consulted **only afterward**. The detailed source, page, and Greek-audit evidence is in [Genesis 1 source audit](../../../notes/ot/GEN/001.source-audit.md). Two local Greek-driven wordings were refined at 1:20 and 1:31. Source notes `GEN-001-SRC-002` and `GEN-001-SRC-003` now explain 1887 first-edition **editorial supplements where Alexandrinus is damaged**. The optional, unapproved [clean narration script](../../../audio/scripts/GEN/001.narration.txt) is produced directly from current JSON and omits footnotes and verse labels for continuous playback. **Status remains draft** until the original Greek transcription and an independent second audit are complete.

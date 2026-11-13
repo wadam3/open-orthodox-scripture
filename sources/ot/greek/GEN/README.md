@@ -1,6 +1,6 @@
 # Genesis — Greek source intake
 
-**Status:** Source candidate selected; **no Greek transcription imported or verified yet**.
+**Status:** 1887 first-edition printed Genesis pp. 1–3 examined for a first-pass semantic English audit; **NO Greek diplomatic transcription imported or independently verified yet**.
 
 Historical source URL index: [Swete 1887 volume I and supporting catalogs](../../../SOURCE_URLS.md). No source scan or transcription has been downloaded into this repository.
 
@@ -22,19 +22,31 @@ See the [source decision](../../../../docs/SEPTUAGINT_SOURCE_DECISION.md) and [h
 
 - **Exact historical source URL:** https://archive.org/details/oldtestamentingr01swet ; first edition Swete 1887 Volume I, **printed Genesis page 1** contains the opening passage. The entire Genesis 1 chapter continues on **printed pages 1–3**. Identify the scan's exact leaf index in a later confirmed audit; **do not invent an image URL**.
 - **Independent bibliographic/rights URL:** https://commons.ptsem.edu/id/oldtestamentingr01swet ; Cambridge historical method: https://www.cambridge.org/core/books/old-testament-in-greek-according-to-the-septuagint/58D0D0A49BA2F1D53DB004EA01A1C052.
-- **Manuscript caveat:** Codex Vaticanus lacks its opening Genesis leaves; the first portion of Swete is supplemented especially using Codex Alexandrinus. The exact witness sigla and printed Greek require a second line-by-line check. Reader note `GEN-001-SRC-001` lives in [translation chapter 1](../../../../translation/ot/GEN/001.json) and [chapter 1 notes](../../../../notes/ot/GEN/001.md).
+- **Manuscript caveat:** Codex Vaticanus lacks its opening Genesis leaves; the first portion of Swete is supplemented especially using Codex Alexandrinus. The 1887 page images and the general Alexandrinus witness markings are now checked in a first pass; individual Greek letters, exact bracket spans, secondary witnesses and complete source transcription still require a separate detailed check. Reader note `GEN-001-SRC-001` lives in [translation chapter 1](../../../../translation/ot/GEN/001.json) and [chapter 1 notes](../../../../notes/ot/GEN/001.md).
 - **Text status:** no Greek transcription imported, and no rights-validated page-aligned transcription checksum. The [provisional English working draft of all 31 verses of Genesis 1](../../../../translation/ot/GEN/001.json) is **not** a verified or approved chapter; no ancient Greek source text has been imported.
+
+## Original 1887 page images checked — 2026-11-12
+
+**Source provider actually consulted:** Christian Classics Ethereal Library (photographic images of Swete's **1887 first edition**, identified by its title page). The original printed Genesis chapter 1 appears on three pages:
+
+1. Printed **p. 1** (Genesis 1:1–14 begins): https://ccel.org/ccel/swete/lxx1/lxx1/png/0029=1.png
+2. Printed **p. 2** (Genesis 1:14 continues through 1:29 begins): https://ccel.org/ccel/swete/lxx1/lxx1/png/0030=2.png
+3. Printed **p. 3** (Genesis 1:29 continues through 1:31): https://ccel.org/ccel/swete/lxx1/lxx1/png/0031=3.png
+
+**First-pass findings:** The Greek at 1:8 contains the divine “good” statement. Swete's **original** apparatus says bracketed parts of Genesis **1:20–25** (printed p. 2) and **1:29–2:3** (printed p. 3) are missing from surviving Codex Alexandrinus; his edited Greek supplies the printed bracketed words. See [31-verse audit with exact links and remaining checks](../../../../notes/ot/GEN/001.source-audit.md).
+
+**Limits:** This is the **first-pass photographic Greek-to-English semantic check**. It **does not** establish a complete original Greek transcription, complete word-level bracket map or independent second pass. Do not change `approved_for_reuse=false` merely because public-domain pages have been inspected. Do not import digital Greek sourced from later printings or unverified third parties.
 
 ## Whole-chapter research flags
 
-- **GEN-001-ED-008 (Greek reading of the second day):** The provisional English at 1:8 includes “God saw that it was good,” corresponding to a known Septuagint Greek expression. This is **not** based on any Hebrew comparison. Verify exact first-edition Swete 1887 wording and manuscript marks before marking it source-checked.
-- **GEN-001-ED-BRK (later-edition bracket reports):** A modern electronic “Swete” may reflect a **later printing**, not the 1887 first edition. Its square-bracket locations or restored words are **not accepted as verified 1887 readings**. Examine the original first-edition printed pages and edition's own editorial explanation before drawing any verse-specific inference. Details: [Genesis 1 chapter research](../../../../notes/ot/GEN/001.md).
+- **GEN-001-ED-008 (Greek reading of the second day):** The provisional English at 1:8 includes “God saw that it was good,” and the **1887 original printed p. 1 visibly confirms this Greek phrase**. This is a Greek original-edition reading, not a Hebrew comparison. Its full diplomatic source transcription remains pending.
+- **GEN-001-ED-BRK (later-edition bracket reports):** A modern electronic “Swete” may reflect a **later printing**, not the 1887 first edition. Its bracket locations should not be silently assumed to match 1887. **We now have direct first-edition evidence:** printed p. 2 confirms lost portions in A within 1:20–25, and printed p. 3 confirms lost portions within 1:29–2:3. Exact word-level brackets and supporting alternate witnesses still require checking. Details: [Genesis 1 chapter research](../../../../notes/ot/GEN/001.md).
 - **English draft complete ≠ Greek source transcription complete.** The current 31-verse English chapter is provisional; no underlying Greek diplomatic file has passed intake.
 
 ## Genesis 1 — work not yet completed
 
 - [x] Confirm first-edition volume identity, year, bibliographic metadata, and U.S. public-domain rationale; log catalog-level verification in the source register.
-- [ ] Confirm the original 1887 volume scan, physical pages, and chapter boundaries.
+- [x] Confirm the original **1887 first-edition printed page images 1–3** and chapter boundaries from CCEL and catalog them in [verse-by-verse first-pass audit](../../../../notes/ot/GEN/001.source-audit.md).
 - [ ] Record exact Greek verse/page mapping and which ancient manuscript evidence underlies the printed passage; do not overstate unresolved witness details.
 - [ ] Create an original transcription of Genesis 1 and verify it against the page images, including accents and breathings.
 - [ ] Record reuse verification and provenance in `docs/SOURCE_REGISTER.csv` before source-text import.
