@@ -51,6 +51,7 @@ This disclaimer applies to this repository and should accompany future print, di
 - [Orthodox and Protestant Greek-to-English translation comparisons](docs/ORTHODOX_PROTESTANT_TRANSLATION_COMPARISONS.md)
 - [Apostolic Fathers primary-source policy](docs/APOSTOLIC_FATHERS_SOURCES.md)
 - [Why Swete? Source origin and rationale](docs/SWETE_SOURCE_BACKGROUND.md)
+- [Greek Septuagint editions considered and reuse assessment](docs/SEPTUAGINT_SOURCE_COMPARISON.md)
 - [Source-text workspace and intake plan](sources/README.md)
 - [Publishing and distribution strategy](docs/PUBLISHING_DISTRIBUTION.md)
 - [Roadmap](docs/ROADMAP.md)

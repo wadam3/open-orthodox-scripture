@@ -4,6 +4,7 @@ The Old Testament source tradition is the Greek Septuagint. The proposed transla
 
 - [Greek source workspace](greek/README.md)
 - [Provisional Genesis source decision](../../docs/SEPTUAGINT_SOURCE_DECISION.md)
+- [Greek Septuagint editions considered (source and rights comparison)](../../docs/SEPTUAGINT_SOURCE_COMPARISON.md)
 - [Historical source background](../../docs/SWETE_SOURCE_BACKGROUND.md)
 - [Source register](../../docs/SOURCE_REGISTER.csv)
 

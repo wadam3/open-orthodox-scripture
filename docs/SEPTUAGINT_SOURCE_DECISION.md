@@ -2,6 +2,8 @@
 
 For a focused explanation of **who Swete was, how the three-volume Greek edition was assembled, why we selected it provisionally, and its limitations**, see [Why Swete? Historical origin and rationale](SWETE_SOURCE_BACKGROUND.md).
 
+For a formal, rights-conscious comparison of **all four Greek Septuagint edition families we considered**—Swete, Rahlfs–Hanhart, Göttingen, and the Church of Greece—see [Greek Septuagint source edition comparison](SEPTUAGINT_SOURCE_COMPARISON.md). The three alternatives are not approved as copyable source texts.
+
 ## Working base for Genesis 1
 
 **Select for the first internal drafting pilot:** Henry Barclay Swete (ed.), *The Old Testament in Greek According to the Septuagint*, **volume I, first edition (Cambridge University Press, 1887)**, Genesis. The precise base is the historical 1887 printing, **not** a modern reprint, licensed machine-readable transcription, or a claim of official Church approval.

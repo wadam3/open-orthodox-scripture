@@ -92,6 +92,8 @@ Examples raised during planning include the **Tower of Babel** narrative, **the 
 - **Still to do:** Establish a concise source-record and footnote format for the book-specific Genesis notes.
 - **Still to do:** After the provisional full-Bible translation, submit source fidelity and Orthodox-usage questions for qualified independent human review.
 
+For the other Greek source editions considered and why they were not selected for text import, see [Septuagint source-edition comparison](SEPTUAGINT_SOURCE_COMPARISON.md).
+
 See [Genesis source decision](SEPTUAGINT_SOURCE_DECISION.md), [translation protocol](TRANSLATION_PROTOCOL.md), and [Genesis working notes](../notes/ot/GEN/README.md). This document records rationale, **not** a claim that Genesis text has been imported or translated.
 
 ## Historical and scholarly references (identification, not copied source material)

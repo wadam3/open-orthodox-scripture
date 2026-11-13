@@ -24,7 +24,7 @@ Record what has actually been agreed, distinguish proposals from verified source
 | English register | Traditional versus contemporary style | Undecided |
 | Orthodox book production order | Approved: 49 main Old Testament workspaces in the existing index order, then 4 Maccabees appendix, then 27 New Testament books; finish one provisional book before starting the next. See [book order](BOOK_ORDER_AND_WORKFLOW.md) and [ancient alternatives](ANCIENT_BOOK_ORDER_COMPARISON.md). | Agreed editorial production order (2026-11-12), not universal ancient canon |
 | Ancient order evidence and unresolved supplementary placement | Swete's 1900 comparative tables for Vaticanus, Alexandrinus and Church lists; unresolved Prayer of Manasseh/Odes, Esdras split, Greek Daniel/Esther source mappings | Alternatives documented; mappings open |
-| Greek Septuagint edition | Exact edition, usage rights, and provenance | Open |
+| Greek Septuagint edition | **Swete, Volume I, first edition (1887)** is the provisional Genesis 1 source; independently verify printed pages, text provenance, and transcription before import. Rahlfs–Hanhart, Göttingen, and Church of Greece editions are **considered but not approved as copyable source texts**. See [edition comparison](SEPTUAGINT_SOURCE_COMPARISON.md). | Provisional source chosen; intake verification open |
 | Greek NT source | Choose and rights-check later | Open |
 | Content license | CC BY 4.0 for original Scripture/notes/audio; commercial use with attribution | Preferred; formal ratification pending |
 | Code license | MIT | Preferred; formal ratification pending |
