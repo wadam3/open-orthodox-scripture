@@ -10,6 +10,14 @@ After the full provisional draft has been assembled, contribution opportunities 
 
 Contributors do **not** need to share every future publishing ambition; technical maintainers do not have to be Orthodox. Qualified Orthodox theological sign-off is a distinct editorial role, not granted by GitHub access or popularity.
 
+## Flagged Greek verification — when contributor review opens
+
+The [canonical Greek source-verification protocol](docs/GREEK_SOURCE_VERIFICATION_PROTOCOL.md) now includes **exact, repeatable scoring formulas** for Greek letters and editorial brackets, a **strict <80% deferred-rigorous-verification flag**, and evidence requirements for independent verification. The [contributor verification workflow](docs/CONTRIBUTOR_GREEK_VERIFICATION_WORKFLOW.md) tells future reviewers how to select item IDs, examine the original historical photographs, recalculate scores, submit corrections, and preserve review history. Use the [Greek verification issue template](.github/ISSUE_TEMPLATE/greek_verification.md) and [pull-request template](.github/PULL_REQUEST_TEMPLATE.md) once external contributions are opened.
+
+Scores measure **editorial triage confidence, not statistical probabilities or approval**. A reviewer must not improve a score solely to remove a flag. An item may be individually verified only with two distinct documented direct-image readings and a defensible apparatus record. Historical flags and change history must remain auditable, even after a source reading is independently verified. An individually verified item does **not** make a chapter Church-approved.
+
+**Current Genesis baseline:** 34 of 41 bracket candidates and 7 of 56 letter-level verse candidates are below 80%; the rest still require routine checking. The validator and fixed tests are in the repository, but the real outside review program is postponed until the provisional Bible draft as described above.
+
 ## Future contribution rules
 
 1. Work on a documented issue in a topic branch and use the pull-request template.
