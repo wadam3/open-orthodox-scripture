@@ -6,6 +6,16 @@
 
 To make the Holy Scriptures and Orthodox Christian literature freely accessible to everyone through faithful translation, open collaboration, and unrestricted distribution.
 
+## How This Project Started
+
+As an Orthodox Christian, I wanted a simple way to choose an individual book of the Bible and listen to it during long drives.
+
+I searched the Bible-reading and audiobook apps I used, checked my favorite podcast app, and looked for a well-organized channel on the streaming services I used. I couldn't find the listening experience I was looking for.
+
+That personal need inspired **Open Orthodox Library**: an independent experiment to make Scripture easier for everyone to access, with free text and audio, and print editions as well.
+
+The project was inspired by my personal experience. It is not affiliated with, endorsed by, or approved by any Orthodox Church.
+
 ## Independence and ecclesiastical-status disclaimer
 
 > Open Orthodox Library is an independent publishing initiative. It is not affiliated with, sponsored by, endorsed by, or officially approved by the Eastern Orthodox Church, any Orthodox jurisdiction, diocese, or ecclesiastical authority.
