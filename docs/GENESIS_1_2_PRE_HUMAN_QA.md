@@ -51,6 +51,14 @@ These are **source-informed AI translation decisions** with original-page eviden
 
 **Human review intentionally deferred by project policy:** qualified Greek, Orthodox, editorial and rights/publication sign-offs occur after the provisional full Bible draft. No one should manufacture their identities or imply an ecclesiastical endorsement. The technical blockers above are distinct from that future human stage; simply calling those blockers “human review” would misrepresent current source verification.
 
+## Additional pre-human evidence checkpoint — 2026-11-12
+
+A documented [confidence-rating procedure](GENESIS_BRACKET_CONFIDENCE_METHOD.md) has now been applied to **41 original-image bracket candidates** in the [1887 p. 2 register](../notes/ot/GEN/p2-1887-bracket-candidates.json) and [p. 3 register](../notes/ot/GEN/p3-1887-bracket-candidates.json). Each entry includes an **estimated percentage**, formula inputs, local Greek contextual check, and plain-language reason; all remain marked **not certified**. Scores range from **35% to 85%** under the scoring rubric, which deliberately caps possible results below 100%. They are **subjective editorial confidence estimates, not calibrated probabilities** or a basis for silently accepting an uncertain bracket.
+
+A separate [ordinary-Greek Unicode-readiness report](../notes/ot/GEN/001-002.unicode-readiness.md) checked all **56 working Greek verse lines** for NFC normalization, Greek-script presence, replacement/control characters and Latin-character contamination, with **no such encoding problems found**. It enumerates **44 verses without the recorded Alexandrinus bracket restorations**, separately from the **12** verses in the affected ranges. **Crucial limitation:** that report did not directly compare all Greek letters, breathing marks, accents or punctuation against a magnified first-edition photograph. Source-level letter-by-letter proofing remains **0 of 56 completed**, and independent qualified source certification remains open.
+
+**Result:** Broader technical validation and transparently scored bracket hypotheses are now documented; **neither chapter has yet satisfied the original-image letter proofing or independent Greek accuracy gate**.
+
 ## Reproducible commands and artifacts
 
 ```bash
