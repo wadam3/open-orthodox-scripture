@@ -47,6 +47,7 @@ This disclaimer applies to this repository and should accompany future print, di
 
 - [Translation protocol](docs/TRANSLATION_PROTOCOL.md)
 - [Why Swete? Source origin and rationale](docs/SWETE_SOURCE_BACKGROUND.md)
+- [Source-text workspace and intake plan](sources/README.md)
 - [Publishing and distribution strategy](docs/PUBLISHING_DISTRIBUTION.md)
 - [Roadmap](docs/ROADMAP.md)
 - [Decision register](docs/DECISIONS.md)
