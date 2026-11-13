@@ -90,6 +90,15 @@
       "text": "The first-edition Greek says καὶ ἔπλασεν ὁ θεὸς ἔτι, including ἔτι ('also' or 'further'). The initial provisional English omitted this adverb; 'also' was restored in the verse and pilot narration on the next AI-assisted semantic check.",
       "linked_research": "notes/ot/GEN/002.source-audit.md",
       "audio_policy": "Keep this record in text notes; do not read inline in the chapter."
+    },
+    {
+      "id": "GEN-002-TRN-009",
+      "type": "translation_correction",
+      "placement": "verse",
+      "verse": 9,
+      "text": "The first-edition printed Greek has καὶ ἐξανέτειλεν ὁ θεὸς ἔτι ἐκ τῆς γῆς; the adverb ἔτι is reflected as 'also' in the updated English. This is an AI-assisted image-and-meaning observation, not a complete diplomatic manuscript certification.",
+      "linked_research": "notes/ot/GEN/002.source-audit.md",
+      "audio_policy": "Text note only."
     }
   ],
   "verses": [
@@ -127,7 +136,7 @@
     },
     {
       "verse": 9,
-      "text": "And God caused to grow from the earth every tree beautiful to look at and good for food, and the tree of life in the midst of paradise, and the tree of knowing good and evil."
+      "text": "And God also caused to grow from the earth every tree beautiful to look at and good for food, and the tree of life in the midst of paradise, and the tree of knowing good and evil."
     },
     {
       "verse": 10,
@@ -194,7 +203,7 @@
       "text": "And both were naked, Adam and his wife, and they were not ashamed."
     }
   ],
-  "notes": "Provisional 25-verse original English draft aligned by verse to Swete's 1887 printed pp. 3–4; see notes/ot/GEN/002.md for source images, LXX-specific reading in 2:2, editorial brackets into 2:3, lexical/name decisions, and pending checks. Not an independent certified source transcription. No modern licensed English translation copied. Editorial 2:1 improvement: omitted the unsupported English opening 'In the end'; the Greek starts with καὶ συνετελέσθησαν. The selected 1887 original's 2:2 sixth-day wording is retained. Second AI-assisted direct-image semantic audit: Genesis 2:19 corrected to include Greek ἔτι ('also'); see notes/ot/GEN/002.source-audit.md. Not a diplomatic source certification or independent human review.",
+  "notes": "Provisional 25-verse original English draft aligned by verse to Swete's 1887 printed pp. 3–4; see notes/ot/GEN/002.md for source images, LXX-specific reading in 2:2, editorial brackets into 2:3, lexical/name decisions, and pending checks. Not an independent certified source transcription. No modern licensed English translation copied. Editorial 2:1 improvement: omitted the unsupported English opening 'In the end'; the Greek starts with καὶ συνετελέσθησαν. The selected 1887 original's 2:2 sixth-day wording is retained. Second AI-assisted direct-image semantic audit: Genesis 2:19 corrected to include Greek ἔτι ('also'); see notes/ot/GEN/002.source-audit.md. Not a diplomatic source certification or independent human review. Further AI-assisted Greek image spot-check: 2:9 retains ἔτι ('also') omitted in the first English pilot, with accompanying narration update. Chapter remains draft.",
   "narration": {
     "working_script": "audio/scripts/GEN/002.narration.txt",
     "status": "Provisional text-only pilot mechanically checked against all 25 JSON verses in order; not spoken, independently accuracy-reviewed, or approved for distribution",
