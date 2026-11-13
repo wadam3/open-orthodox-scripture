@@ -38,7 +38,7 @@ Each verse's entry must include: first-edition page URL(s); diagnostic comparato
 - **1:31**: the digital transcription repeats `ἡμέρα` at the close, unlike the photographed 1887 page. Do not add a second word.
 - **2:9**: the later electronic text uses a different inflection in the knowledge-tree wording; the first-edition photograph, not the 1901 form, governs the original English draft.
 - **2:11**: river/land spelling and a small linking phrase differ; read `Εὐιλάτ` and `ἐκεῖ οὗ` from the 1887 photo, and document any exact accent uncertainty.
-- **2:17**: the later line has `φάγησθε` whereas the working 1887-based text reads `φάγητε`; this may be a real edition difference or an electronic error. **Do not change either form until original-image recheck.**
+- **2:17**: **Resolved targeted Greek word discrepancy**—the photographed 1887 page 4 reads `φάγησθε`; the working line previously had `φάγητε` and was corrected. Later electronic text now matches the 96 normalized base letters exactly. This targeted correction does not certify the whole verse's accents, punctuation or brackets.
 - **2:19–20**: the 1901 digital line has several evident possible encoding errors and an inflection difference; the actual 1887 p. 4 photograph remains controlling.
 - **2:25**: the digital chapter/verse segmentation is corrupted; direct comparison to its “2:25” cannot be used for confidence scoring, even though our original 1887 page visibly includes the verse.
 
