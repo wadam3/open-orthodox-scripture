@@ -19,7 +19,22 @@
       "after": " ἐπὶ τῆς γῆς",
       "confidence": "high",
       "original_square_brackets_certified": false,
-      "comment": "midword restoration"
+      "comment": "midword restoration",
+      "editorial_confidence_percent": 85,
+      "confidence_method": "docs/GENESIS_BRACKET_CONFIDENCE_METHOD.md",
+      "confidence_input": {
+        "visual_category": "high",
+        "base_points": 80,
+        "local_working_greek_context_matches": true,
+        "context_adjustment": 5,
+        "verse_or_print_line_wrap": false,
+        "wrap_adjustment": 0,
+        "earlier_conflicting_candidate": false,
+        "conflict_adjustment": 0,
+        "score_cap_percent": 90
+      },
+      "confidence_label": "reasonably supported working reading",
+      "confidence_reasoning": "1887 photograph assessed high (base 80). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 85% (cap 90%); not a calibrated probability or certified 1887 transcript. midword restoration"
     },
     {
       "id": "GEN-001-020-B",
@@ -31,7 +46,22 @@
       "after": " οὐρανοῦ·",
       "confidence": "high",
       "original_square_brackets_certified": false,
-      "comment": "midword restoration of second word"
+      "comment": "midword restoration of second word",
+      "editorial_confidence_percent": 85,
+      "confidence_method": "docs/GENESIS_BRACKET_CONFIDENCE_METHOD.md",
+      "confidence_input": {
+        "visual_category": "high",
+        "base_points": 80,
+        "local_working_greek_context_matches": true,
+        "context_adjustment": 5,
+        "verse_or_print_line_wrap": false,
+        "wrap_adjustment": 0,
+        "earlier_conflicting_candidate": false,
+        "conflict_adjustment": 0,
+        "score_cap_percent": 90
+      },
+      "confidence_label": "reasonably supported working reading",
+      "confidence_reasoning": "1887 photograph assessed high (base 80). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 85% (cap 90%); not a calibrated probability or certified 1887 transcript. midword restoration of second word"
     },
     {
       "id": "GEN-001-021-A",
@@ -43,7 +73,22 @@
       "after": "γάλα καὶ πᾶσαν",
       "confidence": "high",
       "original_square_brackets_certified": false,
-      "comment": "earlier whole-word bracket withdrawn; end inside μεγάλα"
+      "comment": "earlier whole-word bracket withdrawn; end inside μεγάλα",
+      "editorial_confidence_percent": 75,
+      "confidence_method": "docs/GENESIS_BRACKET_CONFIDENCE_METHOD.md",
+      "confidence_input": {
+        "visual_category": "high",
+        "base_points": 80,
+        "local_working_greek_context_matches": true,
+        "context_adjustment": 5,
+        "verse_or_print_line_wrap": false,
+        "wrap_adjustment": 0,
+        "earlier_conflicting_candidate": true,
+        "conflict_adjustment": -10,
+        "score_cap_percent": 90
+      },
+      "confidence_label": "plausible; enlargement recommended",
+      "confidence_reasoning": "1887 photograph assessed high (base 80). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. The candidate corrects/replaces an earlier incompatible bracket reading (-10). Subjective editorial score 75% (cap 90%); not a calibrated probability or certified 1887 transcript. earlier whole-word bracket withdrawn; end inside μεγάλα"
     },
     {
       "id": "GEN-001-021-B",
@@ -55,7 +100,22 @@
       "after": "τῶν, ἃ ἐξήγαγεν",
       "confidence": "medium",
       "original_square_brackets_certified": false,
-      "comment": "check opening after noun and exact word form"
+      "comment": "check opening after noun and exact word form",
+      "editorial_confidence_percent": 70,
+      "confidence_method": "docs/GENESIS_BRACKET_CONFIDENCE_METHOD.md",
+      "confidence_input": {
+        "visual_category": "medium",
+        "base_points": 65,
+        "local_working_greek_context_matches": true,
+        "context_adjustment": 5,
+        "verse_or_print_line_wrap": false,
+        "wrap_adjustment": 0,
+        "earlier_conflicting_candidate": false,
+        "conflict_adjustment": 0,
+        "score_cap_percent": 90
+      },
+      "confidence_label": "plausible; enlargement recommended",
+      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 70% (cap 90%); not a calibrated probability or certified 1887 transcript. check opening after noun and exact word form"
     },
     {
       "id": "GEN-001-021-C",
@@ -67,7 +127,22 @@
       "after": ", καὶ πᾶν",
       "confidence": "medium",
       "original_square_brackets_certified": false,
-      "comment": "long restored clause"
+      "comment": "long restored clause",
+      "editorial_confidence_percent": 70,
+      "confidence_method": "docs/GENESIS_BRACKET_CONFIDENCE_METHOD.md",
+      "confidence_input": {
+        "visual_category": "medium",
+        "base_points": 65,
+        "local_working_greek_context_matches": true,
+        "context_adjustment": 5,
+        "verse_or_print_line_wrap": false,
+        "wrap_adjustment": 0,
+        "earlier_conflicting_candidate": false,
+        "conflict_adjustment": 0,
+        "score_cap_percent": 90
+      },
+      "confidence_label": "plausible; enlargement recommended",
+      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 70% (cap 90%); not a calibrated probability or certified 1887 transcript. long restored clause"
     },
     {
       "id": "GEN-001-021-D",
@@ -79,7 +154,22 @@
       "after": " κατὰ γένος",
       "confidence": "medium",
       "original_square_brackets_certified": false,
-      "comment": "intra-word restoration"
+      "comment": "intra-word restoration",
+      "editorial_confidence_percent": 70,
+      "confidence_method": "docs/GENESIS_BRACKET_CONFIDENCE_METHOD.md",
+      "confidence_input": {
+        "visual_category": "medium",
+        "base_points": 65,
+        "local_working_greek_context_matches": true,
+        "context_adjustment": 5,
+        "verse_or_print_line_wrap": false,
+        "wrap_adjustment": 0,
+        "earlier_conflicting_candidate": false,
+        "conflict_adjustment": 0,
+        "score_cap_percent": 90
+      },
+      "confidence_label": "plausible; enlargement recommended",
+      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 70% (cap 90%); not a calibrated probability or certified 1887 transcript. intra-word restoration"
     },
     {
       "id": "GEN-001-021-E",
@@ -91,7 +181,22 @@
       "after": ".",
       "confidence": "medium",
       "original_square_brackets_certified": false,
-      "comment": "verse close; check punctuation"
+      "comment": "verse close; check punctuation",
+      "editorial_confidence_percent": 70,
+      "confidence_method": "docs/GENESIS_BRACKET_CONFIDENCE_METHOD.md",
+      "confidence_input": {
+        "visual_category": "medium",
+        "base_points": 65,
+        "local_working_greek_context_matches": true,
+        "context_adjustment": 5,
+        "verse_or_print_line_wrap": false,
+        "wrap_adjustment": 0,
+        "earlier_conflicting_candidate": false,
+        "conflict_adjustment": 0,
+        "score_cap_percent": 90
+      },
+      "confidence_label": "plausible; enlargement recommended",
+      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 70% (cap 90%); not a calibrated probability or certified 1887 transcript. verse close; check punctuation"
     },
     {
       "id": "GEN-001-022-A",
@@ -103,7 +208,22 @@
       "after": " Αὐξάνεσθε",
       "confidence": "high",
       "original_square_brackets_certified": false,
-      "comment": "bracket starts inside θεός"
+      "comment": "bracket starts inside θεός",
+      "editorial_confidence_percent": 75,
+      "confidence_method": "docs/GENESIS_BRACKET_CONFIDENCE_METHOD.md",
+      "confidence_input": {
+        "visual_category": "high",
+        "base_points": 80,
+        "local_working_greek_context_matches": true,
+        "context_adjustment": 5,
+        "verse_or_print_line_wrap": false,
+        "wrap_adjustment": 0,
+        "earlier_conflicting_candidate": true,
+        "conflict_adjustment": -10,
+        "score_cap_percent": 90
+      },
+      "confidence_label": "plausible; enlargement recommended",
+      "confidence_reasoning": "1887 photograph assessed high (base 80). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. The candidate corrects/replaces an earlier incompatible bracket reading (-10). Subjective editorial score 75% (cap 90%); not a calibrated probability or certified 1887 transcript. bracket starts inside θεός"
     },
     {
       "id": "GEN-001-022-B",
@@ -115,7 +235,22 @@
       "after": " πληρώσατε",
       "confidence": "medium",
       "original_square_brackets_certified": false,
-      "comment": "full punctuation not independently confirmed"
+      "comment": "full punctuation not independently confirmed",
+      "editorial_confidence_percent": 70,
+      "confidence_method": "docs/GENESIS_BRACKET_CONFIDENCE_METHOD.md",
+      "confidence_input": {
+        "visual_category": "medium",
+        "base_points": 65,
+        "local_working_greek_context_matches": true,
+        "context_adjustment": 5,
+        "verse_or_print_line_wrap": false,
+        "wrap_adjustment": 0,
+        "earlier_conflicting_candidate": false,
+        "conflict_adjustment": 0,
+        "score_cap_percent": 90
+      },
+      "confidence_label": "plausible; enlargement recommended",
+      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 70% (cap 90%); not a calibrated probability or certified 1887 transcript. full punctuation not independently confirmed"
     },
     {
       "id": "GEN-001-022-C",
@@ -127,7 +262,22 @@
       "after": "λάσσαις, καὶ",
       "confidence": "medium",
       "original_square_brackets_certified": false,
-      "comment": "bracket closes within θαλάσσαις"
+      "comment": "bracket closes within θαλάσσαις",
+      "editorial_confidence_percent": 70,
+      "confidence_method": "docs/GENESIS_BRACKET_CONFIDENCE_METHOD.md",
+      "confidence_input": {
+        "visual_category": "medium",
+        "base_points": 65,
+        "local_working_greek_context_matches": true,
+        "context_adjustment": 5,
+        "verse_or_print_line_wrap": false,
+        "wrap_adjustment": 0,
+        "earlier_conflicting_candidate": false,
+        "conflict_adjustment": 0,
+        "score_cap_percent": 90
+      },
+      "confidence_label": "plausible; enlargement recommended",
+      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 70% (cap 90%); not a calibrated probability or certified 1887 transcript. bracket closes within θαλάσσαις"
     },
     {
       "id": "GEN-001-022-D",
@@ -139,7 +289,22 @@
       "after": "νέσθωσαν ἐπὶ",
       "confidence": "medium",
       "original_square_brackets_certified": false,
-      "comment": "midword twice"
+      "comment": "midword twice",
+      "editorial_confidence_percent": 70,
+      "confidence_method": "docs/GENESIS_BRACKET_CONFIDENCE_METHOD.md",
+      "confidence_input": {
+        "visual_category": "medium",
+        "base_points": 65,
+        "local_working_greek_context_matches": true,
+        "context_adjustment": 5,
+        "verse_or_print_line_wrap": false,
+        "wrap_adjustment": 0,
+        "earlier_conflicting_candidate": false,
+        "conflict_adjustment": 0,
+        "score_cap_percent": 90
+      },
+      "confidence_label": "plausible; enlargement recommended",
+      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 70% (cap 90%); not a calibrated probability or certified 1887 transcript. midword twice"
     },
     {
       "id": "GEN-001-022-023-E",
@@ -151,7 +316,22 @@
       "after": "ένετο ἑσπέρα",
       "confidence": "medium",
       "original_square_brackets_certified": false,
-      "comment": "bracket opens before end of verse 22 and closes inside 1:23 first verb; verse numeral is non-text"
+      "comment": "bracket opens before end of verse 22 and closes inside 1:23 first verb; verse numeral is non-text",
+      "editorial_confidence_percent": 55,
+      "confidence_method": "docs/GENESIS_BRACKET_CONFIDENCE_METHOD.md",
+      "confidence_input": {
+        "visual_category": "medium",
+        "base_points": 65,
+        "local_working_greek_context_matches": true,
+        "context_adjustment": 5,
+        "verse_or_print_line_wrap": true,
+        "wrap_adjustment": -5,
+        "earlier_conflicting_candidate": true,
+        "conflict_adjustment": -10,
+        "score_cap_percent": 90
+      },
+      "confidence_label": "low confidence; no source promotion",
+      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. A verse boundary or printed line-wrap complicates the bracket (-5). The candidate corrects/replaces an earlier incompatible bracket reading (-10). Subjective editorial score 55% (cap 90%); not a calibrated probability or certified 1887 transcript. bracket opens before end of verse 22 and closes inside 1:23 first verb; verse numeral is non-text"
     },
     {
       "id": "GEN-001-023-F",
@@ -163,7 +343,22 @@
       "after": " ἡμέρα πέμπτη",
       "confidence": "low",
       "original_square_brackets_certified": false,
-      "comment": "the print wraps the verb at line break; hyphen is line layout and accent/punctuation need checking"
+      "comment": "the print wraps the verb at line break; hyphen is line layout and accent/punctuation need checking",
+      "editorial_confidence_percent": 35,
+      "confidence_method": "docs/GENESIS_BRACKET_CONFIDENCE_METHOD.md",
+      "confidence_input": {
+        "visual_category": "low",
+        "base_points": 45,
+        "local_working_greek_context_matches": true,
+        "context_adjustment": 5,
+        "verse_or_print_line_wrap": true,
+        "wrap_adjustment": -5,
+        "earlier_conflicting_candidate": true,
+        "conflict_adjustment": -10,
+        "score_cap_percent": 90
+      },
+      "confidence_label": "unresolved",
+      "confidence_reasoning": "1887 photograph assessed low (base 45). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. A verse boundary or printed line-wrap complicates the bracket (-5). The candidate corrects/replaces an earlier incompatible bracket reading (-10). Subjective editorial score 35% (cap 90%); not a calibrated probability or certified 1887 transcript. the print wraps the verb at line break; hyphen is line layout and accent/punctuation need checking"
     },
     {
       "id": "GEN-001-024-A",
@@ -175,7 +370,22 @@
       "after": " ζῶσαν",
       "confidence": "medium",
       "original_square_brackets_certified": false,
-      "comment": "bracket starts inside command"
+      "comment": "bracket starts inside command",
+      "editorial_confidence_percent": 70,
+      "confidence_method": "docs/GENESIS_BRACKET_CONFIDENCE_METHOD.md",
+      "confidence_input": {
+        "visual_category": "medium",
+        "base_points": 65,
+        "local_working_greek_context_matches": true,
+        "context_adjustment": 5,
+        "verse_or_print_line_wrap": false,
+        "wrap_adjustment": 0,
+        "earlier_conflicting_candidate": false,
+        "conflict_adjustment": 0,
+        "score_cap_percent": 90
+      },
+      "confidence_label": "plausible; enlargement recommended",
+      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 70% (cap 90%); not a calibrated probability or certified 1887 transcript. bracket starts inside command"
     },
     {
       "id": "GEN-001-024-B",
@@ -187,7 +397,22 @@
       "after": " καὶ ἑρπετὰ",
       "confidence": "medium",
       "original_square_brackets_certified": false,
-      "comment": "whole-word supplement"
+      "comment": "whole-word supplement",
+      "editorial_confidence_percent": 70,
+      "confidence_method": "docs/GENESIS_BRACKET_CONFIDENCE_METHOD.md",
+      "confidence_input": {
+        "visual_category": "medium",
+        "base_points": 65,
+        "local_working_greek_context_matches": true,
+        "context_adjustment": 5,
+        "verse_or_print_line_wrap": false,
+        "wrap_adjustment": 0,
+        "earlier_conflicting_candidate": false,
+        "conflict_adjustment": 0,
+        "score_cap_percent": 90
+      },
+      "confidence_label": "plausible; enlargement recommended",
+      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 70% (cap 90%); not a calibrated probability or certified 1887 transcript. whole-word supplement"
     },
     {
       "id": "GEN-001-024-C",
@@ -199,7 +424,22 @@
       "after": " γένος",
       "confidence": "medium",
       "original_square_brackets_certified": false,
-      "comment": "split noun, restored location phrase"
+      "comment": "split noun, restored location phrase",
+      "editorial_confidence_percent": 70,
+      "confidence_method": "docs/GENESIS_BRACKET_CONFIDENCE_METHOD.md",
+      "confidence_input": {
+        "visual_category": "medium",
+        "base_points": 65,
+        "local_working_greek_context_matches": true,
+        "context_adjustment": 5,
+        "verse_or_print_line_wrap": false,
+        "wrap_adjustment": 0,
+        "earlier_conflicting_candidate": false,
+        "conflict_adjustment": 0,
+        "score_cap_percent": 90
+      },
+      "confidence_label": "plausible; enlargement recommended",
+      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 70% (cap 90%); not a calibrated probability or certified 1887 transcript. split noun, restored location phrase"
     },
     {
       "id": "GEN-001-024-D",
@@ -211,7 +451,22 @@
       "after": ".",
       "confidence": "medium",
       "original_square_brackets_certified": false,
-      "comment": "end of command"
+      "comment": "end of command",
+      "editorial_confidence_percent": 70,
+      "confidence_method": "docs/GENESIS_BRACKET_CONFIDENCE_METHOD.md",
+      "confidence_input": {
+        "visual_category": "medium",
+        "base_points": 65,
+        "local_working_greek_context_matches": true,
+        "context_adjustment": 5,
+        "verse_or_print_line_wrap": false,
+        "wrap_adjustment": 0,
+        "earlier_conflicting_candidate": false,
+        "conflict_adjustment": 0,
+        "score_cap_percent": 90
+      },
+      "confidence_label": "plausible; enlargement recommended",
+      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 70% (cap 90%); not a calibrated probability or certified 1887 transcript. end of command"
     },
     {
       "id": "GEN-001-025-A",
@@ -223,7 +478,22 @@
       "after": " κατὰ γένος",
       "confidence": "medium",
       "original_square_brackets_certified": false,
-      "comment": "restored animal class"
+      "comment": "restored animal class",
+      "editorial_confidence_percent": 70,
+      "confidence_method": "docs/GENESIS_BRACKET_CONFIDENCE_METHOD.md",
+      "confidence_input": {
+        "visual_category": "medium",
+        "base_points": 65,
+        "local_working_greek_context_matches": true,
+        "context_adjustment": 5,
+        "verse_or_print_line_wrap": false,
+        "wrap_adjustment": 0,
+        "earlier_conflicting_candidate": false,
+        "conflict_adjustment": 0,
+        "score_cap_percent": 90
+      },
+      "confidence_label": "plausible; enlargement recommended",
+      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 70% (cap 90%); not a calibrated probability or certified 1887 transcript. restored animal class"
     },
     {
       "id": "GEN-001-025-B",
@@ -235,7 +505,22 @@
       "after": "νος καὶ πάντα",
       "confidence": "medium",
       "original_square_brackets_certified": false,
-      "comment": "partial word at both boundaries"
+      "comment": "partial word at both boundaries",
+      "editorial_confidence_percent": 60,
+      "confidence_method": "docs/GENESIS_BRACKET_CONFIDENCE_METHOD.md",
+      "confidence_input": {
+        "visual_category": "medium",
+        "base_points": 65,
+        "local_working_greek_context_matches": true,
+        "context_adjustment": 5,
+        "verse_or_print_line_wrap": false,
+        "wrap_adjustment": 0,
+        "earlier_conflicting_candidate": true,
+        "conflict_adjustment": -10,
+        "score_cap_percent": 90
+      },
+      "confidence_label": "low confidence; no source promotion",
+      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. The candidate corrects/replaces an earlier incompatible bracket reading (-10). Subjective editorial score 60% (cap 90%); not a calibrated probability or certified 1887 transcript. partial word at both boundaries"
     },
     {
       "id": "GEN-001-025-C",
@@ -247,7 +532,22 @@
       "after": " κατὰ γένος",
       "confidence": "medium",
       "original_square_brackets_certified": false,
-      "comment": "restoration within word"
+      "comment": "restoration within word",
+      "editorial_confidence_percent": 70,
+      "confidence_method": "docs/GENESIS_BRACKET_CONFIDENCE_METHOD.md",
+      "confidence_input": {
+        "visual_category": "medium",
+        "base_points": 65,
+        "local_working_greek_context_matches": true,
+        "context_adjustment": 5,
+        "verse_or_print_line_wrap": false,
+        "wrap_adjustment": 0,
+        "earlier_conflicting_candidate": false,
+        "conflict_adjustment": 0,
+        "score_cap_percent": 90
+      },
+      "confidence_label": "plausible; enlargement recommended",
+      "confidence_reasoning": "1887 photograph assessed medium (base 65). The before + proposed interior + after letters occur contiguously in the matching Greek working verse(s), ignoring accents and punctuation (+5); this is only internal consistency. Subjective editorial score 70% (cap 90%); not a calibrated probability or certified 1887 transcript. restoration within word"
     }
   ],
   "unresolved": [
@@ -255,5 +555,8 @@
     "Exact y-line, x-column coordinates for spans including Genesis 1:23 printed line wrap",
     "Check for additional brackets not captured in these observations",
     "Separate true independent reread"
-  ]
+  ],
+  "confidence_method": "docs/GENESIS_BRACKET_CONFIDENCE_METHOD.md",
+  "percentages_are": "Conservative heuristic editorial confidence in proposed original-photo bracket boundaries, not a statistically calibrated probability, source-letter certification, or correctness rate.",
+  "original_square_brackets_certified": false
 }
